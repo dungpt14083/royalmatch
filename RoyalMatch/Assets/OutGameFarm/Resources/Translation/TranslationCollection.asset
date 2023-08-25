@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c215dabb06490448bace53e1bf94d33, type: 3}
+  m_Name: TranslationCollection
+  m_EditorClassIdentifier: 
+  LanguageCode: English
+  Translations:
+  - Key: 0Speech0
+    Value: '"Welcome to Game XXX"'
+  - Key: 0Speech1
+    Value: '"Follow me"'
+  - Key: collection_quest_1_task_0
+    Value: '"Collect gatherable "'
+  - Key: collection_quest_2_task_0
+    Value: '"Build Ruin  "'

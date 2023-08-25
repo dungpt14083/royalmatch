@@ -1,0 +1,20 @@
+public enum ItemsTypes
+{
+    NONE = 0,
+    BLUE,
+    GREEN,
+    PINK,
+    RED,
+    YELLOW,
+    VERTICAL_STRIPPED,
+    HORIZONTAL_STRIPPED,
+    PACKAGE,
+    BOMB,
+    PROPELLER,
+    Egg,
+    Diamon,
+    Piggy,
+    PiggyHelmet,
+    Pumpkin,
+    Vase,
+}

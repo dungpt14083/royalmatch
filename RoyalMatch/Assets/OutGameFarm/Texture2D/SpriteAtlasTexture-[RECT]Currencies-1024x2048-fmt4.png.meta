@@ -1,0 +1,3919 @@
+fileFormatVersion: 2
+guid: a8bdd67d9631e0743a1cee9359f8d5c5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 99
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d109a51f718e817469c7dd8accb47002
+      internalID: 2080665676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1935
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceecb7f884bc2948973b8553be3eb80
+      internalID: -1719986366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1924
+        width: 112
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf6e13379fa2844ab1f3de9173d2f9
+      internalID: -1736030779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1924
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe19377ce1fbdc442ba1159037311adb
+      internalID: -1966956708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1924
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eae712a2cc656418c5bc2fe1907766
+      internalID: -2081622311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1870
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740b4420d21c9534fbfd76c92e0a5413
+      internalID: 1159513711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1862
+        width: 111
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d826e972c4c0c774aa7c29f8006bf5e8
+      internalID: 1681225103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1862
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa48a44ff7dd86e4aad4c9a625c54a62
+      internalID: -321084580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1847
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad55d8d453ce3a48a3eeaa4dd83265d
+      internalID: -1080289906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1835
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6913b9efe31f4a14baeb505abc5b6cd2
+      internalID: -152796092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1894
+        width: 108
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3629a508f51e0694fa2a9df474251981
+      internalID: 1370012332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_11
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1894
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87583c887ac20264facadbc3ca5edc51
+      internalID: 663830848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1785
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e45a1ad358e2c4e9a30ee0ba07e353
+      internalID: 1005345606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1774
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35534fd7f29954f408858a2ca8233db5
+      internalID: -84822190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1772
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0f73b293a0e1d48b01b196abe442f8
+      internalID: 64518663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1787
+        width: 114
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324e2ae513c55e4dab1ba2ac0b4af98
+      internalID: -352468055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1761
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe8a4a4c8258bd4d9f4e9dee4c3ea62
+      internalID: -579158915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1765
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e63a44034c4dc42b315c2b83c47415
+      internalID: -981222716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_18
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1764
+        width: 108
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42e8166ae2b0be4fbce634596e919ac
+      internalID: 858534575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1774
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fd24f40c1d2e24991c7c8594645a90
+      internalID: 738573275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_20
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1774
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5329ce09c1e32dc41a76c9c1f97f35c1
+      internalID: 1276186327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1703
+        width: 107
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156040f689314e24abf718b8bf773375
+      internalID: 432163140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1693
+        width: 104
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8785236439e1c7047b67c3545feab91e
+      internalID: -629450451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1669
+        width: 100
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99979bae1977954458905ad2ea01bec7
+      internalID: -1854843805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_24
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1669
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c9467efc6a3f4bace3a256ddac929
+      internalID: -1236675303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1669
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d31366cda0f9df41a577422083ea55f
+      internalID: 208753150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_26
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1656
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84b1d870baba79419c0450edd515f7f
+      internalID: 2026536322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1656
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e25bbb9852344cb23d595666cf5b4
+      internalID: -810547458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_28
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1634
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3affb817f2a6ae48ba05b065aa1d9de
+      internalID: -1242677436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_29
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1704
+        width: 110
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc99c517ac56144d8d48b287ae97de4
+      internalID: -20444486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1650
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0d113a5d1b3434eb924a9e829073f1
+      internalID: -68827769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1615
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1642ae7798d744e409a1750dabe3a1af
+      internalID: 1924405902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1615
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840905587af15e040bdcf4f76cbc1592
+      internalID: 1491591441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1589
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19470135d55120468d31edd2f80afcd
+      internalID: -479528433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1589
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e15fe3158ad024c9be4e018af1dc54
+      internalID: 741724225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_35
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1552
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c32a5d703600884292f6299b1443d83
+      internalID: -414892255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_36
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1634
+        width: 108
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eacdf9b1acb7444a0c6fe17458bc79
+      internalID: -1825710315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_37
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1580
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1029cf1858fcb42af3fb131f6ff506
+      internalID: 573151667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1534
+        width: 111
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5cf8e734bcdd84f8ba705ce73d19b6
+      internalID: 152109543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_39
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1524
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf08ffdb70cb154080c315ea54fe325
+      internalID: 970652880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_40
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1514
+        width: 115
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f721b858ec61042a5a9cfb674e20f2
+      internalID: -1192086170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_41
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1511
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188295764158cd547815d64b64125850
+      internalID: -1555696356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_42
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1554
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c3e02060806aa45a3209144c9128d5
+      internalID: 1474005888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_43
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1579
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2853faa93f3494fa7db1deb31d4178
+      internalID: -942388095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1427
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bd9387a47468743b54922e263d8d9d
+      internalID: -1793713019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_45
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1454
+        width: 106
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bd9e83180a8ea48aa8a396f5a07003
+      internalID: -1528406894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_46
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1461
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b59561ff09362458fe2d4c287b8d1c
+      internalID: -150795269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_47
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1484
+        width: 115
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243188fa6c53dc343b34a4e44dafc2af
+      internalID: -71647353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_48
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1510
+        width: 114
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ead17ae9bc096141b8b595e47f9663f
+      internalID: 419139280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1439
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73a04cb6d229b94aaa2d06731fdf69d
+      internalID: -922185252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1403
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fead7773bed7b4381c78f57ed225da
+      internalID: 27249446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_51
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1405
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca19f28127996d040ba73edcfaefb68d
+      internalID: 347076769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_52
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1405
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddf210ad01564140bc59d71b6003ea1
+      internalID: 1186341909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_53
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1392
+        width: 119
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba664a3bd58362040ac1f8b5b9d0c4d9
+      internalID: -1159574791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_54
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1362
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14ad46fe177b534c851d7bc4c06688c
+      internalID: -804396151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_55
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1393
+        width: 66
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4ff49816febbd428ad561c862f47f3
+      internalID: 240876554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1344
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc52f49ee30cb94faf8bef0a5aec9f8
+      internalID: -448626131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_57
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1337
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf600570dc9db94096131fcb194de89
+      internalID: 963948878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_58
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1326
+        width: 114
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1144b10adefa429d667cd9e5b2b69
+      internalID: 1283296752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_59
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1326
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f95fb97abb53048bb58baf324dd1dd
+      internalID: -1257115767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_60
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1314
+        width: 109
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58129b2af83864a45843e82da633fc8b
+      internalID: 236113085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_61
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1306
+        width: 102
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a188eaf3c815c4488f5a3d085cca629
+      internalID: 236512212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_62
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1275
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21948e47f68724643a861d185909b77f
+      internalID: 1696568559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_63
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1275
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa47a60b1e61a8144a1ef799f2afc591
+      internalID: -1176660727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_64
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1332
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548f297cb274b1e42879b2cddad4041f
+      internalID: 494927757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1227
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065a7bea228d1294ba890de81a1daba0
+      internalID: -40244836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_66
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1227
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71baff4363c8c6246bd5847300a1348d
+      internalID: 373968643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_67
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1227
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339aef0648cf74641a6a0b6d35db7a5f
+      internalID: -1406557427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_68
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1231
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368532e7a519e4f46b52d4101a3195f0
+      internalID: -1616773662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_69
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1231
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25cf919338f71d44981d8e56a345192
+      internalID: -394848873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_70
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1217
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267de56bd9041034eb08e437d0dda45b
+      internalID: -236293684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_71
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1180
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c85b753fd6fe43abc80bef43fa769
+      internalID: -47072466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_72
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1195
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1ea5480887f704388666209919437d
+      internalID: 1504115652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_73
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1219
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7622abb8770baef449b9387cd3bea4e8
+      internalID: 23745301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1137
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9b3c71f5c33f14c950f070b69307e1
+      internalID: 736348692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1131
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cb4218e3e2e134985bd0148b34a3ca
+      internalID: -178567381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_76
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1131
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d30e6dfcdda874daf5198ac3aed62a
+      internalID: -259232670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_77
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1136
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6939f65335684c742a83fcd5ab38cca9
+      internalID: 798631413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_78
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1136
+        width: 111
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff19f4d4984de774bac22db3ef4c9569
+      internalID: -1756518085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_79
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1107
+        width: 116
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694b5231c573c224789549162b6c23c7
+      internalID: 1852710027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_80
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1106
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7766a6b94089444c87a6ea57563e39a
+      internalID: 589372337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_81
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1142
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f2083cb87f18f4093dc813bfff73d4
+      internalID: 905039516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_82
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1128
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc47f69b074f5c5418aa97b47dd94c4e
+      internalID: -173954595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1057
+        width: 120
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426ad880e5361684aab196b0069c022d
+      internalID: 895205096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1051
+        width: 118
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c8103b158b1d54490110ff3d63b84d
+      internalID: -1358585363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_85
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1046
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02013fb1c3d1b5845a1110b486740111
+      internalID: 1712851549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_86
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 977
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1193cd329ae7e8142bda523b3cd99f90
+      internalID: -1311674339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_87
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1022
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28bfe0a304112140849ebce1bbb16ef
+      internalID: -713814024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_88
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1032
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003cd3ffca672e548a57a734c165d2a2
+      internalID: -1371054312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_89
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1052
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd6442e67a631b4a9bd021469fd2109
+      internalID: 923685577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 968
+        width: 108
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7299df22edb41f48babe0cfb27317be
+      internalID: 1294609584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 932
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee32b2bdb312f94cb104df49b3ae827
+      internalID: 1961661555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_92
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 932
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538f19e06ddcb364994ce11d13a1bf50
+      internalID: -481278453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_93
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 964
+        width: 114
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82e1c5c27fbbf4498be2f4290839009
+      internalID: -1525642343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 876
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc3c57bec593c47a39ce83e8ab142a
+      internalID: 1707036445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_95
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 949
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e63e0ab230bd5a4485c350a0f6c7e90
+      internalID: -717725256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_96
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 935
+        width: 102
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7417cc8b6806b34c97a24254d458b42
+      internalID: -109967956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_97
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 950
+        width: 102
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6db0afebbb33844887fcf4c10bde90
+      internalID: -253985657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_98
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 950
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df78a1781f581cd4487e80f7bcb11ecc
+      internalID: 1049851991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 860
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0ec202316a8de41adb34b6f004412b
+      internalID: -1037710656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_100
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 844
+        width: 114
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a70472aa3eacd4fa3e5db3548994c2
+      internalID: 246937091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_101
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 876
+        width: 111
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b966a18114c982449e8747eac81fb3b
+      internalID: 773086978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_102
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 863
+        width: 113
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfab0a78f220424e9fe42e2b6cacacd
+      internalID: 268741550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_103
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 843
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba01ecace5a7154b928d951b9317ae2
+      internalID: 1342914662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_104
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 839
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71bd92326595c149ade6af9d5b68a0a
+      internalID: -933155282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_105
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 856
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e2ef418e32c4444af8db536a55137c
+      internalID: -1262419842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 764
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185ad80076d999345b7a238ffe656bbe
+      internalID: -939743612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_107
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 764
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360df42308c1fa3498458395cc94dace
+      internalID: -1810699290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_108
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 760
+        width: 122
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01df20bd2d51399419b7d73140a099d8
+      internalID: 1901091211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_109
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 752
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8586427619a6ad44a8ce49e45184bfde
+      internalID: -941757242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_110
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 783
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab882153510721b43adadf2e5caaffa2
+      internalID: -62333443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_111
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 756
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdf8eacdd8b6504c938356cd8db701d
+      internalID: 33442856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_112
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 756
+        width: 112
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42f08fd234900b488f27927210e4cab
+      internalID: -671206326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_113
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 746
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514e79bedbff7e2409bbb853cee9b96c
+      internalID: 295472208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_114
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 746
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab912f160a10e4479c0cf1fdd3bd261
+      internalID: 1362785469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_115
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 651
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72a4fc0d45d82f409dc993baf5ba409
+      internalID: 207638248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_116
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 666
+        width: 106
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd40e9f6e6922424eacba15d0cb5e691
+      internalID: -41629941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_117
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 666
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee98e9846edcfd4590c5cb068a75dfe
+      internalID: 1999852697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_118
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 664
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621bff55d636c1248b42b5910b657a8a
+      internalID: 737964835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_119
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 672
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cf587a646f2264bad7046067f41aee
+      internalID: -565382269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrots
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 659
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2327b1dae14730a4fa33f9305322c5a8
+      internalID: 1377154970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_121
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 667
+        width: 117
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840be551708089542bef9727e407ff2c
+      internalID: -1818163117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_122
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 656
+        width: 110
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bc66a9e829b9e4ea20d42294785926
+      internalID: 1082671007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_123
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 603
+        width: 44
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362c19211e3909d498556ccc4288cfb9
+      internalID: -242894369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 563
+        width: 123
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce75bb4defbf80541909562f0fdc239f
+      internalID: -995318657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_125
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 563
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730ce177abfcee749aac082ae4be6826
+      internalID: -2126879926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_126
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 543
+        width: 113
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fe4897de05c0e41ba436b12c431b55
+      internalID: -506170728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_127
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 543
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64b467027412b340a445ee735001075
+      internalID: -110949568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_128
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 565
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a58b6d4677a5844968847548991a76
+      internalID: -1714395858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_129
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 564
+        width: 109
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1492aabfab83e874bae2ed1f0c5f684d
+      internalID: 1687754080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_130
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 574
+        width: 110
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9330d420552f7974aa45ec5b36a44688
+      internalID: 1489078129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_131
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 574
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f30e1af62392804c8a93f0e8312a821
+      internalID: 626724070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_132
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 487
+        width: 55
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74f0d007cd89145b9fcf393a7488c7
+      internalID: 1108611335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 457
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501a4a9092efb5a4ca7265aacb2b0936
+      internalID: 1234887592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_134
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 457
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8954d526c198e4c91d37a0306458e4
+      internalID: 255293444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_135
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 449
+        width: 113
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422fa8d679a512d4890011f74502464c
+      internalID: 1537684135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_136
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 470
+        width: 111
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00c066eb085cd44f819c42f273e4e15
+      internalID: -808191296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_137
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 431
+        width: 119
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee62139f52d47e40b6d6358a9e3f492
+      internalID: -1197862039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_138
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 487
+        width: 118
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe37d30d6d50a344a52acb738c23527
+      internalID: 139213394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_139
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 339
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5893cf25fedb4418131339bbdad609
+      internalID: -158114857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_140
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 346
+        width: 109
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a65981b4169da54eaaf2965bdb9d944
+      internalID: -510128654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_141
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 352
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6450dee3c1989fc44905548b5a154870
+      internalID: -1858214333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_142
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 352
+        width: 125
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385aac95d7aeda94ab5450c016105f78
+      internalID: 2112547689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_143
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 365
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2489440a682b484ab11201517a8a124
+      internalID: -2072444146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_144
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 315
+        width: 108
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c8241142f336e429733eb1264bec41
+      internalID: -205285049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_145
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 329
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79778ecd1e636f344a505458fc538084
+      internalID: -926945183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_146
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 397
+        width: 122
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3c52aa2e9ae9346b1fc3c0a306cd11
+      internalID: 1139599657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_147
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 227
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe5c4fcafbd444d94b836a9e84545e
+      internalID: -1562900340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_148
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 227
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60049cc70e2bbe4b8a0e4f588228999
+      internalID: 1919398417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_149
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 234
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890fcbdaf2d9fd2429e6f6b6fdbbaba5
+      internalID: -129284294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_150
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 214
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de29eb048828eac4f9619d5e81c603f9
+      internalID: -1505708558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_151
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 244
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247fc68cf377d5548a7728878c93b7b7
+      internalID: -1516257475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_152
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 222
+        width: 124
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5256247c04def143816588f021ee801
+      internalID: 1252841136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_153
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 228
+        width: 111
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fe380b0054e00449ea2b9b746a647b
+      internalID: 1678429565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_154
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 305
+        width: 120
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2dcafa807538042945b6e3389c6bbc
+      internalID: 712571045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_155
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 115
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5ecae1838fbb64bba32a893c9661cb
+      internalID: 1573080128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_156
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 106
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd1104cb7ec460488a3d6d992f28a9b
+      internalID: 1775425955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_157
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 114
+        width: 100
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f480e0ed2a0085c47849504fb488dd58
+      internalID: -262675223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_158
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 114
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591ef1b222d52674b864d4e735d3c093
+      internalID: 2007873215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_159
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 124
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f6664bc73f82e4abf13e33f92c7421
+      internalID: 617716611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_160
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 101
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a870fefbc59bc488c8d400f8c72bf8
+      internalID: 1777188816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_161
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 122
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76363e6ae5a52d45a4ed46daab02869
+      internalID: 148725408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 207
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6c87052d60162459b9efa857281dae
+      internalID: 1486764393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_163
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1829667f671aac4490140a557beff25
+      internalID: 1030105591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_164
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dff9f84628bb74bb613577db1eedb4
+      internalID: -528326631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_165
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2
+        width: 95
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773506618b9dfc14eb6da99850fbe55b
+      internalID: 1957599760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_166
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2
+        width: 95
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd16d5f1336a88c4f8464c07ce842fb6
+      internalID: -1741179909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_167
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 104
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32de7c24da25daf40b41474c639d388e
+      internalID: 1090151196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheat
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2
+        width: 127
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01809d429835a284a92cd2dc9000f0bd
+      internalID: 352034202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_169
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2
+        width: 114
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2465d4534879d174189d4c3bc2c11686
+      internalID: 1067912887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_170
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2
+        width: 119
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbd36d478c8ddc41885e789f1012d59
+      internalID: -1129826818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_171
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaebb430fbcce843819c33bd60d8998
+      internalID: 1901701719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_0: 2080665676
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_1: -1719986366
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_10: 1370012332
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_100: 246937091
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_101: 773086978
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_102: 268741550
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_103: 1342914662
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_104: -933155282
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_105: -1262419842
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_106: -939743612
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_107: -1810699290
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_108: 1901091211
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_109: -941757242
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_11: 663830848
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_110: -62333443
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_111: 33442856
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_112: -671206326
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_113: 295472208
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_114: 1362785469
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_115: 207638248
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_116: -41629941
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_117: 1999852697
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_118: 737964835
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_119: -565382269
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_12: 1005345606
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_121: -1818163117
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_122: 1082671007
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_123: -242894369
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_124: -995318657
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_125: -2126879926
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_126: -506170728
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_127: -110949568
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_128: -1714395858
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_129: 1687754080
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_13: -84822190
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_130: 1489078129
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_131: 626724070
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_132: 1108611335
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_133: 1234887592
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_134: 255293444
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_135: 1537684135
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_136: -808191296
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_137: -1197862039
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_138: 139213394
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_139: -158114857
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_14: 64518663
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_140: -510128654
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_141: -1858214333
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_142: 2112547689
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_143: -2072444146
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_144: -205285049
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_145: -926945183
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_146: 1139599657
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_147: -1562900340
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_148: 1919398417
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_149: -129284294
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_15: -352468055
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_150: -1505708558
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_151: -1516257475
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_152: 1252841136
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_153: 1678429565
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_154: 712571045
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_155: 1573080128
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_156: 1775425955
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_157: -262675223
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_158: 2007873215
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_159: 617716611
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_16: -579158915
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_160: 1777188816
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_161: 148725408
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_163: 1030105591
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_164: -528326631
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_165: 1957599760
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_166: -1741179909
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_167: 1090151196
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_169: 1067912887
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_17: -981222716
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_170: -1129826818
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_171: 1901701719
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_18: 858534575
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_19: 738573275
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_2: -1736030779
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_20: 1276186327
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_21: 432163140
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_22: -629450451
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_23: -1854843805
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_24: -1236675303
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_25: 208753150
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_26: 2026536322
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_27: -810547458
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_28: -1242677436
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_29: -20444486
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_3: -1966956708
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_30: -68827769
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_31: 1924405902
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_32: 1491591441
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_33: -479528433
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_34: 741724225
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_35: -414892255
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_36: -1825710315
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_37: 573151667
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_38: 152109543
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_39: 970652880
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_4: -2081622311
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_40: -1192086170
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_41: -1555696356
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_42: 1474005888
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_43: -942388095
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_44: -1793713019
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_45: -1528406894
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_46: -150795269
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_47: -71647353
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_48: 419139280
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_49: -922185252
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_5: 1159513711
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_50: 27249446
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_51: 347076769
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_52: 1186341909
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_53: -1159574791
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_54: -804396151
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_55: 240876554
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_56: -448626131
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_57: 963948878
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_58: 1283296752
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_59: -1257115767
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_6: 1681225103
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_60: 236113085
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_61: 236512212
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_62: 1696568559
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_63: -1176660727
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_64: 494927757
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_65: -40244836
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_66: 373968643
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_67: -1406557427
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_68: -1616773662
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_69: -394848873
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_7: -321084580
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_70: -236293684
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_71: -47072466
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_72: 1504115652
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_73: 23745301
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_74: 736348692
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_75: -178567381
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_76: -259232670
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_77: 798631413
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_78: -1756518085
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_79: 1852710027
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_8: -1080289906
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_80: 589372337
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_81: 905039516
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_82: -173954595
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_83: 895205096
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_84: -1358585363
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_85: 1712851549
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_86: -1311674339
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_87: -713814024
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_88: -1371054312
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_89: 923685577
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_9: -152796092
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_90: 1294609584
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_91: 1961661555
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_92: -481278453
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_93: -1525642343
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_94: 1707036445
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_95: -717725256
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_96: -109967956
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_97: -253985657
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_98: 1049851991
+      SpriteAtlasTexture-[RECT]Currencies-1024x2048-fmt4_99: -1037710656
+      carrots: 1377154970
+      corn: 1486764393
+      wheat: 352034202
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

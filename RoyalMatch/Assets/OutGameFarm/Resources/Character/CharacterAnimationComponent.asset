@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36df0565e03dfd46b27b3297d8dc4fd, type: 3}
+  m_Name: CharacterAnimationComponent
+  m_EditorClassIdentifier: 
+  SpeakingAnimationInfoList: []
+  ListeningAnimationInfoList: []
+  AnimationInfoList:
+  - Name: IdleCharacter
+    AnimationInfos:
+    - AnimationReference: {fileID: 7400000, guid: de26ef8a8aeef2b44ab5e802cff68a4a,
+        type: 2}
+      soundClip: {fileID: 0}
+      animationName: IdleCharacter1
+      fadeDuration: 0
+      animationItemType: 0
+      baseOffset: 0
+      agentType: 0
+  - Name: WalkCharacter
+    AnimationInfos:
+    - AnimationReference: {fileID: 7400000, guid: cc2bcc4cb12027645a6de420f2760d91,
+        type: 2}
+      soundClip: {fileID: 0}
+      animationName: WalkCharacter1
+      fadeDuration: 0
+      animationItemType: 0
+      baseOffset: 0
+      agentType: 0
+  - Name: RunCharacter
+    AnimationInfos:
+    - AnimationReference: {fileID: 7400000, guid: e2101fac6cccb584ab162f48b48b4505,
+        type: 2}
+      soundClip: {fileID: 0}
+      animationName: RunCharacter1
+      fadeDuration: 0
+      animationItemType: 0
+      baseOffset: 0
+      agentType: 0

@@ -1,0 +1,136 @@
+definition.lastmodified = 1522052599
+
+game.startCurrencies = coins, 99999, gems, 99999
+
+upspeed1.type = upspeed
+upspeed1.minTimeRemainingSeconds = 0
+upspeed1.maxTimeRemainingSeconds = 21
+upspeed1.cost = gems, 1
+
+upspeed2.type = upspeed
+upspeed2.minTimeRemainingSeconds = 21
+upspeed2.maxTimeRemainingSeconds = 61
+upspeed2.cost = gems, 1
+
+upspeed3.type = upspeed
+upspeed3.minTimeRemainingSeconds = 61
+upspeed3.maxTimeRemainingSeconds = 181
+upspeed3.cost = gems, 1
+
+upspeed4.type = upspeed
+upspeed4.minTimeRemainingSeconds = 181
+upspeed4.maxTimeRemainingSeconds = 361
+upspeed4.cost = gems, 2
+
+upspeed5.type = upspeed
+upspeed5.minTimeRemainingSeconds = 361
+upspeed5.maxTimeRemainingSeconds = 1201
+upspeed5.cost = gems, 3
+
+upspeed6.type = upspeed
+upspeed6.minTimeRemainingSeconds = 1201
+upspeed6.maxTimeRemainingSeconds = 2701
+upspeed6.cost = gems, 7
+
+upspeed7.type = upspeed
+upspeed7.minTimeRemainingSeconds = 2701
+upspeed7.maxTimeRemainingSeconds = 5401
+upspeed7.cost = gems, 15
+
+upspeed8.type = upspeed
+upspeed8.minTimeRemainingSeconds = 5401
+upspeed8.maxTimeRemainingSeconds = 14401
+upspeed8.cost = gems, 25
+
+upspeed9.type = upspeed
+upspeed9.minTimeRemainingSeconds = 14401
+upspeed9.maxTimeRemainingSeconds = 36001
+upspeed9.cost = gems, 50
+
+upspeed10.type = upspeed
+upspeed10.minTimeRemainingSeconds = 36001
+upspeed10.maxTimeRemainingSeconds = 67201
+upspeed10.cost = gems, 100
+
+upspeed11.type = upspeed
+upspeed11.minTimeRemainingSeconds = 67201
+upspeed11.maxTimeRemainingSeconds = 108001
+upspeed11.cost = gems, 200
+
+upspeed12.type = upspeed
+upspeed12.minTimeRemainingSeconds = 108001
+upspeed12.maxTimeRemainingSeconds = 158401
+upspeed12.cost = gems, 275
+
+upspeed13.type = upspeed
+upspeed13.minTimeRemainingSeconds = 158401
+upspeed13.maxTimeRemainingSeconds = 218401
+upspeed13.cost = gems, 350
+
+upspeed14.type = upspeed
+upspeed14.minTimeRemainingSeconds = 218401
+upspeed14.maxTimeRemainingSeconds = 288001
+upspeed14.cost = gems, 425
+
+upspeed15.type = upspeed
+upspeed15.minTimeRemainingSeconds = 288001
+upspeed15.maxTimeRemainingSeconds = 367201
+upspeed15.cost = gems, 500
+
+upspeed16.type = upspeed
+upspeed16.minTimeRemainingSeconds = 367201
+upspeed16.maxTimeRemainingSeconds = 9999999
+upspeed16.cost = gems, 600
+
+warehouseStart1.buildingName = warehouse
+warehouseStart1.gridU = 27
+warehouseStart1.gridV = 31
+warehouseStart1.isFlipped = FALSE
+warehouseStart1.type = startBuilding
+
+farmHouse01_3.type = residential
+farmHouse01_3.constructionRewards = xp, 650
+farmHouse01_3.stringReference = farmhouse
+farmHouse01_3.spriteReference = farmHouse01_f001
+farmHouse01_3.populationIncrease = 5
+farmHouse01_3.constructionCost = coins, 175
+farmHouse01_3.constructionMinutes = 1
+farmHouse01_3.maxFacilities = 1
+farmHouse01_3.sizeU = 4
+farmHouse01_3.sizeV = 4
+farmHouse01_3.unlockLevel = 12
+
+field_1.type = farmfield
+field_1.unlockLevel = 1
+field_1.constructionCost = coins, 100
+field_1.constructionRewards = xp, 50
+field_1.stringReference = farmfield
+field_1.spriteReference = fieldBasic_f001
+field_1.constructionMinutes = 0
+field_1.maxFacilities = 1
+field_1.sizeU = 1
+field_1.sizeV = 1
+
+warehouse.type = warehouse
+warehouse.maxFacilities = 1
+warehouse.spriteReference = warehouse_base_f001
+warehouse.stringReference = warehouse
+warehouse.levels = [warehouselevel1,warehouselevel2,warehouselevel3]
+warehouse.sizeU = 3
+warehouse.sizeV = 3
+
+warehouselevel1.type = buildinglevel
+warehouselevel1.storage = 500
+warehouselevel1.gemCost = 5
+warehouselevel1.buildingMaterials = 
+
+warehouselevel2.type = buildinglevel
+warehouselevel2.storage = 600
+warehouselevel2.gemCost = 12
+warehouselevel2.buildingMaterials =
+
+warehouselevel3.type = buildinglevel
+warehouselevel3.storage = 700
+warehouselevel3.gemCost = 18
+warehouselevel3.buildingMaterials =
+

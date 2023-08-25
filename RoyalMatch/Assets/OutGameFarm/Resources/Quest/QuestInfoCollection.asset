@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b30b1da11a41de945bacdc746ba30924, type: 3}
+  m_Name: QuestInfoCollection
+  m_EditorClassIdentifier: 
+  quests:
+  - id: 1
+    IconId: 11
+    Name: FirstQuest
+    Requirements: []
+    FinishRequirements: []
+    Rewards:
+    - TradeType: 4
+      IdInType: 1
+      Amount: 0
+    - TradeType: 2
+      IdInType: 2
+      Amount: 1
+    Tasks:
+    - Amount: 1
+      Objective:
+        ObjectiveType: 15
+        IdInType: 23
+  - id: 2
+    IconId: 11
+    Name: SecondQuest
+    Requirements:
+    - RequirementType: 2
+      Value: 1
+    FinishRequirements: []
+    Rewards: []
+    Tasks:
+    - Amount: 2
+      Objective:
+        ObjectiveType: 16
+        IdInType: 23

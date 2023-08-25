@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &330394582417090061
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3766875772112067309}
+  - component: {fileID: 393097251631533066}
+  m_Layer: 0
+  m_Name: FruitTreeAssetCollection
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3766875772112067309
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330394582417090061}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 6}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &393097251631533066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330394582417090061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaa6895abeaf06b4186ea78ad9933588, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _assets:
+  - _key: item_apple
+    _value:
+      _growingStage1Sprite: {fileID: 465780577, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}
+      _growingStage2Sprite: {fileID: -1796054808, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}
+      _harvestReadySprites: {fileID: 1079428076, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}
+      _witheredSprite: {fileID: 1763269379, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}
+  - _key: item_grape
+    _value:
+      _growingStage1Sprite: {fileID: 1933157789, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}
+      _growingStage2Sprite: {fileID: 1981291474, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}
+      _harvestReadySprites: {fileID: 1376911398, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}
+      _witheredSprite: {fileID: 1763269379, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}
+  - _key: item_orange
+    _value:
+      _growingStage1Sprite: {fileID: 777549152, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}
+      _growingStage2Sprite: {fileID: 215629454, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}
+      _harvestReadySprites: {fileID: -327432161, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}
+      _witheredSprite: {fileID: 1763269379, guid: ccd217303d6e94c40800e5bf34fbba99,
+        type: 3}

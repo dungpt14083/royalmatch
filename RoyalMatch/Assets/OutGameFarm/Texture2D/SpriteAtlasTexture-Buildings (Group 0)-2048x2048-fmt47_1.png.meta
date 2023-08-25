@@ -1,0 +1,5943 @@
+fileFormatVersion: 2
+guid: 6d73935fc3c8357478cb7c64587915d4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1877
+        width: 201
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad61fa8e778de24b8c6b56053663a89
+      internalID: -324173313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1993
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51da371efe74bf4aacd278c6138010c
+      internalID: -1878285039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1932
+        width: 196
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76e0fa11222bf64c86c26cd892b193a
+      internalID: 408203420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1968
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b5f333d1c7aad4393742012a3b0615
+      internalID: -1769147529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1968
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615fdc5b75dba174b9b6c527b42b325a
+      internalID: 845020061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_5
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1897
+        width: 111
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e86c9a3cf5c224db6fae66c5925f84
+      internalID: 1842031857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1819
+        width: 203
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e7dfbae673d4b4abab5367e5ce7875
+      internalID: 725780735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1917
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f81e9b953ee904b8e6a52c8492f7eb
+      internalID: 34004776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_8
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1917
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5519a3430c47e6540855bbc3f8a92fc5
+      internalID: 1601060662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldMining_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1847
+        width: 202
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9368da6980f074b8d436f076d7dc22
+      internalID: -1645770516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1804
+        width: 202
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefe91932fb7da34a82132e778541028
+      internalID: 1564473877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workshop_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1682
+        width: 203
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7ddf8f911a840458a4accfef328089
+      internalID: 1364270190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_12
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1609
+        width: 102
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f710e5bc8913ec64ea13ff04fb797843
+      internalID: -1023139982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_13
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1734
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6ac2b50f89f84448ca919ec8dffb35
+      internalID: -194835532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_14
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1747
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098055a7b87d4da419ad7f1410f084a9
+      internalID: 1535423927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaver_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1594
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538fae8d3723e1742bb484bf29dd20be
+      internalID: -178641574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_16
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1656
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b743198ad9d44cacf4f4611991846
+      internalID: 419810979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_17
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1725
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfee3b6901865347aa376900de3b26f
+      internalID: 138741169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrotsstage1
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1696
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aca586e86f657340895b8fdae2a2892
+      internalID: 1586300397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workshop_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1564
+        width: 202
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797f9d6dbf357884ea0060da6ac380e6
+      internalID: 284978304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_20
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1656
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b10f9f59958b98489ed2f351285410d
+      internalID: 1835885943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_21
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1675
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b7b78a0c64a744ab091ad430a4cd7f
+      internalID: -259028631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_22
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1606
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184fb2149bdb1394287dbb8f6a52540d
+      internalID: -2135724600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_23
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1625
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84dbcd91445f6040a9ab87067aa4773
+      internalID: -1571980668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_24
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1624
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05519cbed6d66ca4fb03a426e5c63ca9
+      internalID: 1309087600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_25
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1620
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27c88e5a941c6243bf6bad70f53c784
+      internalID: 1259715657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_26
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1495
+        width: 215
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c1bd6dbca4fe418600d9b0f7c25b4
+      internalID: 2023618164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_27
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1594
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847d054b72a72c745a0677eef7064e02
+      internalID: -165382319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_28
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1564
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73e08527d7f6df4588a778b32246b04
+      internalID: 745237812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_29
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1566
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47816a9bce3d634c9b91366869916a0
+      internalID: 53087421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_30
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1576
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118feb5fd6a907b41bb36d607a816813
+      internalID: -1176495894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_31
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1543
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ccf23778c3f7640a5a47ca292f12fa
+      internalID: -1947761558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_32
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1528
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb20180132d9e746a4d85c3ad0b2679
+      internalID: -54531552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_33
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1516
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554aaacdd35ca654f9195dc1b533a865
+      internalID: 1874826460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_34
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1568
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6617a24780ff48c4cb644c88a7b0728d
+      internalID: -2088883120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quary_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1423
+        width: 202
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d28cf29f1ae764f9c08b30000787d4
+      internalID: -445203219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quary_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1413
+        width: 202
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff326c3e90586d4889c5a3ddeb6f0c9
+      internalID: -511845851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_37
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1478
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b859feea664ca428b5006b60b534d1
+      internalID: -122663593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_38
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1504
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6037927fdbf91ac4d8d06d24bb256f11
+      internalID: 127363881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_39
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1516
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bd3b2fe8c1c6f48b42ffd240fe1d77
+      internalID: -642118071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_40
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1535
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9947f07d055f91544ad2dc443156ad75
+      internalID: 940225058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_41
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1530
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f8a4dff69ec534bb18bbcac60fd768
+      internalID: 2132031837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_42
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1377
+        width: 110
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2714fb7664fd0024b8a30cf701308a8f
+      internalID: -1702069189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_43
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1442
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036034572d82ba241bce265665b5fa13
+      internalID: 1905977817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_44
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1490
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c127098f6e37ef4e83f4891a0f6981d
+      internalID: -863548750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_45
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1504
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c60718300d2b3b4ab7610fcb3a3ffd1
+      internalID: 1695908401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_46
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1428
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1f6d065c4e45f4990565bfa91fa560
+      internalID: 16474973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_47
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1442
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586450876f1a8564aade7056d986d028
+      internalID: 1818276848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_48
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1476
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35125461ae7429648910e9bb657ece8f
+      internalID: -333268997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_49
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1445
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e4638fef2080844bb947569c5e5ae3
+      internalID: 1081363194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_50
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1415
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011fa14a17d185d4abf14941fe9c935d
+      internalID: 1008697412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_51
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1416
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c76fe230832b41a347a50f14ffb64
+      internalID: -1775467391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_52
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1445
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985cf1a83b8c0c24b842ac734bb3c5a8
+      internalID: -2128966155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldMining_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 202
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4188ae8911d614d488b117cc9e1a9a78
+      internalID: -230962644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeedFactory_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1295
+        width: 201
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485099aede75344e84de1b0d164be03
+      internalID: -749351054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_55
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1399
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f571f5c1348dd4aaf06b72020201d2
+      internalID: -353660148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_56
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1368
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e518b31c6b2294fba2d6ff8cf6e577
+      internalID: -1363539225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_57
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1416
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95466efddac178245b87d2bd5c1097e3
+      internalID: -2129195684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_58
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1340
+        width: 111
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba2ab5c626792c4e99bfa346d843b62
+      internalID: 1228890261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_59
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1380
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1329f56bd2aa41f47a034bb2f25c3ec0
+      internalID: -895667356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_60
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1368
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd2a556bafcd164f98431ecb5017750
+      internalID: -1987777614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_61
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1366
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19831c35beb12b6488d13747fcd26737
+      internalID: 992281457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_62
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1372
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e256bc70872e314b9267132ac8be5d4
+      internalID: 676053108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_63
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1048
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2b56e0c3b894747b5499332c994683
+      internalID: 1718978037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_64
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1306
+        width: 110
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aa7e842933d78429bc67cebe49c6ac
+      internalID: -1362164727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_65
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1314
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a9ea4214887de4a8841db91d5d22a3
+      internalID: 864515741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_66
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1337
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9aac6b22ce6114197a05d3f2a8f483
+      internalID: 1162518581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_67
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1292
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c6b1bb459e8af42a9b2e110d5cf1bc
+      internalID: 1943530308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_68
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1294
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bef693f7867cb47add8d7ee3c07b88
+      internalID: -1773169236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_69
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1328
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fad618c485611644985de1cf434f403
+      internalID: 1448380270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_70
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1236
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535a55c239af804459f4a775bd34fde3
+      internalID: 1593360824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_71
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1305
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0a8df4fe5b654459bb7bea03d009ed
+      internalID: 835785934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_72
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1242
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f63d519b601f74479f33b7c17ff2227
+      internalID: 720902069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_73
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1244
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffc215cda19f7246b1da2ec98fdd47d
+      internalID: 669775271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_74
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1257
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381452b5b7714fa4383b52dd1cae41d8
+      internalID: 349382690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_75
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1196
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9de5562f5003994faa30def061bd5e8
+      internalID: -1443556605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_76
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1189
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832274753f5deef4ca23c0b34cf9be1e
+      internalID: 1526685283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_77
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1206
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e106673c0245b842aa5f4e660696c8f
+      internalID: -16103848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_78
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1153
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9975e122d636dca4683f76cc37660948
+      internalID: -334416827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_79
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1208
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72595b24d0ad9f142a5aae267f8ef43b
+      internalID: -1077089701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_80
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1156
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08323bd860e8ffe4a9ae4cca98f08d6d
+      internalID: 1948246477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_81
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1174
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70cc77de3a4b9b47baee3350ff088ec
+      internalID: -907222654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_82
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1158
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388a40585d3b6b94e9a3dd21f560714b
+      internalID: 543020955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_83
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1111
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d4ca91d7576db4684915bcb18c3dd9
+      internalID: 572186367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_84
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1115
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e916fbb7b2a12b43be14e21c8c954b3
+      internalID: 1443320606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_85
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1124
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec5e83681e3e1b47addede91987b0e2
+      internalID: -1946899787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_86
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1138
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc6217c10bb13049b14f2043ae797a7
+      internalID: 731782168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_87
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1106
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf2dc94348b97743bbb961701a67d11
+      internalID: 1407131063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_88
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1092
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cf1154bb7b69b42839dd5222a322f4
+      internalID: -505776577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_89
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1070
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5087ded2c12b94aae3a5dfacf958e9
+      internalID: 252301861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_90
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1044
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71559beb3e5640849b230c2d40c1b6d8
+      internalID: -1772643239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_91
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1067
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e214b2ed5bc1d46935699ac9bb4f12
+      internalID: 732673801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_92
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1033
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453cccab0199077419917b4ae038880b
+      internalID: -1524204961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_93
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1033
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20b68719b4f64240bee7f66c6033277
+      internalID: 1968780396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_94
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1070
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee9ba0ef4d26d48bbaaf5c713b429f
+      internalID: -111730082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_95
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1051
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee6c80ebd08e574fa339dadf97e7535
+      internalID: -1007803748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_96
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1030
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c590c29cd3b7ab428b58fbd1dd10298
+      internalID: 1260795522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_97
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1030
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c586d9a08f1c940a5f363e109b574f
+      internalID: 1786332188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_98
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 915
+        width: 102
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc74e044f5be3de499ba1c1c9dc674dd
+      internalID: -120459032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_99
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 924
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dca616f7a809c41aaab41dd75b9e58
+      internalID: -982746329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_100
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 980
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7258508aa84312549871f99da5f75730
+      internalID: 535107326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_101
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1016
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38591976a97b34a42a04085a915e1f22
+      internalID: 2045542630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_102
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 990
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8409989d204cb4eb06ef6733679afe
+      internalID: 1639389531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_103
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 934
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2819bfae795017b4ca361adc86c61276
+      internalID: -656979415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_104
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 945
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c7e5df2d7c9fd4b87c8b322cffc1df
+      internalID: -598207835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_105
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 945
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8809adbd104294e89156c8046c6410
+      internalID: -1851790826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_106
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 940
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ef5b221ba28f4ab792936681eda03
+      internalID: 82542323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrotsstage2
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 978
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b04a0e81fea102498a802b15740cfff
+      internalID: 351787161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_108
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 976
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a2aa01a11d5947b03682a4ef86c36
+      internalID: -38093348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_109
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 911
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3579f7215798442905ba700f839491
+      internalID: 1329751756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_110
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 884
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9e74c9d0a8da245a0a16e2bdab5ffc
+      internalID: 1209803004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_111
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 939
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f56c57f60c6d745b1287d7cf250a6d
+      internalID: -1462843530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_112
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 938
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa38288e48275c4dbff4d175dbdb60a
+      internalID: -17089191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_113
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 828
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3893e913e504bb347ae63d75879d3c40
+      internalID: -869851806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_114
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 872
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae237f536586f4f96742e52a974aa0
+      internalID: -1946174325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_115
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 884
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7eb0c6f575bb441971457f3e9c4aca
+      internalID: -398190668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_116
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 880
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae75ca63081365646957477933bffad9
+      internalID: -2101733809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_117
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 911
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebe511efddd1cf40ad8118c834ee81a
+      internalID: 2078858560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_118
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 863
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bf38474ea39db438e7abb72b42d845
+      internalID: 310772944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_119
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 849
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75962390d3995af498af1015ab622a14
+      internalID: 329744209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_120
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 883
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c9464b3fef0974c9aa8de2e3a23c53
+      internalID: 1589167533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_121
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 824
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54db93b5ec4b00d45a67f3448666e6e4
+      internalID: -695076346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_122
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 824
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c8aa36757eb60419041bfd4c313f0e
+      internalID: 503497732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_123
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 824
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03a9c4307ca07f42be9f645d01aef18
+      internalID: -1353511994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_124
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 858
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7a5b4ddd831584f8eccd7757f3be23
+      internalID: 391503323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_125
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 735
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e91a18a69b64948b824d521c2098a6
+      internalID: 915775214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_126
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 748
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897cf1f2e6306dd4789c0fb4952cf304
+      internalID: -151828132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_127
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 748
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a880f38971e8f9b4097b40f84d25e6c1
+      internalID: -1903382951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_128
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 758
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17468e8fe19731f418da565ed7fa605b
+      internalID: 1774148467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_129
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 812
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bd537484205614cabf050e2e4dfa13
+      internalID: -2039192227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_130
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 813
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8ba5fac36692d4b98c0220fce182f1
+      internalID: -589015239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_131
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 812
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5de094085966d47b7b2c7012fd1780
+      internalID: -22891572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_132
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 758
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a3ffa767a85f641a5cf96bbd15f5f1
+      internalID: -79753034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_133
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 755
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbd5ed741a10714f8bfeebfa018bafb
+      internalID: -1757481468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_134
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 756
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595ec4e8f197ef64fb76d7516f5fae59
+      internalID: -256849149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_135
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 769
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e82acd9d5e03f429c6c2af6ef7dd7a
+      internalID: -315368637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_136
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 768
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e7712aa5345441b3d651aa1dfb5e2
+      internalID: -1915869273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_137
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 770
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a858d0f21cf1394b83acc1c305bd7ab
+      internalID: -813644282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_138
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 793
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977015be6b18eec41b4452acdbf1d517
+      internalID: 84103347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_139
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 770
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a74cec5276e38b4e8c69fe1f4087200
+      internalID: -442617730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_140
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 703
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1830d093be9a842bb85f9c28bc82a2
+      internalID: 1000076737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_141
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 681
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0f328c2da15514099c5248238e3472
+      internalID: 1750933612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_142
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 681
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a124bf19cd9ba46ba514cbc1358c63
+      internalID: -1375871248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_143
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 725
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ed6421e5c0ec94491394c9732f86d7
+      internalID: -1599586784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_144
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 730
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d9c949dc655754e84c6f72b9687e6b
+      internalID: -2097035072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_145
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 730
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cfdca1235e7b342b97b56fb512eba9
+      internalID: 1670932452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_146
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 739
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0394fb9970e6ba43aecd577dc815dee
+      internalID: 959664673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_147
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 639
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d28c118365794db937abcb5824c75
+      internalID: -849798983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_148
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 704
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443955f3ed0a1c4f80b3b8b9d23d4c5
+      internalID: -1743398631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_149
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 658
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91c9e394530f544ba3616737420f0e8
+      internalID: -382678128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_150
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 684
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac29048c255cb0f4799a5701ca91bf4b
+      internalID: 1297156279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_151
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 670
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1aff5befb909946bddf97bf8cc8e2a
+      internalID: -2110841218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_152
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 668
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c086c148d8215747b292df248fd1af2
+      internalID: 228712203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_153
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 717
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3da2ee80680dcb4d8b2bae299b3f564
+      internalID: -916723676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_154
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 679
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e26445f8a64a48a1aee8953f1861e
+      internalID: -206019902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_155
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 691
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b51e1dc6ac492d4d881be7ad27d508c
+      internalID: 391884572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_156
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 576
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec7127c59955bf48b7a86f9ff8bd7cc
+      internalID: 1721210062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_157
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 575
+        width: 102
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323c8560917c88d4898ef0957568fd4a
+      internalID: 337372817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_158
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 630
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb02cf1044e83e4a8cf05e5dbb8262d
+      internalID: -386567150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_159
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 648
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e36eecd5c8fdbf408bd2a280b16e3cf
+      internalID: -1804162231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_160
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 622
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218f0c8418ef0c74f8dc14e144caf1cb
+      internalID: -670279772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_161
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 620
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225054c80c0e3674dada41d7f5bffb15
+      internalID: -1221916980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_162
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 651
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1939bd4a2282a084aa54d871307b0654
+      internalID: 1113585798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_163
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 528
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53408cc429bcc41b3855b947d58520
+      internalID: 1817541428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_164
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 616
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9792320096b333478ec7ab9b53b86de
+      internalID: 1163937172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_165
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 618
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26523a65700b6224ebd0406a224e0b8f
+      internalID: 63839001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_166
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 605
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104696c7ec330474c87e14a3dd746a05
+      internalID: 1666246706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_167
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 548
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391967733bcab3047b9ddfc96bd41697
+      internalID: -1441957935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_168
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 563
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0c0abc10517d044beeacf4668582c4
+      internalID: 684035512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_169
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 582
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c50ac0a9009c746a34fd5d48975f7b
+      internalID: -1878185588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_170
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 546
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e859ccf75c35da94381ae15db40e2ce9
+      internalID: -1844816625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_171
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 557
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a80b042392b324088723aec6189897
+      internalID: 82883126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_172
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 562
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70006f13fb4fd9b4aa02a0d72220ec39
+      internalID: -1416113788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_173
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 561
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a31a8a357f0fb45ad4b848c268a660
+      internalID: 1577879951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_174
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 0
+        width: 96
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3338278002315d4c87e9aa0bd2c6fde
+      internalID: 1490223393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_175
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 551
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ace2926bec9fd46a8807da0703b05b
+      internalID: -195375438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_176
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 504
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23461da5b6ba9e4e800d286f819b6e4
+      internalID: -700793234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_177
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 417
+        width: 110
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea27ed4ad8514cf4a86cddca661ab69d
+      internalID: -195807881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_178
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 481
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f5aa687dc09424db3914de12c18c95
+      internalID: 1151386692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_179
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 427
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626abe6b8fd7e8479ed3f08669b6bf6
+      internalID: -928425393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_180
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 412
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6c70725460cb24ca72021b903889ed
+      internalID: -1988702288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_181
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 340
+        width: 102
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788dd66c052ac3f42bc465e99b9a7af9
+      internalID: -640374624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_182
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 351
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405de58e7cc01674f9bf2c5cf77600c3
+      internalID: 1755090135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_183
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 412
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa539eb3654a8c40ab5cf9a92746306
+      internalID: -1423187378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_184
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 392
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04bd2b94093fbb4697c2629c8fb158b
+      internalID: 1750000165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_185
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 356
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fd74160df14304b93aab91fe584a48
+      internalID: 832503588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_186
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 348
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558590239a8040c44a45440d42c2308d
+      internalID: -238581592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_187
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 348
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029c962c19869749b9de3489fb8aa7a
+      internalID: -1860411866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_188
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 358
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c743b9cebd52a418a5e516833d967d
+      internalID: -226082846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_189
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 351
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633d0e4282e8af24ea6e3b1accdf2a20
+      internalID: -1141374532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_190
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 322
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9618b79d41b042810349702a98b83
+      internalID: -292598282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_191
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 277
+        width: 110
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0975b1ce3e1bd4fb3dafaabe650b7c
+      internalID: 1777517437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_192
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 274
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b4f696ae76e8e419162d4d679f5da2
+      internalID: 1043128144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_193
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 274
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c41cbeb47a27f40b89ac800255badd
+      internalID: 257980332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_194
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 199
+        width: 204
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f3f168026276148ad6b10ed204b57c
+      internalID: 1148737451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_195
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 200
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdea9cf79635ca44bc017cb17caf6a7
+      internalID: 332601958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_196
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 208
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d4e8a017593db4db9a78df63097a1c
+      internalID: -665554842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_197
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 100
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1d54fc5b328704fa31901c3bc38677
+      internalID: -1006588574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_198
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 152
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cbb3747dac80144bdc6ef078fc17ec
+      internalID: -2079958135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_199
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 137
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d354e228cee5b4a95d8f6faf138aa3
+      internalID: -1479305515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_200
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 172
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb90da4c51e1b1f4084e243e7e6b9f71
+      internalID: 470528614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_201
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 172
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa878ca460a4b904a85b5df6579dd842
+      internalID: -594490406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_202
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 87
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd11ee98cef1247bb9fdbae0913e2b
+      internalID: 1337565053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_203
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 123
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a96774ec1afda84aa62d39e17ef77df
+      internalID: -1114570462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_204
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 123
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0ab02e9b8de6d49925f45c93e85008
+      internalID: 1534154042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_205
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a7fdc0da3dbf4d9bbc9ce1f8f3086
+      internalID: 507470830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_206
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 71
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa25b1cafda18914189bb6fb69e003c3
+      internalID: 1276921279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_207
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 64
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8c4f1f7776cc24fbe08126b459b4d3
+      internalID: -1062335114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_208
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 64
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fb145c9ad9e6041bd36f17ea5a26d3
+      internalID: -778316179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_209
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 29
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c7e243d5facb46bd0c7876ec9a334
+      internalID: -1042774981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_210
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 26
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72afa70ece2ce824fb70cd40b97ac348
+      internalID: 1213248799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_211
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 0
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bbf69bab7babb4286837a2621ed800
+      internalID: 45207696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_212
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 0
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a261ba725e2cd2b4c9de7d74a8d325c5
+      internalID: 1306294097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_213
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 19
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15709414b044eda459141be846698e1c
+      internalID: 2007970923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaver_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1689
+        width: 202
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcbb6e7a05055649b1a7f2cf6c1f92e
+      internalID: -491940926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workshop_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1552
+        width: 200
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07f2e2442465254993464f451f754b8
+      internalID: 2067314095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quary_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1735
+        width: 199
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b138b7531676042ad84d905843f054
+      internalID: -539892998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workshop_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1613
+        width: 195
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f31fc8a32c613d4ea4ea22c3eda2c54
+      internalID: 758664299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quary_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1369
+        width: 199
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6bf45bdc1a55e4792e8ca8a677526c
+      internalID: 100917823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowShed_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1142
+        width: 204
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf351d4c0adbbf4bab7a6280b7dd8d0
+      internalID: 1626705309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaver_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1446
+        width: 197
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f4aee5b4e759b4c8b5de404ad8e96d
+      internalID: -755351409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeedFactory_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1281
+        width: 199
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afbfc5ff02599e42b514e07ca0abd44
+      internalID: -426212103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeedFactory_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1272
+        width: 206
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87825abc91b602b45b3525b70c048aca
+      internalID: -646834408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeedFactory_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1240
+        width: 188
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6f4d7bf28ac3b46acbe5152d285233
+      internalID: 1876129375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowShed_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1138
+        width: 202
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dbfbd470f63604b874dc18e2c9efdb
+      internalID: 1893760616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_223
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1107
+        width: 178
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451bdc8d45088e14b926877f31aba613
+      internalID: 25031516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowShed_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1087
+        width: 208
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22571b3160969a4e9f4150f9bf434a4
+      internalID: 753491740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowShed_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 199
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2ce9c4612b96d43870f966dc7e94b8
+      internalID: 641482642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DairyFactory_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 980
+        width: 197
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3de7e64f0739b24bb921146037d2570
+      internalID: 84137062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DairyFactory_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 964
+        width: 202
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03571c4e7db1608409762f2c2f14c30f
+      internalID: -754784483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DairyFactory_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 952
+        width: 202
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629dd3405ffd7745a2edf93102afdb3
+      internalID: -1059505589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_229
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 906
+        width: 130
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587249690bc6b604b9da7e1db7fbb590
+      internalID: -2040117611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DairyFactory_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 829
+        width: 201
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad612d9361a6f54bbf0b827d2a9b2de
+      internalID: -2029545006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChickenCoop_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 825
+        width: 197
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac05deb1b881b724d98190d2a4461c05
+      internalID: -238813630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChickenCoop_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 804
+        width: 202
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88207d6b10573184d985c95a1c31dfcf
+      internalID: 1449175017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChickenCoop_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 794
+        width: 190
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d51b85a20cf4489212acb92e65e11
+      internalID: 1759620468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChickenCoop_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 764
+        width: 206
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092af801216f20e4d8dabda0f4a47add
+      internalID: 2119035684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrillFactory_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 201
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ef8cce997f9f243902f6053bac63aa
+      internalID: -1793152582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigFeed_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 665
+        width: 199
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd3971882e5018478b2b923ac030b2b
+      internalID: -395530673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigFeed_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 641
+        width: 195
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fdc5c288c78de4c98fba0ce2a39ec4
+      internalID: -2102416552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigFeed_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 635
+        width: 197
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa79b4579e5ce3a48a39833ea0544e18
+      internalID: -115726543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigFeed_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 614
+        width: 204
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707968f0b32cdd0458d7b98474fc4b64
+      internalID: 1596558694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrillFactory_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 206
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f8b8afdb239f14685fecdb208b41d5
+      internalID: -739304208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrillFactory_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 500
+        width: 195
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb998b0d2acb7142ab0aa4e6b72f075
+      internalID: 1900278606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrillFactory_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 484
+        width: 200
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254fe517a777464084be07938069497
+      internalID: -380838375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeverageFactory_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 477
+        width: 195
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a77470b8f0f64c90c2c34a9d0ae06
+      internalID: 2029656955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeverageFactory_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 461
+        width: 204
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d3ba1561a4aa14ca0d3485b98a2fec
+      internalID: 907106213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeverageFactory_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 208
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9196f9b46ad5a8b4a979a58505930cb4
+      internalID: 1690453417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeverageFactory_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 340
+        width: 197
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ec9b64ba9400844a6793c9c86b3e8d
+      internalID: -1703501517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 319
+        width: 192
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a25c9390529284d80e77c89265c5a1
+      internalID: -950169716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 315
+        width: 203
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd28df9f6f85a43a3ed2762274f8ee
+      internalID: -1328729217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 303
+        width: 200
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda615aad4875d4db6802b2105f6083
+      internalID: -1525062508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinnerTable_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 204
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2300e5438ddad4e43bceab27ce46d3b8
+      internalID: 375218345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinnerTable_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 169
+        width: 190
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b4b4de32798c74e8165373928fa19d
+      internalID: -261401666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinnerTable_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 159
+        width: 197
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e2c9a5f087a924eb6acf594af2683a
+      internalID: -1665236689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinnerTable_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 157
+        width: 197
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6229451b7a725a84c8222c2aa1c804ba
+      internalID: -1009705729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 153
+        width: 206
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f17fcf3a682dc843a73b74464ad1dbc
+      internalID: -1467823222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyLake_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 204
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a6fd5121d4b84b86e7088f1fbf1da
+      internalID: 1912433025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyLake_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 190
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953ca9c30518a284cbc364763cad6907
+      internalID: 1914910410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyLake_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 199
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44303c9c3d1f374c9e12ea4fb6dd900
+      internalID: 732429020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyLake_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2
+        width: 201
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa2e0cd3fc86c544aefe2a4209eea69
+      internalID: 754226391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_259
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1895
+        width: 100
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bc1b119a6c0ad4d8a4092abf30c24a
+      internalID: -445835393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_260
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1791
+        width: 125
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f69bf5f2fabd5409edac2fe4d6842d
+      internalID: 1008181245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaver_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1740
+        width: 199
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fdcce959e44844a8b335a2ee9ef2b7
+      internalID: 1677965369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BeverageFactory_Sprites_0: 2029656955
+      BeverageFactory_Sprites_1: 907106213
+      BeverageFactory_Sprites_2: 1690453417
+      BeverageFactory_Sprites_3: -1703501517
+      ChickenCoop_Sprites_0: 1759620468
+      ChickenCoop_Sprites_1: 1449175017
+      ChickenCoop_Sprites_2: -238813630
+      ChickenCoop_Sprites_3: 2119035684
+      CowShed_Sprites_0: 753491740
+      CowShed_Sprites_1: 1893760616
+      CowShed_Sprites_2: 1626705309
+      CowShed_Sprites_3: 641482642
+      DairyFactory_Sprites_0: -1059505589
+      DairyFactory_Sprites_1: -754784483
+      DairyFactory_Sprites_2: 84137062
+      DairyFactory_Sprites_3: -2029545006
+      DinnerTable_Sprites_0: -1009705729
+      DinnerTable_Sprites_1: -1665236689
+      DinnerTable_Sprites_2: -261401666
+      DinnerTable_Sprites_3: 375218345
+      EnergyLake_Sprites_0: 1912433025
+      EnergyLake_Sprites_1: 1914910410
+      EnergyLake_Sprites_2: 732429020
+      EnergyLake_Sprites_3: 754226391
+      FeedFactory_Sprites_0: 1876129375
+      FeedFactory_Sprites_1: -646834408
+      FeedFactory_Sprites_2: -426212103
+      FeedFactory_Sprites_3: -749351054
+      GoldMining_Sprites_0: -230962644
+      GoldMining_Sprites_1: -1645770516
+      GrillFactory_Sprites_0: -1793152582
+      GrillFactory_Sprites_1: -739304208
+      GrillFactory_Sprites_2: 1900278606
+      GrillFactory_Sprites_3: -380838375
+      Kitchen_Sprites_0: -950169716
+      Kitchen_Sprites_1: -1328729217
+      Kitchen_Sprites_2: -1525062508
+      Kitchen_Sprites_3: -1467823222
+      PigFeed_Sprites_0: 1596558694
+      PigFeed_Sprites_1: -115726543
+      PigFeed_Sprites_2: -2102416552
+      PigFeed_Sprites_3: -395530673
+      Quary_Sprites_0: 100917823
+      Quary_Sprites_1: -511845851
+      Quary_Sprites_2: -445203219
+      Quary_Sprites_3: -539892998
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_0: -324173313
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_1: -1878285039
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_10: 1564473877
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_100: 535107326
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_101: 2045542630
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_102: 1639389531
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_103: -656979415
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_104: -598207835
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_105: -1851790826
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_106: 82542323
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_108: -38093348
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_109: 1329751756
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_110: 1209803004
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_111: -1462843530
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_112: -17089191
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_113: -869851806
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_114: -1946174325
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_115: -398190668
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_116: -2101733809
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_117: 2078858560
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_118: 310772944
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_119: 329744209
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_12: -1023139982
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_120: 1589167533
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_121: -695076346
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_122: 503497732
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_123: -1353511994
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_124: 391503323
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_125: 915775214
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_126: -151828132
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_127: -1903382951
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_128: 1774148467
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_129: -2039192227
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_13: -194835532
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_130: -589015239
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_131: -22891572
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_132: -79753034
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_133: -1757481468
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_134: -256849149
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_135: -315368637
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_136: -1915869273
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_137: -813644282
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_138: 84103347
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_139: -442617730
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_14: 1535423927
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_140: 1000076737
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_141: 1750933612
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_142: -1375871248
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_143: -1599586784
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_144: -2097035072
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_145: 1670932452
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_146: 959664673
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_147: -849798983
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_148: -1743398631
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_149: -382678128
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_150: 1297156279
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_151: -2110841218
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_152: 228712203
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_153: -916723676
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_154: -206019902
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_155: 391884572
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_156: 1721210062
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_157: 337372817
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_158: -386567150
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_159: -1804162231
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_16: 419810979
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_160: -670279772
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_161: -1221916980
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_162: 1113585798
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_163: 1817541428
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_164: 1163937172
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_165: 63839001
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_166: 1666246706
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_167: -1441957935
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_168: 684035512
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_169: -1878185588
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_17: 138741169
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_170: -1844816625
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_171: 82883126
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_172: -1416113788
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_173: 1577879951
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_174: 1490223393
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_175: -195375438
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_176: -700793234
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_177: -195807881
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_178: 1151386692
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_179: -928425393
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_180: -1988702288
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_181: -640374624
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_182: 1755090135
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_183: -1423187378
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_184: 1750000165
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_185: 832503588
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_186: -238581592
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_187: -1860411866
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_188: -226082846
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_189: -1141374532
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_190: -292598282
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_191: 1777517437
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_192: 1043128144
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_193: 257980332
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_194: 1148737451
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_195: 332601958
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_196: -665554842
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_197: -1006588574
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_198: -2079958135
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_199: -1479305515
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_2: 408203420
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_20: 1835885943
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_200: 470528614
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_201: -594490406
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_202: 1337565053
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_203: -1114570462
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_204: 1534154042
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_205: 507470830
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_206: 1276921279
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_207: -1062335114
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_208: -778316179
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_209: -1042774981
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_21: -259028631
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_210: 1213248799
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_211: 45207696
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_212: 1306294097
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_213: 2007970923
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_22: -2135724600
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_223: 25031516
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_229: -2040117611
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_23: -1571980668
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_24: 1309087600
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_25: 1259715657
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_259: -445835393
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_26: 2023618164
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_260: 1008181245
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_27: -165382319
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_28: 745237812
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_29: 53087421
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_3: -1769147529
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_30: -1176495894
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_31: -1947761558
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_32: -54531552
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_33: 1874826460
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_34: -2088883120
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_37: -122663593
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_38: 127363881
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_39: -642118071
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_4: 845020061
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_40: 940225058
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_41: 2132031837
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_42: -1702069189
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_43: 1905977817
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_44: -863548750
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_45: 1695908401
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_46: 16474973
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_47: 1818276848
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_48: -333268997
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_49: 1081363194
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_5: 1842031857
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_50: 1008697412
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_51: -1775467391
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_52: -2128966155
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_55: -353660148
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_56: -1363539225
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_57: -2129195684
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_58: 1228890261
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_59: -895667356
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_6: 725780735
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_60: -1987777614
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_61: 992281457
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_62: 676053108
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_63: 1718978037
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_64: -1362164727
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_65: 864515741
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_66: 1162518581
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_67: 1943530308
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_68: -1773169236
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_69: 1448380270
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_7: 34004776
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_70: 1593360824
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_71: 835785934
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_72: 720902069
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_73: 669775271
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_74: 349382690
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_75: -1443556605
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_76: 1526685283
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_77: -16103848
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_78: -334416827
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_79: -1077089701
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_8: 1601060662
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_80: 1948246477
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_81: -907222654
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_82: 543020955
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_83: 572186367
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_84: 1443320606
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_85: -1946899787
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_86: 731782168
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_87: 1407131063
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_88: -505776577
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_89: 252301861
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_90: -1772643239
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_91: 732673801
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_92: -1524204961
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_93: 1968780396
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_94: -111730082
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_95: -1007803748
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_96: 1260795522
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_97: 1786332188
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_98: -120459032
+      SpriteAtlasTexture-Buildings (Group 0)-2048x2048-fmt47_1_99: -982746329
+      Weaver_Sprites_0: -491940926
+      Weaver_Sprites_1: 1677965369
+      Weaver_Sprites_2: -178641574
+      Weaver_Sprites_3: -755351409
+      Workshop_Sprites_0: 1364270190
+      Workshop_Sprites_1: 2067314095
+      Workshop_Sprites_2: 284978304
+      Workshop_Sprites_3: 758664299
+      carrotsstage1: 1586300397
+      carrotsstage2: 351787161
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

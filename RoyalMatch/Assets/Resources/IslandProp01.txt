@@ -1,0 +1,3333 @@
+﻿definition.lastmodified = 1522052599
+
+##### STARTBUILDING #####
+
+warehouseStart1.buildingName = warehouse
+warehouseStart1.gridU = 27
+warehouseStart1.gridV = 46
+warehouseStart1.isFlipped = FALSE
+warehouseStart1.elementId = 100
+warehouseStart1.type = startBuilding
+
+Weaver_producehouse.buildingName = Weaver
+Weaver_producehouse.gridU = 75
+Weaver_producehouse.gridV = 85
+Weaver_producehouse.isFlipped = FALSE
+Weaver_producehouse.elementId = 101
+Weaver_producehouse.type = startBuilding
+
+Workshop_producehouse.buildingName = Workshop
+Workshop_producehouse.gridU = 76
+Workshop_producehouse.gridV = 94
+Workshop_producehouse.isFlipped = FALSE
+Workshop_producehouse.elementId = 102
+Workshop_producehouse.type = startBuilding
+
+Quary_producehouse.buildingName = Quary
+Quary_producehouse.gridU = 80
+Quary_producehouse.gridV = 85
+Quary_producehouse.isFlipped = FALSE
+Quary_producehouse.elementId = 103
+Quary_producehouse.type = startBuilding
+
+FeedFactory_producehouse.buildingName = FeedFactory
+FeedFactory_producehouse.gridU = 69
+FeedFactory_producehouse.gridV = 89
+FeedFactory_producehouse.isFlipped = FALSE
+FeedFactory_producehouse.elementId = 104
+FeedFactory_producehouse.type = startBuilding
+
+CowShed_producehouse.buildingName = CowShed
+CowShed_producehouse.gridU = 68
+CowShed_producehouse.gridV = 94
+CowShed_producehouse.isFlipped = FALSE
+CowShed_producehouse.elementId = 105
+CowShed_producehouse.type = startBuilding
+
+DairyFactory_producehouse.buildingName = DairyFactory
+DairyFactory_producehouse.gridU = 64
+DairyFactory_producehouse.gridV = 73
+DairyFactory_producehouse.isFlipped = FALSE
+DairyFactory_producehouse.elementId = 106
+DairyFactory_producehouse.type = startBuilding
+
+ChickenCoop_producehouse.buildingName = ChickenCoop
+ChickenCoop_producehouse.gridU = 69
+ChickenCoop_producehouse.gridV = 69
+ChickenCoop_producehouse.isFlipped = FALSE
+ChickenCoop_producehouse.elementId = 107
+ChickenCoop_producehouse.type = startBuilding
+
+PigFeed_producehouse.buildingName = PigFeed
+PigFeed_producehouse.gridU = 60
+PigFeed_producehouse.gridV = 87
+PigFeed_producehouse.isFlipped = FALSE
+PigFeed_producehouse.elementId = 108
+PigFeed_producehouse.type = startBuilding
+
+GrillFactory_producehouse.buildingName = GrillFactory
+GrillFactory_producehouse.gridU = 60
+GrillFactory_producehouse.gridV = 95
+GrillFactory_producehouse.isFlipped = FALSE
+GrillFactory_producehouse.elementId = 109
+GrillFactory_producehouse.type = startBuilding
+
+BeverageFactory_producehouse.buildingName = BeverageFactory
+BeverageFactory_producehouse.gridU = 81
+BeverageFactory_producehouse.gridV = 85
+BeverageFactory_producehouse.isFlipped = FALSE
+BeverageFactory_producehouse.elementId = 110
+BeverageFactory_producehouse.type = startBuilding 
+
+Kitchen_producehouse.buildingName = Kitchen
+Kitchen_producehouse.gridU = 85
+Kitchen_producehouse.gridV = 75
+Kitchen_producehouse.isFlipped = FALSE
+Kitchen_producehouse.elementId = 111
+Kitchen_producehouse.type = startBuilding
+
+DinnerTable_producehouse.buildingName = DinnerTable
+DinnerTable_producehouse.gridU = 80
+DinnerTable_producehouse.gridV = 80
+DinnerTable_producehouse.isFlipped = FALSE
+DinnerTable_producehouse.elementId = 112
+DinnerTable_producehouse.type = startBuilding
+
+EnergyLake_producehouse.buildingName = EnergyLake
+EnergyLake_producehouse.gridU = 34
+EnergyLake_producehouse.gridV = 75
+EnergyLake_producehouse.isFlipped = FALSE
+EnergyLake_producehouse.elementId = 113
+EnergyLake_producehouse.type = startBuilding
+
+GoldMining_producehouse.buildingName = GoldMining
+GoldMining_producehouse.gridU = 48
+GoldMining_producehouse.gridV = 83
+GoldMining_producehouse.isFlipped = FALSE
+GoldMining_producehouse.elementId = 114
+GoldMining_producehouse.type = startBuilding
+
+TrainHouse.buildingName = Train
+TrainHouse.gridU = 80
+TrainHouse.gridV = 101
+TrainHouse.isFlipped = FALSE
+TrainHouse.elementId = 115
+TrainHouse.type = startBuilding
+
+AirplaneHouse.buildingName = Airplane
+AirplaneHouse.gridU = 53
+AirplaneHouse.gridV = 92
+AirplaneHouse.isFlipped = FALSE
+AirplaneHouse.elementId = 116
+AirplaneHouse.type = startBuilding
+
+##### STARTNOTFUNCBUILDING #####
+
+HomeStart1.buildingName = Home
+HomeStart1.gridU = 76
+HomeStart1.gridV = 72
+HomeStart1.isFlipped = FALSE
+HomeStart1.elementId = 117
+HomeStart1.type = startBuilding
+
+WindmillStart1.buildingName = Windmill
+WindmillStart1.gridU = 86
+WindmillStart1.gridV = 76
+WindmillStart1.isFlipped = FALSE
+WindmillStart1.elementId = 118
+WindmillStart1.type = startBuilding
+
+HotSpringStart1.buildingName = HotSpring
+HotSpringStart1.gridU = 26
+HotSpringStart1.gridV = 85
+HotSpringStart1.isFlipped = FALSE
+HotSpringStart1.elementId = 119
+HotSpringStart1.type = startBuilding
+
+WellStart1.buildingName = Well
+WellStart1.gridU = 83
+WellStart1.gridV = 64
+WellStart1.isFlipped = FALSE
+WellStart1.elementId = 120
+WellStart1.type = startBuilding
+
+LightHouseStart1.buildingName = LightHouse
+LightHouseStart1.gridU = 28
+LightHouseStart1.gridV = 104
+LightHouseStart1.isFlipped = FALSE
+LightHouseStart1.elementId = 121
+LightHouseStart1.type = startBuilding
+
+ParkStart1.buildingName = Park
+ParkStart1.gridU = 53
+ParkStart1.gridV = 66
+ParkStart1.isFlipped = FALSE
+ParkStart1.elementId = 122
+ParkStart1.type = startBuilding
+
+WaterFountainAStart1.buildingName = WaterFountainA
+WaterFountainAStart1.gridU = 75
+WaterFountainAStart1.gridV = 81
+WaterFountainAStart1.isFlipped = FALSE
+WaterFountainAStart1.elementId = 123
+WaterFountainAStart1.type = startBuilding
+
+WaterFountainBStart1.buildingName = WaterFountainB
+WaterFountainBStart1.gridU = 59
+WaterFountainBStart1.gridV = 68
+WaterFountainBStart1.isFlipped = FALSE
+WaterFountainBStart1.elementId = 124
+WaterFountainBStart1.type = startBuilding
+
+BoatStart1.buildingName = Boat
+BoatStart1.gridU = 78
+BoatStart1.gridV = 56
+BoatStart1.isFlipped = FALSE
+BoatStart1.elementId = 125
+BoatStart1.type = startBuilding
+
+StatueAStart1.buildingName = StatueA
+StatueAStart1.gridU = 67
+StatueAStart1.gridV = 64
+StatueAStart1.isFlipped = FALSE
+StatueAStart1.elementId = 126
+StatueAStart1.type = startBuilding
+
+StatueBStart1.buildingName = StatueB
+StatueBStart1.gridU = 53
+StatueBStart1.gridV = 85
+StatueBStart1.isFlipped = FALSE
+StatueBStart1.elementId = 127
+StatueBStart1.type = startBuilding
+
+GardenFlowerAStart1.buildingName = GardenFlowerA
+GardenFlowerAStart1.gridU = 77
+GardenFlowerAStart1.gridV = 89
+GardenFlowerAStart1.isFlipped = FALSE
+GardenFlowerAStart1.elementId = 128
+GardenFlowerAStart1.type = startBuilding
+
+GardenFlowerBStart1.buildingName = GardenFlowerB
+GardenFlowerBStart1.gridU = 86
+GardenFlowerBStart1.gridV = 65
+GardenFlowerBStart1.isFlipped = FALSE
+GardenFlowerBStart1.elementId = 129
+GardenFlowerBStart1.type = startBuilding
+
+SmallPondStart1.buildingName = SmallPond
+SmallPondStart1.gridU = 81
+SmallPondStart1.gridV = 65
+SmallPondStart1.isFlipped = FALSE
+SmallPondStart1.elementId = 130
+SmallPondStart1.type = startBuilding
+
+##### ItemBonus #####
+
+ItemBonus1.buildingName = BonusTree1
+ItemBonus1.gridU = 56
+ItemBonus1.gridV = 74
+ItemBonus1.isFlipped = FALSE
+ItemBonus1.type = startBuilding
+
+ItemBonus2.buildingName = BonusTree2
+ItemBonus2.gridU = 54
+ItemBonus2.gridV = 74
+ItemBonus2.isFlipped = FALSE
+ItemBonus2.type = startBuilding
+
+ItemBonus3.buildingName = BonusTree3
+ItemBonus3.gridU = 52
+ItemBonus3.gridV = 74
+ItemBonus3.isFlipped = FALSE
+ItemBonus3.type = startBuilding
+
+ItemBonus4.buildingName = BonusTree4
+ItemBonus4.gridU = 50
+ItemBonus4.gridV = 74
+ItemBonus4.isFlipped = FALSE
+ItemBonus4.type = startBuilding
+
+ItemBonus5.buildingName = StumpSlim
+ItemBonus5.gridU = 48
+ItemBonus5.gridV = 74
+ItemBonus5.isFlipped = FALSE
+ItemBonus5.type = startBuilding
+
+ItemBonus6.buildingName = StumpNormal
+ItemBonus6.gridU = 46
+ItemBonus6.gridV = 74
+ItemBonus6.isFlipped = FALSE
+ItemBonus6.type = startBuilding
+
+ItemBonus7.buildingName = StumpBig
+ItemBonus7.gridU = 48
+ItemBonus7.gridV = 76
+ItemBonus7.isFlipped = FALSE
+ItemBonus7.type = startBuilding
+
+ItemBonus8.buildingName = WoodChest
+ItemBonus8.gridU = 64
+ItemBonus8.gridV = 70
+ItemBonus8.isFlipped = FALSE
+ItemBonus8.type = startBuilding
+
+ItemBonus9.buildingName = BigChest
+ItemBonus9.gridU = 62
+ItemBonus9.gridV = 70
+ItemBonus9.isFlipped = FALSE
+ItemBonus9.type = startBuilding
+
+ItemBonus10.buildingName = GoldChest
+ItemBonus10.gridU = 60
+ItemBonus10.gridV = 70
+ItemBonus10.isFlipped = FALSE
+ItemBonus10.type = startBuilding
+
+ItemBonus11.buildingName = DiamondChest
+ItemBonus11.gridU = 58
+ItemBonus11.gridV = 70
+ItemBonus11.isFlipped = FALSE
+ItemBonus11.type = startBuilding
+
+#ItemBonus12.buildingName = SeaStar
+#ItemBonus12.gridU = 56
+#ItemBonus12.gridV = 70
+#ItemBonus12.isFlipped = FALSE
+#ItemBonus12.type = startBuilding
+
+#ItemBonus12.buildingName = Scallops
+#ItemBonus12.gridU = 54
+#ItemBonus12.gridV = 70
+#ItemBonus12.isFlipped = FALSE
+#ItemBonus12.type = startBuilding
+
+#ItemBonus13.buildingName = OpenClam
+#ItemBonus13.gridU = 52
+#ItemBonus13.gridV = 70
+#ItemBonus13.isFlipped = FALSE
+#ItemBonus13.type = startBuilding
+
+#ItemBonus14.buildingName = CactusFlower
+#ItemBonus14.gridU = 50
+#ItemBonus14.gridV = 70
+#ItemBonus14.isFlipped = FALSE
+#ItemBonus14.type = startBuilding
+
+#ItemBonus15.buildingName = Mushrooms
+#ItemBonus15.gridU = 48
+#ItemBonus15.gridV = 70
+#ItemBonus15.isFlipped = FALSE
+#ItemBonus15.type = startBuilding
+
+#ItemBonus16.buildingName = SandCastle
+#ItemBonus16.gridU = 46
+#ItemBonus16.gridV = 70
+#ItemBonus16.isFlipped = FALSE
+#ItemBonus16.type = startBuilding
+
+#ItemBonus17.buildingName = Meteor
+#ItemBonus17.gridU = 46
+#ItemBonus17.gridV = 76
+#ItemBonus17.isFlipped = FALSE
+#ItemBonus17.type = startBuilding
+
+BonusTree1.type = ItemBonusChangeStage
+BonusTree1.moveable = FALSE
+BonusTree1.sizeU = 1
+BonusTree1.sizeV = 1
+BonusTree1.rewards = xp,9,wood,7,energy,8
+BonusTree1.cost = energy,47
+BonusTree1.nextStage = GiftBonusTree
+BonusTree1.gatherableCategory = 3
+
+BonusTree2.type = ItemBonusChangeStage
+BonusTree2.moveable = FALSE
+BonusTree2.sizeU = 1
+BonusTree2.sizeV = 1
+BonusTree2.rewards = xp,10,wood,8
+BonusTree2.cost = energy,105
+BonusTree2.nextStage = StumpSlimBonusTree
+BonusTree2.gatherableCategory = 3
+
+BonusTree3.type = ItemBonusChangeStage
+BonusTree3.moveable = FALSE
+BonusTree3.sizeU = 1
+BonusTree3.sizeV = 1
+BonusTree3.rewards = xp,31,wood,10,energy,11
+BonusTree3.cost = energy,114
+BonusTree3.nextStage = StumpNormalBonusTree
+BonusTree3.gatherableCategory = 3
+
+BonusTree4.type = ItemBonusChangeStage
+BonusTree4.moveable = FALSE
+BonusTree4.sizeU = 1
+BonusTree4.sizeV = 1
+BonusTree4.rewards = xp,38,wood,15,energy,15
+BonusTree4.cost = energy,143
+BonusTree4.nextStage = StumpBigBonusTree
+BonusTree4.gatherableCategory = 3
+
+StumpSlim.type = ItemBonusChangeStage
+StumpSlim.moveable = FALSE
+StumpSlim.sizeU = 1
+StumpSlim.sizeV = 1
+StumpSlim.rewards = wood,5,energy,5
+StumpSlim.cost = shovel,1
+StumpSlim.nextStage = GiftBonusStumpSlim
+StumpSlim.gatherableCategory = 3
+
+StumpNormal.type = ItemBonusChangeStage
+StumpNormal.moveable = FALSE
+StumpNormal.sizeU = 1
+StumpNormal.sizeV = 1
+StumpNormal.rewards = wood,5,energy,5
+StumpNormal.cost = shovel,1
+StumpNormal.nextStage = GiftBonusStumpNormal
+StumpNormal.gatherableCategory = 3
+
+StumpBig.type = ItemBonusChangeStage
+StumpBig.moveable = FALSE
+StumpBig.sizeU = 1
+StumpBig.sizeV = 1
+StumpBig.rewards = wood,5,energy,5
+StumpBig.cost = shovel,1
+StumpBig.nextStage = GiftBonusStumpBig
+StumpBig.gatherableCategory = 3
+
+GiftBonusTree.type = ItemBonus
+GiftBonusTree.moveable = FALSE
+GiftBonusTree.sizeU = 1
+GiftBonusTree.sizeV = 1
+GiftBonusTree.rewards = xp,12,energy,25
+GiftBonusTree.gatherableCategory = 3
+
+GiftBonusStumpSlim.type = ItemBonus
+GiftBonusStumpSlim.moveable = FALSE
+GiftBonusStumpSlim.sizeU = 1
+GiftBonusStumpSlim.sizeV = 1
+GiftBonusStumpSlim.rewards = gems,1,energy,15
+GiftBonusStumpSlim.gatherableCategory = 3
+
+GiftBonusStumpNormal.type = ItemBonus
+GiftBonusStumpNormal.moveable = FALSE
+GiftBonusStumpNormal.sizeU = 1
+GiftBonusStumpNormal.sizeV = 1
+GiftBonusStumpNormal.rewards = gems,1,energy,25
+GiftBonusStumpNormal.gatherableCategory = 3
+
+GiftBonusStumpBig.type = ItemBonus
+GiftBonusStumpBig.moveable = FALSE
+GiftBonusStumpBig.sizeU = 1
+GiftBonusStumpBig.sizeV = 1
+GiftBonusStumpBig.rewards = gems,3,energy,25,xp,3
+GiftBonusStumpBig.gatherableCategory = 3
+
+StumpSlimBonusTree.type = ItemBonus
+StumpSlimBonusTree.moveable = FALSE
+StumpSlimBonusTree.sizeU = 1
+StumpSlimBonusTree.sizeV = 1
+StumpSlimBonusTree.rewards = xp,38
+StumpSlimBonusTree.gatherableCategory = 3
+
+StumpNormalBonusTree.type = ItemBonus
+StumpNormalBonusTree.moveable = FALSE
+StumpNormalBonusTree.sizeU = 1
+StumpNormalBonusTree.sizeV = 1
+StumpNormalBonusTree.rewards = xp,40
+StumpNormalBonusTree.gatherableCategory = 3
+
+StumpBigBonusTree.type = ItemBonus
+StumpBigBonusTree.moveable = FALSE
+StumpBigBonusTree.sizeU = 1
+StumpBigBonusTree.sizeV = 1
+StumpBigBonusTree.rewards = xp,55
+StumpBigBonusTree.gatherableCategory = 3
+
+WoodChest.type = ItemBonus
+WoodChest.moveable = FALSE
+WoodChest.sizeU = 1
+WoodChest.sizeV = 1
+WoodChest.rewards = gems,1,energy,25,xp,8
+WoodChest.cost = key,1
+WoodChest.gatherableCategory = 3
+
+BigChest.type = ItemBonus
+BigChest.moveable = FALSE
+BigChest.sizeU = 1
+BigChest.sizeV = 1
+BigChest.rewards = gems,2,energy,50,xp,12
+BigChest.cost = key,2
+BigChest.gatherableCategory = 3
+
+GoldChest.type = ItemBonus
+GoldChest.moveable = FALSE
+GoldChest.sizeU = 1
+GoldChest.sizeV = 1
+GoldChest.rewards = gems,4,energy,150,xp,15
+GoldChest.cost = key,3
+GoldChest.gatherableCategory = 3
+
+DiamondChest.type = ItemBonus
+DiamondChest.moveable = FALSE
+DiamondChest.sizeU = 1
+DiamondChest.sizeV = 1
+DiamondChest.rewards = gems,4,energy,200,xp,20
+DiamondChest.cost = key,34
+DiamondChest.gatherableCategory = 3
+
+SeaStar.type = ItemBonusRepeat
+SeaStar.moveable = FALSE
+SeaStar.sizeU = 1
+SeaStar.sizeV = 1
+SeaStar.rewards = energy,2
+#tinh bang giay
+SeaStar.timeReset = 6
+SeaStar.gatherableCategory = 3
+
+Scallops.type = ItemBonusRepeat
+Scallops.moveable = FALSE
+Scallops.sizeU = 1
+Scallops.sizeV = 1
+Scallops.rewards = energy,3
+#tinh bang giay
+Scallops.timeReset = 6
+Scallops.gatherableCategory = 3
+
+OpenClam.type = ItemBonusRepeat
+OpenClam.moveable = FALSE
+OpenClam.sizeU = 1
+OpenClam.sizeV = 1
+OpenClam.rewards = energy,2
+#tinh bang giay
+OpenClam.timeReset = 6
+OpenClam.gatherableCategory = 3
+
+CactusFlower.type = ItemBonusRepeat
+CactusFlower.moveable = FALSE
+CactusFlower.sizeU = 1
+CactusFlower.sizeV = 1
+CactusFlower.rewards = energy,9
+#tinh bang giay
+CactusFlower.timeReset = 6
+CactusFlower.gatherableCategory = 3
+
+Mushrooms.type = ItemBonusRepeat
+Mushrooms.moveable = FALSE
+Mushrooms.sizeU = 1
+Mushrooms.sizeV = 1
+Mushrooms.rewards = energy,13
+#tinh bang giay
+Mushrooms.timeReset = 6
+Mushrooms.gatherableCategory = 3
+
+SandCastle.type = ItemBonusRepeat
+SandCastle.moveable = FALSE
+SandCastle.sizeU = 1
+SandCastle.sizeV = 1
+SandCastle.rewards = energy,15,xp,15
+#tinh bang giay
+SandCastle.cost = shovel,1
+SandCastle.timeReset = 6
+SandCastle.gatherableCategory = 3
+
+Meteor.type = ItemBonusRepeat
+Meteor.moveable = FALSE
+Meteor.sizeU = 1
+Meteor.sizeV = 1
+Meteor.rewards = energy,10,xp,10
+#tinh bang giay
+Meteor.cost = pickaxe,1
+Meteor.timeReset = 6
+Meteor.gatherableCategory = 3
+
+##### ItemBonus #####
+
+BlueberryTreebonusTree.buildingName = BlueberryTree
+BlueberryTreebonusTree.gridU = 60
+BlueberryTreebonusTree.gridV = 92
+BlueberryTreebonusTree.isFlipped = FALSE
+BlueberryTreebonusTree.type = startBuilding
+
+RedberryTreebonusTree.buildingName = RedberryTree
+RedberryTreebonusTree.gridU = 63
+RedberryTreebonusTree.gridV = 92
+RedberryTreebonusTree.isFlipped = FALSE
+RedberryTreebonusTree.type = startBuilding
+
+PineappleTreebonusTree.buildingName = PineappleTree
+PineappleTreebonusTree.gridU = 65
+PineappleTreebonusTree.gridV = 92
+PineappleTreebonusTree.isFlipped = FALSE
+PineappleTreebonusTree.type = startBuilding
+
+farmHouse01_3.type = residential
+farmHouse01_3.constructionRewards = xp, 650
+farmHouse01_3.stringReference = farmhouse
+farmHouse01_3.spriteReference = farmHouse01_f001
+farmHouse01_3.populationIncrease = 5
+farmHouse01_3.constructionCost = golds, 175
+farmHouse01_3.constructionMinutes = 1
+farmHouse01_3.maxFacilities = 1
+farmHouse01_3.sizeU = 4
+farmHouse01_3.sizeV = 4
+farmHouse01_3.unlockLevel = 12
+
+##### NEWWWWWWWW  GATHERABLESTARTBUILDING ID BẮT ĐẦU ĐẦU 600 #####
+
+##### REGION1 #####
+
+gatherableStart1_1.buildingName = gatherable_9
+gatherableStart1_1.gridU = 85
+gatherableStart1_1.gridV = 61
+gatherableStart1_1.isFlipped = FALSE
+gatherableStart1_1.elementId = 11
+gatherableStart1_1.isGatherable = TRUE
+gatherableStart1_1.type = startBuilding
+gatherableStart1_1.requirementForDestroy=
+
+gatherableStart1_2.buildingName = gatherable_10
+gatherableStart1_2.gridU = 85
+gatherableStart1_2.gridV = 62
+gatherableStart1_2.isFlipped = FALSE
+gatherableStart1_2.elementId = 12
+gatherableStart1_2.isGatherable = TRUE
+gatherableStart1_2.type = startBuilding
+gatherableStart1_2.requirementForDestroy=
+
+gatherableStart1_3.buildingName = gatherable_4
+gatherableStart1_3.gridU = 83
+gatherableStart1_3.gridV = 61
+gatherableStart1_3.isFlipped = FALSE
+gatherableStart1_3.elementId = 13
+gatherableStart1_3.isGatherable = TRUE
+gatherableStart1_3.type = startBuilding
+gatherableStart1_3.requirementForDestroy=
+
+gatherableStart1_4.buildingName = gatherable_13
+gatherableStart1_4.gridU = 80
+gatherableStart1_4.gridV = 62
+gatherableStart1_4.isFlipped = FALSE
+gatherableStart1_4.elementId = 14
+gatherableStart1_4.isGatherable = TRUE
+gatherableStart1_4.type = startBuilding
+gatherableStart1_4.requirementForDestroy=
+
+##### REGION2 #####
+
+gatherableStart2_1.buildingName = gatherable_11
+gatherableStart2_1.gridU = 87
+gatherableStart2_1.gridV = 63
+gatherableStart2_1.isFlipped = FALSE
+gatherableStart2_1.elementId = 21
+gatherableStart2_1.isGatherable = TRUE
+gatherableStart2_1.type = startBuilding
+gatherableStart2_1.requirementForDestroy=
+
+gatherableStart2_2.buildingName = gatherable_7
+gatherableStart2_2.gridU = 87
+gatherableStart2_2.gridV = 64
+gatherableStart2_2.isFlipped = FALSE
+gatherableStart2_2.elementId = 22
+gatherableStart2_2.isGatherable = TRUE
+gatherableStart2_2.type = startBuilding
+gatherableStart2_2.requirementForDestroy=
+
+gatherableStart2_3.buildingName = gatherable_14
+gatherableStart2_3.gridU = 87
+gatherableStart2_3.gridV = 65
+gatherableStart2_3.isFlipped = FALSE
+gatherableStart2_3.elementId = 23
+gatherableStart2_3.isGatherable = TRUE
+gatherableStart2_3.type = startBuilding
+gatherableStart2_3.requirementForDestroy=
+
+gatherableStart2_4.buildingName = gatherable_11
+gatherableStart2_4.gridU = 87
+gatherableStart2_4.gridV = 66
+gatherableStart2_4.isFlipped = FALSE
+gatherableStart2_4.elementId = 24
+gatherableStart2_4.isGatherable = TRUE
+gatherableStart2_4.type = startBuilding
+gatherableStart2_4.requirementForDestroy=
+
+gatherableStart2_5.buildingName = gatherable_11
+gatherableStart2_5.gridU = 87
+gatherableStart2_5.gridV = 67
+gatherableStart2_5.isFlipped = FALSE
+gatherableStart2_5.elementId = 25
+gatherableStart2_5.isGatherable = TRUE
+gatherableStart2_5.type = startBuilding
+gatherableStart2_5.requirementForDestroy=
+
+gatherableStart2_6.buildingName = gatherable_11
+gatherableStart2_6.gridU = 87
+gatherableStart2_6.gridV = 69
+gatherableStart2_6.isFlipped = FALSE
+gatherableStart2_6.elementId = 26
+gatherableStart2_6.isGatherable = TRUE
+gatherableStart2_6.type = startBuilding
+gatherableStart2_6.requirementForDestroy=
+
+gatherableStart2_7.buildingName = gatherable_14
+gatherableStart2_7.gridU = 87
+gatherableStart2_7.gridV = 70
+gatherableStart2_7.isFlipped = FALSE
+gatherableStart2_7.elementId = 27
+gatherableStart2_7.isGatherable = TRUE
+gatherableStart2_7.type = startBuilding
+gatherableStart2_7.requirementForDestroy=
+
+gatherableStart2_8.buildingName = gatherable_14
+gatherableStart2_8.gridU = 87
+gatherableStart2_8.gridV = 71
+gatherableStart2_8.isFlipped = FALSE
+gatherableStart2_8.elementId = 28
+gatherableStart2_8.isGatherable = TRUE
+gatherableStart2_8.type = startBuilding
+gatherableStart2_8.requirementForDestroy=
+
+gatherableStart2_9.buildingName = gatherable_11
+gatherableStart2_9.gridU = 87
+gatherableStart2_9.gridV = 72
+gatherableStart2_9.isFlipped = FALSE
+gatherableStart2_9.elementId = 29
+gatherableStart2_9.isGatherable = TRUE
+gatherableStart2_9.type = startBuilding
+gatherableStart2_9.requirementForDestroy=
+
+gatherableStart2_10.buildingName = gatherable_11
+gatherableStart2_10.gridU = 87
+gatherableStart2_10.gridV = 74
+gatherableStart2_10.isFlipped = FALSE
+gatherableStart2_10.elementId = 210
+gatherableStart2_10.isGatherable = TRUE
+gatherableStart2_10.type = startBuilding
+gatherableStart2_10.requirementForDestroy=
+
+gatherableStart2_11.buildingName = gatherable_14
+gatherableStart2_11.gridU = 86
+gatherableStart2_11.gridV = 64
+gatherableStart2_11.isFlipped = FALSE
+gatherableStart2_11.elementId = 211
+gatherableStart2_11.isGatherable = TRUE
+gatherableStart2_11.type = startBuilding
+gatherableStart2_11.requirementForDestroy=
+
+gatherableStart2_12.buildingName = gatherable_1
+gatherableStart2_12.gridU = 86
+gatherableStart2_12.gridV = 69
+gatherableStart2_12.isFlipped = FALSE
+gatherableStart2_12.elementId = 212
+gatherableStart2_12.isGatherable = TRUE
+gatherableStart2_12.type = startBuilding
+gatherableStart2_12.requirementForDestroy=
+
+gatherableStart2_13.buildingName = gatherable_13
+gatherableStart2_13.gridU = 86
+gatherableStart2_13.gridV = 70
+gatherableStart2_13.isFlipped = FALSE
+gatherableStart2_13.elementId = 213
+gatherableStart2_13.isGatherable = TRUE
+gatherableStart2_13.type = startBuilding
+gatherableStart2_13.requirementForDestroy=
+
+gatherableStart2_14.buildingName = gatherable_3
+gatherableStart2_14.gridU = 86
+gatherableStart2_14.gridV = 71
+gatherableStart2_14.isFlipped = FALSE
+gatherableStart2_14.elementId = 214
+gatherableStart2_14.isGatherable = TRUE
+gatherableStart2_14.type = startBuilding
+gatherableStart2_14.requirementForDestroy=
+
+gatherableStart2_15.buildingName = gatherable_1
+gatherableStart2_15.gridU = 86
+gatherableStart2_15.gridV = 72
+gatherableStart2_15.isFlipped = FALSE
+gatherableStart2_15.elementId = 215
+gatherableStart2_15.isGatherable = TRUE
+gatherableStart2_15.type = startBuilding
+gatherableStart2_15.requirementForDestroy=
+
+gatherableStart2_16.buildingName = gatherable_9
+gatherableStart2_16.gridU = 85
+gatherableStart2_16.gridV = 63
+gatherableStart2_16.isFlipped = FALSE
+gatherableStart2_16.elementId = 216
+gatherableStart2_16.isGatherable = TRUE
+gatherableStart2_16.type = startBuilding
+gatherableStart2_16.requirementForDestroy=
+
+gatherableStart2_17.buildingName = gatherable_13
+gatherableStart2_17.gridU = 85
+gatherableStart2_17.gridV = 64
+gatherableStart2_17.isFlipped = FALSE
+gatherableStart2_17.elementId = 217
+gatherableStart2_17.isGatherable = TRUE
+gatherableStart2_17.type = startBuilding
+gatherableStart2_17.requirementForDestroy=
+
+gatherableStart2_18.buildingName = gatherable_2
+gatherableStart2_18.gridU = 85
+gatherableStart2_18.gridV = 69
+gatherableStart2_18.isFlipped = FALSE
+gatherableStart2_18.elementId = 218
+gatherableStart2_18.isGatherable = TRUE
+gatherableStart2_18.type = startBuilding
+gatherableStart2_18.requirementForDestroy=
+
+gatherableStart2_19.buildingName = gatherable_1
+gatherableStart2_19.gridU = 85
+gatherableStart2_19.gridV = 70
+gatherableStart2_19.isFlipped = FALSE
+gatherableStart2_19.elementId = 219
+gatherableStart2_19.isGatherable = TRUE
+gatherableStart2_19.type = startBuilding
+gatherableStart2_19.requirementForDestroy=
+
+gatherableStart2_20.buildingName = gatherable_7
+gatherableStart2_20.gridU = 85
+gatherableStart2_20.gridV = 72
+gatherableStart2_20.isFlipped = FALSE
+gatherableStart2_20.elementId = 220
+gatherableStart2_20.isGatherable = TRUE
+gatherableStart2_20.type = startBuilding
+gatherableStart2_20.requirementForDestroy=
+
+gatherableStart2_21.buildingName = gatherable_2
+gatherableStart2_21.gridU = 84
+gatherableStart2_21.gridV = 63
+gatherableStart2_21.isFlipped = FALSE
+gatherableStart2_21.elementId = 221
+gatherableStart2_21.isGatherable = TRUE
+gatherableStart2_21.type = startBuilding
+gatherableStart2_21.requirementForDestroy=
+
+gatherableStart2_22.buildingName = gatherable_1
+gatherableStart2_22.gridU = 84
+gatherableStart2_22.gridV = 64
+gatherableStart2_22.isFlipped = FALSE
+gatherableStart2_22.elementId = 222
+gatherableStart2_22.isGatherable = TRUE
+gatherableStart2_22.type = startBuilding
+gatherableStart2_22.requirementForDestroy=
+
+gatherableStart2_23.buildingName = gatherable_7
+gatherableStart2_23.gridU = 84
+gatherableStart2_23.gridV = 65
+gatherableStart2_23.isFlipped = FALSE
+gatherableStart2_23.elementId = 223
+gatherableStart2_23.isGatherable = TRUE
+gatherableStart2_23.type = startBuilding
+gatherableStart2_23.requirementForDestroy=
+
+gatherableStart2_24.buildingName = gatherable_2
+gatherableStart2_24.gridU = 84
+gatherableStart2_24.gridV = 66
+gatherableStart2_24.isFlipped = FALSE
+gatherableStart2_24.elementId = 224
+gatherableStart2_24.isGatherable = TRUE
+gatherableStart2_24.type = startBuilding
+gatherableStart2_24.requirementForDestroy=
+
+gatherableStart2_25.buildingName = gatherable_13
+gatherableStart2_25.gridU = 84
+gatherableStart2_25.gridV = 67
+gatherableStart2_25.isFlipped = FALSE
+gatherableStart2_25.elementId = 225
+gatherableStart2_25.isGatherable = TRUE
+gatherableStart2_25.type = startBuilding
+gatherableStart2_25.requirementForDestroy=
+
+gatherableStart2_26.buildingName = gatherable_21
+gatherableStart2_26.gridU = 84
+gatherableStart2_26.gridV = 69
+gatherableStart2_26.isFlipped = FALSE
+gatherableStart2_26.elementId = 226
+gatherableStart2_26.isGatherable = TRUE
+gatherableStart2_26.type = startBuilding
+gatherableStart2_26.requirementForDestroy=
+
+gatherableStart2_27.buildingName = gatherable_2
+gatherableStart2_27.gridU = 84
+gatherableStart2_27.gridV = 70
+gatherableStart2_27.isFlipped = FALSE
+gatherableStart2_27.elementId = 227
+gatherableStart2_27.isGatherable = TRUE
+gatherableStart2_27.type = startBuilding
+gatherableStart2_27.requirementForDestroy=
+
+gatherableStart2_28.buildingName = gatherable_13
+gatherableStart2_28.gridU = 84
+gatherableStart2_28.gridV = 71
+gatherableStart2_28.isFlipped = FALSE
+gatherableStart2_28.elementId = 228
+gatherableStart2_28.isGatherable = TRUE
+gatherableStart2_28.type = startBuilding
+gatherableStart2_28.requirementForDestroy=
+
+gatherableStart2_29.buildingName = gatherable_3
+gatherableStart2_29.gridU = 84
+gatherableStart2_29.gridV = 72
+gatherableStart2_29.isFlipped = FALSE
+gatherableStart2_29.elementId = 229
+gatherableStart2_29.isGatherable = TRUE
+gatherableStart2_29.type = startBuilding
+gatherableStart2_29.requirementForDestroy=
+
+##### REGION3 #####
+
+gatherableStart3_1.buildingName = gatherable_13
+gatherableStart3_1.gridU = 83
+gatherableStart3_1.gridV = 63
+gatherableStart3_1.isFlipped = FALSE
+gatherableStart3_1.elementId = 31
+gatherableStart3_1.isGatherable = TRUE
+gatherableStart3_1.type = startBuilding
+gatherableStart3_1.requirementForDestroy=
+
+gatherableStart3_2.buildingName = gatherable_10
+gatherableStart3_2.gridU = 83
+gatherableStart3_2.gridV = 65
+gatherableStart3_2.isFlipped = FALSE
+gatherableStart3_2.elementId = 32
+gatherableStart3_2.isGatherable = TRUE
+gatherableStart3_2.type = startBuilding
+gatherableStart3_2.requirementForDestroy=
+
+gatherableStart3_3.buildingName = gatherable_2
+gatherableStart3_3.gridU = 83
+gatherableStart3_3.gridV = 70
+gatherableStart3_3.isFlipped = FALSE
+gatherableStart3_3.elementId = 33
+gatherableStart3_3.isGatherable = TRUE
+gatherableStart3_3.type = startBuilding
+gatherableStart3_3.requirementForDestroy=
+
+gatherableStart3_4.buildingName = gatherable_21
+gatherableStart3_4.gridU = 83
+gatherableStart3_4.gridV = 74
+gatherableStart3_4.isFlipped = FALSE
+gatherableStart3_4.elementId = 34
+gatherableStart3_4.isGatherable = TRUE
+gatherableStart3_4.type = startBuilding
+gatherableStart3_4.requirementForDestroy=
+
+gatherableStart3_5.buildingName = gatherable_2
+gatherableStart3_5.gridU = 82
+gatherableStart3_5.gridV = 63
+gatherableStart3_5.isFlipped = FALSE
+gatherableStart3_5.elementId = 35
+gatherableStart3_5.isGatherable = TRUE
+gatherableStart3_5.type = startBuilding
+gatherableStart3_5.requirementForDestroy=
+
+gatherableStart3_6.buildingName = gatherable_4
+gatherableStart3_6.gridU = 82
+gatherableStart3_6.gridV = 65
+gatherableStart3_6.isFlipped = FALSE
+gatherableStart3_6.elementId = 36
+gatherableStart3_6.isGatherable = TRUE
+gatherableStart3_6.type = startBuilding
+gatherableStart3_6.requirementForDestroy=
+
+gatherableStart3_7.buildingName = gatherable_1
+gatherableStart3_7.gridU = 82
+gatherableStart3_7.gridV = 66
+gatherableStart3_7.isFlipped = FALSE
+gatherableStart3_7.elementId = 37
+gatherableStart3_7.isGatherable = TRUE
+gatherableStart3_7.type = startBuilding
+gatherableStart3_7.requirementForDestroy=
+
+gatherableStart3_8.buildingName = gatherable_12
+gatherableStart3_8.gridU = 82
+gatherableStart3_8.gridV = 69
+gatherableStart3_8.isFlipped = FALSE
+gatherableStart3_8.elementId = 38
+gatherableStart3_8.isGatherable = TRUE
+gatherableStart3_8.type = startBuilding
+gatherableStart3_8.requirementForDestroy=
+
+gatherableStart3_9.buildingName = gatherable_15
+gatherableStart3_9.gridU = 82
+gatherableStart3_9.gridV = 70
+gatherableStart3_9.isFlipped = FALSE
+gatherableStart3_9.elementId = 39
+gatherableStart3_9.isGatherable = TRUE
+gatherableStart3_9.type = startBuilding
+gatherableStart3_9.requirementForDestroy=
+
+gatherableStart3_10.buildingName = gatherable_3
+gatherableStart3_10.gridU = 82
+gatherableStart3_10.gridV = 71
+gatherableStart3_10.isFlipped = FALSE
+gatherableStart3_10.elementId = 310
+gatherableStart3_10.isGatherable = TRUE
+gatherableStart3_10.type = startBuilding
+gatherableStart3_10.requirementForDestroy=
+
+gatherableStart3_11.buildingName = gatherable_2
+gatherableStart3_11.gridU = 82
+gatherableStart3_11.gridV = 72
+gatherableStart3_11.isFlipped = FALSE
+gatherableStart3_11.elementId = 311
+gatherableStart3_11.isGatherable = TRUE
+gatherableStart3_11.type = startBuilding
+gatherableStart3_11.requirementForDestroy=
+
+gatherableStart3_12.buildingName = gatherable_10
+gatherableStart3_12.gridU = 81
+gatherableStart3_12.gridV = 64
+gatherableStart3_12.isFlipped = FALSE
+gatherableStart3_12.elementId = 312
+gatherableStart3_12.isGatherable = TRUE
+gatherableStart3_12.type = startBuilding
+gatherableStart3_12.requirementForDestroy=
+
+gatherableStart3_13.buildingName = gatherable_2
+gatherableStart3_13.gridU = 81
+gatherableStart3_13.gridV = 67
+gatherableStart3_13.isFlipped = FALSE
+gatherableStart3_13.elementId = 313
+gatherableStart3_13.isGatherable = TRUE
+gatherableStart3_13.type = startBuilding
+gatherableStart3_13.requirementForDestroy=
+
+gatherableStart3_14.buildingName = gatherable_7
+gatherableStart3_14.gridU = 81
+gatherableStart3_14.gridV = 68
+gatherableStart3_14.isFlipped = FALSE
+gatherableStart3_14.elementId = 314
+gatherableStart3_14.isGatherable = TRUE
+gatherableStart3_14.type = startBuilding
+gatherableStart3_14.requirementForDestroy=
+
+gatherableStart3_15.buildingName = gatherable_3
+gatherableStart3_15.gridU = 81
+gatherableStart3_15.gridV = 69
+gatherableStart3_15.isFlipped = FALSE
+gatherableStart3_15.elementId = 315
+gatherableStart3_15.isGatherable = TRUE
+gatherableStart3_15.type = startBuilding
+gatherableStart3_15.requirementForDestroy=
+
+gatherableStart3_16.buildingName = gatherable_19
+gatherableStart3_16.gridU = 81
+gatherableStart3_16.gridV = 70
+gatherableStart3_16.isFlipped = FALSE
+gatherableStart3_16.elementId = 316
+gatherableStart3_16.isGatherable = TRUE
+gatherableStart3_16.type = startBuilding
+gatherableStart3_16.requirementForDestroy=
+
+gatherableStart3_17.buildingName = gatherable_3
+gatherableStart3_17.gridU = 80
+gatherableStart3_17.gridV = 63
+gatherableStart3_17.isFlipped = FALSE
+gatherableStart3_17.elementId = 317
+gatherableStart3_17.isGatherable = TRUE
+gatherableStart3_17.type = startBuilding
+gatherableStart3_17.requirementForDestroy=
+
+gatherableStart3_18.buildingName = gatherable_7
+gatherableStart3_18.gridU = 80
+gatherableStart3_18.gridV = 64
+gatherableStart3_18.isFlipped = FALSE
+gatherableStart3_18.elementId = 318
+gatherableStart3_18.isGatherable = TRUE
+gatherableStart3_18.type = startBuilding
+gatherableStart3_18.requirementForDestroy=
+
+gatherableStart3_19.buildingName = gatherable_9
+gatherableStart3_19.gridU = 80
+gatherableStart3_19.gridV = 67
+gatherableStart3_19.isFlipped = FALSE
+gatherableStart3_19.elementId = 319
+gatherableStart3_19.isGatherable = TRUE
+gatherableStart3_19.type = startBuilding
+gatherableStart3_19.requirementForDestroy=
+
+gatherableStart3_20.buildingName = gatherable_10
+gatherableStart3_20.gridU = 80
+gatherableStart3_20.gridV = 70
+gatherableStart3_20.isFlipped = FALSE
+gatherableStart3_20.elementId = 320
+gatherableStart3_20.isGatherable = TRUE
+gatherableStart3_20.type = startBuilding
+gatherableStart3_20.requirementForDestroy=
+
+gatherableStart3_21.buildingName = gatherable_9
+gatherableStart3_21.gridU = 79
+gatherableStart3_21.gridV = 63
+gatherableStart3_21.isFlipped = FALSE
+gatherableStart3_21.elementId = 321
+gatherableStart3_21.isGatherable = TRUE
+gatherableStart3_21.type = startBuilding
+gatherableStart3_21.requirementForDestroy=
+
+gatherableStart3_22.buildingName = gatherable_2
+gatherableStart3_22.gridU = 79
+gatherableStart3_22.gridV = 65
+gatherableStart3_22.isFlipped = FALSE
+gatherableStart3_22.elementId = 322
+gatherableStart3_22.isGatherable = TRUE
+gatherableStart3_22.type = startBuilding
+gatherableStart3_22.requirementForDestroy=
+
+gatherableStart3_23.buildingName = gatherable_22
+gatherableStart3_23.gridU = 79
+gatherableStart3_23.gridV = 66
+gatherableStart3_23.isFlipped = FALSE
+gatherableStart3_23.elementId = 323
+gatherableStart3_23.isGatherable = TRUE
+gatherableStart3_23.type = startBuilding
+gatherableStart3_23.requirementForDestroy=
+
+gatherableStart3_24.buildingName = gatherable_19
+gatherableStart3_24.gridU = 79
+gatherableStart3_24.gridV = 68
+gatherableStart3_24.isFlipped = FALSE
+gatherableStart3_24.elementId = 324
+gatherableStart3_24.isGatherable = TRUE
+gatherableStart3_24.type = startBuilding
+gatherableStart3_24.requirementForDestroy=
+
+gatherableStart3_25.buildingName = gatherable_14
+gatherableStart3_25.gridU = 79
+gatherableStart3_25.gridV = 69
+gatherableStart3_25.isFlipped = FALSE
+gatherableStart3_25.elementId = 325
+gatherableStart3_25.isGatherable = TRUE
+gatherableStart3_25.type = startBuilding
+gatherableStart3_25.requirementForDestroy=
+
+gatherableStart3_26.buildingName = gatherable_2
+gatherableStart3_26.gridU = 79
+gatherableStart3_26.gridV = 70
+gatherableStart3_26.isFlipped = FALSE
+gatherableStart3_26.elementId = 326
+gatherableStart3_26.isGatherable = TRUE
+gatherableStart3_26.type = startBuilding
+gatherableStart3_26.requirementForDestroy=
+
+gatherableStart3_27.buildingName = gatherable_22
+gatherableStart3_27.gridU = 78
+gatherableStart3_27.gridV = 63
+gatherableStart3_27.isFlipped = FALSE
+gatherableStart3_27.elementId = 327
+gatherableStart3_27.isGatherable = TRUE
+gatherableStart3_27.type = startBuilding
+gatherableStart3_27.requirementForDestroy=
+
+gatherableStart3_28.buildingName = gatherable_10
+gatherableStart3_28.gridU = 78
+gatherableStart3_28.gridV = 65
+gatherableStart3_28.isFlipped = FALSE
+gatherableStart3_28.elementId = 328
+gatherableStart3_28.isGatherable = TRUE
+gatherableStart3_28.type = startBuilding
+gatherableStart3_28.requirementForDestroy=
+
+gatherableStart3_29.buildingName = gatherable_4
+gatherableStart3_29.gridU = 78
+gatherableStart3_29.gridV = 68
+gatherableStart3_29.isFlipped = FALSE
+gatherableStart3_29.elementId = 329
+gatherableStart3_29.isGatherable = TRUE
+gatherableStart3_29.type = startBuilding
+gatherableStart3_29.requirementForDestroy=
+
+gatherableStart3_30.buildingName = gatherable_4
+gatherableStart3_30.gridU = 78
+gatherableStart3_30.gridV = 69
+gatherableStart3_30.isFlipped = FALSE
+gatherableStart3_30.elementId = 330
+gatherableStart3_30.isGatherable = TRUE
+gatherableStart3_30.type = startBuilding
+gatherableStart3_30.requirementForDestroy=
+
+gatherableStart3_31.buildingName = gatherable_11
+gatherableStart3_31.gridU = 78
+gatherableStart3_31.gridV = 70
+gatherableStart3_31.isFlipped = FALSE
+gatherableStart3_31.elementId = 331
+gatherableStart3_31.isGatherable = TRUE
+gatherableStart3_31.type = startBuilding
+gatherableStart3_31.requirementForDestroy=
+
+gatherableStart3_32.buildingName = gatherable_13
+gatherableStart3_32.gridU = 78
+gatherableStart3_32.gridV = 71
+gatherableStart3_32.isFlipped = FALSE
+gatherableStart3_32.elementId = 332
+gatherableStart3_32.isGatherable = TRUE
+gatherableStart3_32.type = startBuilding
+gatherableStart3_32.requirementForDestroy=
+
+gatherableStart3_33.buildingName = gatherable_14
+gatherableStart3_33.gridU = 78
+gatherableStart3_33.gridV = 72
+gatherableStart3_33.isFlipped = FALSE
+gatherableStart3_33.elementId = 333
+gatherableStart3_33.isGatherable = TRUE
+gatherableStart3_33.type = startBuilding
+gatherableStart3_33.requirementForDestroy=
+
+##### REGION4 #####
+
+gatherableStart4_1.buildingName = gatherable_10
+gatherableStart4_1.gridU = 88
+gatherableStart4_1.gridV = 76
+gatherableStart4_1.isFlipped = FALSE
+gatherableStart4_1.elementId = 41
+gatherableStart4_1.isGatherable = TRUE
+gatherableStart4_1.type = startBuilding
+gatherableStart4_1.requirementForDestroy=
+
+gatherableStart4_2.buildingName = gatherable_11
+gatherableStart4_2.gridU = 88
+gatherableStart4_2.gridV = 78
+gatherableStart4_2.isFlipped = FALSE
+gatherableStart4_2.elementId = 42
+gatherableStart4_2.isGatherable = TRUE
+gatherableStart4_2.type = startBuilding
+gatherableStart4_2.requirementForDestroy=
+
+gatherableStart4_3.buildingName = gatherable_2
+gatherableStart4_3.gridU = 87
+gatherableStart4_3.gridV = 76
+gatherableStart4_3.isFlipped = FALSE
+gatherableStart4_3.elementId = 43
+gatherableStart4_3.isGatherable = TRUE
+gatherableStart4_3.type = startBuilding
+gatherableStart4_3.requirementForDestroy=
+
+gatherableStart4_4.buildingName = gatherable_10
+gatherableStart4_4.gridU = 87
+gatherableStart4_4.gridV = 77
+gatherableStart4_4.isFlipped = FALSE
+gatherableStart4_4.elementId = 44
+gatherableStart4_4.isGatherable = TRUE
+gatherableStart4_4.type = startBuilding
+gatherableStart4_4.requirementForDestroy=
+
+gatherableStart4_5.buildingName = gatherable_14
+gatherableStart4_5.gridU = 87
+gatherableStart4_5.gridV = 78
+gatherableStart4_5.isFlipped = FALSE
+gatherableStart4_5.elementId = 45
+gatherableStart4_5.isGatherable = TRUE
+gatherableStart4_5.type = startBuilding
+gatherableStart4_5.requirementForDestroy=
+
+gatherableStart4_6.buildingName = gatherable_2
+gatherableStart4_6.gridU = 86
+gatherableStart4_6.gridV = 78
+gatherableStart4_6.isFlipped = FALSE
+gatherableStart4_6.elementId = 46
+gatherableStart4_6.isGatherable = TRUE
+gatherableStart4_6.type = startBuilding
+gatherableStart4_6.requirementForDestroy=
+
+gatherableStart4_7.buildingName = gatherable_2
+gatherableStart4_7.gridU = 85
+gatherableStart4_7.gridV = 78
+gatherableStart4_7.isFlipped = FALSE
+gatherableStart4_7.elementId = 47
+gatherableStart4_7.isGatherable = TRUE
+gatherableStart4_7.type = startBuilding
+gatherableStart4_7.requirementForDestroy=
+
+gatherableStart4_8.buildingName = gatherable_3
+gatherableStart4_8.gridU = 84
+gatherableStart4_8.gridV = 76
+gatherableStart4_8.isFlipped = FALSE
+gatherableStart4_8.elementId = 48
+gatherableStart4_8.isGatherable = TRUE
+gatherableStart4_8.type = startBuilding
+gatherableStart4_8.requirementForDestroy=
+
+gatherableStart4_9.buildingName = gatherable_14
+gatherableStart4_9.gridU = 84
+gatherableStart4_9.gridV = 77
+gatherableStart4_9.isFlipped = FALSE
+gatherableStart4_9.elementId = 49
+gatherableStart4_9.isGatherable = TRUE
+gatherableStart4_9.type = startBuilding
+gatherableStart4_9.requirementForDestroy=
+
+gatherableStart4_10.buildingName = gatherable_21
+gatherableStart4_10.gridU = 84
+gatherableStart4_10.gridV = 78
+gatherableStart4_10.isFlipped = FALSE
+gatherableStart4_10.elementId = 410
+gatherableStart4_10.isGatherable = TRUE
+gatherableStart4_10.type = startBuilding
+gatherableStart4_10.requirementForDestroy=
+
+gatherableStart4_11.buildingName = gatherable_14
+gatherableStart4_11.gridU = 83
+gatherableStart4_11.gridV = 79
+gatherableStart4_11.isFlipped = FALSE
+gatherableStart4_11.elementId = 411
+gatherableStart4_11.isGatherable = TRUE
+gatherableStart4_11.type = startBuilding
+gatherableStart4_11.requirementForDestroy=
+
+gatherableStart4_12.buildingName = gatherable_3
+gatherableStart4_12.gridU = 82
+gatherableStart4_12.gridV = 76
+gatherableStart4_12.isFlipped = FALSE
+gatherableStart4_12.elementId = 412
+gatherableStart4_12.isGatherable = TRUE
+gatherableStart4_12.type = startBuilding
+gatherableStart4_12.requirementForDestroy=
+
+gatherableStart4_13.buildingName = gatherable_13
+gatherableStart4_13.gridU = 82
+gatherableStart4_13.gridV = 77
+gatherableStart4_13.isFlipped = FALSE
+gatherableStart4_13.elementId = 413
+gatherableStart4_13.isGatherable = TRUE
+gatherableStart4_13.type = startBuilding
+gatherableStart4_13.requirementForDestroy=
+
+gatherableStart4_14.buildingName = gatherable_4
+gatherableStart4_14.gridU = 82
+gatherableStart4_14.gridV = 78
+gatherableStart4_14.isFlipped = FALSE
+gatherableStart4_14.elementId = 414
+gatherableStart4_14.isGatherable = TRUE
+gatherableStart4_14.type = startBuilding
+gatherableStart4_14.requirementForDestroy=
+
+gatherableStart4_15.buildingName = gatherable_14
+gatherableStart4_15.gridU = 81
+gatherableStart4_15.gridV = 76
+gatherableStart4_15.isFlipped = FALSE
+gatherableStart4_15.elementId = 415
+gatherableStart4_15.isGatherable = TRUE
+gatherableStart4_15.type = startBuilding
+gatherableStart4_15.requirementForDestroy=
+
+gatherableStart4_16.buildingName = gatherable_2
+gatherableStart4_16.gridU = 81
+gatherableStart4_16.gridV = 77
+gatherableStart4_16.isFlipped = FALSE
+gatherableStart4_16.elementId = 416
+gatherableStart4_16.isGatherable = TRUE
+gatherableStart4_16.type = startBuilding
+gatherableStart4_16.requirementForDestroy=
+
+gatherableStart4_17.buildingName = gatherable_14
+gatherableStart4_17.gridU = 81
+gatherableStart4_17.gridV = 78
+gatherableStart4_17.isFlipped = FALSE
+gatherableStart4_17.elementId = 417
+gatherableStart4_17.isGatherable = TRUE
+gatherableStart4_17.type = startBuilding
+gatherableStart4_17.requirementForDestroy=
+
+##### REGION5 #####
+
+gatherableStart5_1.buildingName = gatherable_9
+gatherableStart5_1.gridU = 89
+gatherableStart5_1.gridV = 80
+gatherableStart5_1.isFlipped = FALSE
+gatherableStart5_1.elementId = 51
+gatherableStart5_1.isGatherable = TRUE
+gatherableStart5_1.type = startBuilding
+gatherableStart5_1.requirementForDestroy=
+
+gatherableStart5_2.buildingName = gatherable_9
+gatherableStart5_2.gridU = 89
+gatherableStart5_2.gridV = 86
+gatherableStart5_2.isFlipped = FALSE
+gatherableStart5_2.elementId = 52
+gatherableStart5_2.isGatherable = TRUE
+gatherableStart5_2.type = startBuilding
+gatherableStart5_2.requirementForDestroy=
+
+gatherableStart5_3.buildingName = gatherable_9
+gatherableStart5_3.gridU = 89
+gatherableStart5_3.gridV = 88
+gatherableStart5_3.isFlipped = FALSE
+gatherableStart5_3.elementId = 53
+gatherableStart5_3.isGatherable = TRUE
+gatherableStart5_3.type = startBuilding
+gatherableStart5_3.requirementForDestroy=
+
+gatherableStart5_4.buildingName = gatherable_9
+gatherableStart5_4.gridU = 88
+gatherableStart5_4.gridV = 80
+gatherableStart5_4.isFlipped = FALSE
+gatherableStart5_4.elementId = 54
+gatherableStart5_4.isGatherable = TRUE
+gatherableStart5_4.type = startBuilding
+gatherableStart5_4.requirementForDestroy=
+
+gatherableStart5_5.buildingName = gatherable_14
+gatherableStart5_5.gridU = 88
+gatherableStart5_5.gridV = 88
+gatherableStart5_5.isFlipped = FALSE
+gatherableStart5_5.elementId = 55
+gatherableStart5_5.isGatherable = TRUE
+gatherableStart5_5.type = startBuilding
+gatherableStart5_5.requirementForDestroy=
+
+gatherableStart5_6.buildingName = gatherable_14
+gatherableStart5_6.gridU = 87
+gatherableStart5_6.gridV = 81
+gatherableStart5_6.isFlipped = FALSE
+gatherableStart5_6.elementId = 56
+gatherableStart5_6.isGatherable = TRUE
+gatherableStart5_6.type = startBuilding
+gatherableStart5_6.requirementForDestroy=
+
+gatherableStart5_7.buildingName = gatherable_9
+gatherableStart5_7.gridU = 87
+gatherableStart5_7.gridV = 83
+gatherableStart5_7.isFlipped = FALSE
+gatherableStart5_7.elementId = 57
+gatherableStart5_7.isGatherable = TRUE
+gatherableStart5_7.type = startBuilding
+gatherableStart5_7.requirementForDestroy=
+
+gatherableStart5_8.buildingName = gatherable_14
+gatherableStart5_8.gridU = 87
+gatherableStart5_8.gridV = 84
+gatherableStart5_8.isFlipped = FALSE
+gatherableStart5_8.elementId = 58
+gatherableStart5_8.isGatherable = TRUE
+gatherableStart5_8.type = startBuilding
+gatherableStart5_8.requirementForDestroy=
+
+gatherableStart5_9.buildingName = gatherable_14
+gatherableStart5_9.gridU = 87
+gatherableStart5_9.gridV = 85
+gatherableStart5_9.isFlipped = FALSE
+gatherableStart5_9.elementId = 59
+gatherableStart5_9.isGatherable = TRUE
+gatherableStart5_9.type = startBuilding
+gatherableStart5_9.requirementForDestroy=
+
+gatherableStart5_10.buildingName = gatherable_9
+gatherableStart5_10.gridU = 87
+gatherableStart5_10.gridV = 86
+gatherableStart5_10.isFlipped = FALSE
+gatherableStart5_10.elementId = 510
+gatherableStart5_10.isGatherable = TRUE
+gatherableStart5_10.type = startBuilding
+gatherableStart5_10.requirementForDestroy=
+
+gatherableStart5_11.buildingName = gatherable_14
+gatherableStart5_11.gridU = 87
+gatherableStart5_11.gridV = 89
+gatherableStart5_11.isFlipped = FALSE
+gatherableStart5_11.elementId = 511
+gatherableStart5_11.isGatherable = TRUE
+gatherableStart5_11.type = startBuilding
+gatherableStart5_11.requirementForDestroy=
+
+gatherableStart5_12.buildingName = gatherable_3
+gatherableStart5_12.gridU = 86
+gatherableStart5_12.gridV = 80
+gatherableStart5_12.isFlipped = FALSE
+gatherableStart5_12.elementId = 512
+gatherableStart5_12.isGatherable = TRUE
+gatherableStart5_12.type = startBuilding
+gatherableStart5_12.requirementForDestroy=
+
+gatherableStart5_13.buildingName = gatherable_13
+gatherableStart5_13.gridU = 86
+gatherableStart5_13.gridV = 85
+gatherableStart5_13.isFlipped = FALSE
+gatherableStart5_13.elementId = 513
+gatherableStart5_13.isGatherable = TRUE
+gatherableStart5_13.type = startBuilding
+gatherableStart5_13.requirementForDestroy=
+
+gatherableStart5_14.buildingName = gatherable_4
+gatherableStart5_14.gridU = 86
+gatherableStart5_14.gridV = 86
+gatherableStart5_14.isFlipped = FALSE
+gatherableStart5_14.elementId = 514
+gatherableStart5_14.isGatherable = TRUE
+gatherableStart5_14.type = startBuilding
+gatherableStart5_14.requirementForDestroy=
+
+gatherableStart5_15.buildingName = gatherable_11
+gatherableStart5_15.gridU = 85
+gatherableStart5_15.gridV = 82
+gatherableStart5_15.isFlipped = FALSE
+gatherableStart5_15.elementId = 515
+gatherableStart5_15.isGatherable = TRUE
+gatherableStart5_15.type = startBuilding
+gatherableStart5_15.requirementForDestroy=
+
+gatherableStart5_16.buildingName = gatherable_13
+gatherableStart5_16.gridU = 85
+gatherableStart5_16.gridV = 84
+gatherableStart5_16.isFlipped = FALSE
+gatherableStart5_16.elementId = 516
+gatherableStart5_16.isGatherable = TRUE
+gatherableStart5_16.type = startBuilding
+gatherableStart5_16.requirementForDestroy=
+
+gatherableStart5_17.buildingName = gatherable_14
+gatherableStart5_17.gridU = 85
+gatherableStart5_17.gridV = 85
+gatherableStart5_17.isFlipped = FALSE
+gatherableStart5_17.elementId = 517
+gatherableStart5_17.isGatherable = TRUE
+gatherableStart5_17.type = startBuilding
+gatherableStart5_17.requirementForDestroy=
+
+gatherableStart5_18.buildingName = gatherable_11
+gatherableStart5_18.gridU = 85
+gatherableStart5_18.gridV = 88
+gatherableStart5_18.isFlipped = FALSE
+gatherableStart5_18.elementId = 518
+gatherableStart5_18.isGatherable = TRUE
+gatherableStart5_18.type = startBuilding
+gatherableStart5_18.requirementForDestroy=
+
+gatherableStart5_19.buildingName = gatherable_2
+gatherableStart5_19.gridU = 84
+gatherableStart5_19.gridV = 80
+gatherableStart5_19.isFlipped = FALSE
+gatherableStart5_19.elementId = 519
+gatherableStart5_19.isGatherable = TRUE
+gatherableStart5_19.type = startBuilding
+gatherableStart5_19.requirementForDestroy=
+
+gatherableStart5_20.buildingName = gatherable_4
+gatherableStart5_20.gridU = 84
+gatherableStart5_20.gridV = 81
+gatherableStart5_20.isFlipped = FALSE
+gatherableStart5_20.elementId = 520
+gatherableStart5_20.isGatherable = TRUE
+gatherableStart5_20.type = startBuilding
+gatherableStart5_20.requirementForDestroy=
+
+gatherableStart5_21.buildingName = gatherable_1
+gatherableStart5_21.gridU = 84
+gatherableStart5_21.gridV = 82
+gatherableStart5_21.isFlipped = FALSE
+gatherableStart5_21.elementId = 521
+gatherableStart5_21.isGatherable = TRUE
+gatherableStart5_21.type = startBuilding
+gatherableStart5_21.requirementForDestroy=
+
+gatherableStart5_22.buildingName = gatherable_14
+gatherableStart5_22.gridU = 84
+gatherableStart5_22.gridV = 84
+gatherableStart5_22.isFlipped = FALSE
+gatherableStart5_22.elementId = 522
+gatherableStart5_22.isGatherable = TRUE
+gatherableStart5_22.type = startBuilding
+gatherableStart5_22.requirementForDestroy=
+
+gatherableStart5_23.buildingName = gatherable_14
+gatherableStart5_23.gridU = 84
+gatherableStart5_23.gridV = 85
+gatherableStart5_23.isFlipped = FALSE
+gatherableStart5_23.elementId = 523
+gatherableStart5_23.isGatherable = TRUE
+gatherableStart5_23.type = startBuilding
+gatherableStart5_23.requirementForDestroy=
+
+gatherableStart5_24.buildingName = gatherable_14
+gatherableStart5_24.gridU = 83
+gatherableStart5_24.gridV = 81
+gatherableStart5_24.isFlipped = FALSE
+gatherableStart5_24.elementId = 524
+gatherableStart5_24.isGatherable = TRUE
+gatherableStart5_24.type = startBuilding
+gatherableStart5_24.requirementForDestroy=
+
+gatherableStart5_25.buildingName = gatherable_2
+gatherableStart5_25.gridU = 83
+gatherableStart5_25.gridV = 82
+gatherableStart5_25.isFlipped = FALSE
+gatherableStart5_25.elementId = 525
+gatherableStart5_25.isGatherable = TRUE
+gatherableStart5_25.type = startBuilding
+gatherableStart5_25.requirementForDestroy=
+
+gatherableStart5_26.buildingName = gatherable_13
+gatherableStart5_26.gridU = 83
+gatherableStart5_26.gridV = 84
+gatherableStart5_26.isFlipped = FALSE
+gatherableStart5_26.elementId = 526
+gatherableStart5_26.isGatherable = TRUE
+gatherableStart5_26.type = startBuilding
+gatherableStart5_26.requirementForDestroy=
+
+gatherableStart5_27.buildingName = gatherable_13
+gatherableStart5_27.gridU = 83
+gatherableStart5_27.gridV = 85
+gatherableStart5_27.isFlipped = FALSE
+gatherableStart5_27.elementId = 527
+gatherableStart5_27.isGatherable = TRUE
+gatherableStart5_27.type = startBuilding
+gatherableStart5_27.requirementForDestroy=
+
+gatherableStart5_28.buildingName = gatherable_1
+gatherableStart5_28.gridU = 83
+gatherableStart5_28.gridV = 86
+gatherableStart5_28.isFlipped = FALSE
+gatherableStart5_28.elementId = 528
+gatherableStart5_28.isGatherable = TRUE
+gatherableStart5_28.type = startBuilding
+gatherableStart5_28.requirementForDestroy=
+
+gatherableStart5_29.buildingName = gatherable_6
+gatherableStart5_29.gridU = 83
+gatherableStart5_29.gridV = 87
+gatherableStart5_29.isFlipped = FALSE
+gatherableStart5_29.elementId = 529
+gatherableStart5_29.isGatherable = TRUE
+gatherableStart5_29.type = startBuilding
+gatherableStart5_29.requirementForDestroy=
+
+gatherableStart5_30.buildingName = gatherable_4
+gatherableStart5_30.gridU = 82
+gatherableStart5_30.gridV = 88
+gatherableStart5_30.isFlipped = FALSE
+gatherableStart5_30.elementId = 530
+gatherableStart5_30.isGatherable = TRUE
+gatherableStart5_30.type = startBuilding
+gatherableStart5_30.requirementForDestroy=
+
+gatherableStart5_31.buildingName = gatherable_9
+gatherableStart5_31.gridU = 82
+gatherableStart5_31.gridV = 89
+gatherableStart5_31.isFlipped = FALSE
+gatherableStart5_31.elementId = 531
+gatherableStart5_31.isGatherable = TRUE
+gatherableStart5_31.type = startBuilding
+gatherableStart5_31.requirementForDestroy=
+
+gatherableStart5_32.buildingName = gatherable_13
+gatherableStart5_32.gridU = 81
+gatherableStart5_32.gridV = 83
+gatherableStart5_32.isFlipped = FALSE
+gatherableStart5_32.elementId = 532
+gatherableStart5_32.isGatherable = TRUE
+gatherableStart5_32.type = startBuilding
+gatherableStart5_32.requirementForDestroy=
+
+gatherableStart5_33.buildingName = gatherable_3
+gatherableStart5_33.gridU = 81
+gatherableStart5_33.gridV = 84
+gatherableStart5_33.isFlipped = FALSE
+gatherableStart5_33.elementId = 533
+gatherableStart5_33.isGatherable = TRUE
+gatherableStart5_33.type = startBuilding
+gatherableStart5_33.requirementForDestroy=
+
+gatherableStart5_34.buildingName = gatherable_9
+gatherableStart5_34.gridU = 80
+gatherableStart5_34.gridV = 81
+gatherableStart5_34.isFlipped = FALSE
+gatherableStart5_34.elementId = 534
+gatherableStart5_34.isGatherable = TRUE
+gatherableStart5_34.type = startBuilding
+gatherableStart5_34.requirementForDestroy=
+
+gatherableStart5_35.buildingName = gatherable_14
+gatherableStart5_35.gridU = 80
+gatherableStart5_35.gridV = 83
+gatherableStart5_35.isFlipped = FALSE
+gatherableStart5_35.elementId = 535
+gatherableStart5_35.isGatherable = TRUE
+gatherableStart5_35.type = startBuilding
+gatherableStart5_35.requirementForDestroy=
+
+gatherableStart5_36.buildingName = gatherable_22
+gatherableStart5_36.gridU = 80
+gatherableStart5_36.gridV = 84
+gatherableStart5_36.isFlipped = FALSE
+gatherableStart5_36.elementId = 536
+gatherableStart5_36.isGatherable = TRUE
+gatherableStart5_36.type = startBuilding
+gatherableStart5_36.requirementForDestroy=
+
+gatherableStart5_37.buildingName = gatherable_13
+gatherableStart5_37.gridU = 79
+gatherableStart5_37.gridV = 84
+gatherableStart5_37.isFlipped = FALSE
+gatherableStart5_37.elementId = 537
+gatherableStart5_37.isGatherable = TRUE
+gatherableStart5_37.type = startBuilding
+gatherableStart5_37.requirementForDestroy=
+
+gatherableStart5_38.buildingName = gatherable_21
+gatherableStart5_38.gridU = 79
+gatherableStart5_38.gridV = 85
+gatherableStart5_38.isFlipped = FALSE
+gatherableStart5_38.elementId = 538
+gatherableStart5_38.isGatherable = TRUE
+gatherableStart5_38.type = startBuilding
+gatherableStart5_38.requirementForDestroy=
+
+gatherableStart5_39.buildingName = gatherable_1
+gatherableStart5_39.gridU = 79
+gatherableStart5_39.gridV = 86
+gatherableStart5_39.isFlipped = FALSE
+gatherableStart5_39.elementId = 539
+gatherableStart5_39.isGatherable = TRUE
+gatherableStart5_39.type = startBuilding
+gatherableStart5_39.requirementForDestroy=
+
+gatherableStart5_40.buildingName = gatherable_9
+gatherableStart5_40.gridU = 78
+gatherableStart5_40.gridV = 80
+gatherableStart5_40.isFlipped = FALSE
+gatherableStart5_40.elementId = 540
+gatherableStart5_40.isGatherable = TRUE
+gatherableStart5_40.type = startBuilding
+gatherableStart5_40.requirementForDestroy=
+
+gatherableStart5_41.buildingName = gatherable_9
+gatherableStart5_41.gridU = 78
+gatherableStart5_41.gridV = 85
+gatherableStart5_41.isFlipped = FALSE
+gatherableStart5_41.elementId = 541
+gatherableStart5_41.isGatherable = TRUE
+gatherableStart5_41.type = startBuilding
+gatherableStart5_41.requirementForDestroy=
+
+gatherableStart5_42.buildingName = gatherable_19
+gatherableStart5_42.gridU = 78
+gatherableStart5_42.gridV = 89
+gatherableStart5_42.isFlipped = FALSE
+gatherableStart5_42.elementId = 542
+gatherableStart5_42.isGatherable = TRUE
+gatherableStart5_42.type = startBuilding
+gatherableStart5_42.requirementForDestroy=
+
+##### REGION6 #####
+
+gatherableStart6_1.buildingName = gatherable_13
+gatherableStart6_1.gridU = 86
+gatherableStart6_1.gridV = 90
+gatherableStart6_1.isFlipped = FALSE
+gatherableStart6_1.elementId = 61
+gatherableStart6_1.isGatherable = TRUE
+gatherableStart6_1.type = startBuilding
+gatherableStart6_1.requirementForDestroy=
+
+gatherableStart6_2.buildingName = gatherable_14
+gatherableStart6_2.gridU = 86
+gatherableStart6_2.gridV = 91
+gatherableStart6_2.isFlipped = FALSE
+gatherableStart6_2.elementId = 62
+gatherableStart6_2.isGatherable = TRUE
+gatherableStart6_2.type = startBuilding
+gatherableStart6_2.requirementForDestroy=
+
+gatherableStart6_3.buildingName = gatherable_14
+gatherableStart6_3.gridU = 85
+gatherableStart6_3.gridV = 90
+gatherableStart6_3.isFlipped = FALSE
+gatherableStart6_3.elementId = 63
+gatherableStart6_3.isGatherable = TRUE
+gatherableStart6_3.type = startBuilding
+gatherableStart6_3.requirementForDestroy=
+
+gatherableStart6_4.buildingName = gatherable_14
+gatherableStart6_4.gridU = 85
+gatherableStart6_4.gridV = 91
+gatherableStart6_4.isFlipped = FALSE
+gatherableStart6_4.elementId = 64
+gatherableStart6_4.isGatherable = TRUE
+gatherableStart6_4.type = startBuilding
+gatherableStart6_4.requirementForDestroy=
+
+gatherableStart6_5.buildingName = gatherable_14
+gatherableStart6_5.gridU = 85
+gatherableStart6_5.gridV = 92
+gatherableStart6_5.isFlipped = FALSE
+gatherableStart6_5.elementId = 65
+gatherableStart6_5.isGatherable = TRUE
+gatherableStart6_5.type = startBuilding
+gatherableStart6_5.requirementForDestroy=
+
+gatherableStart6_6.buildingName = gatherable_13
+gatherableStart6_6.gridU = 84
+gatherableStart6_6.gridV = 91
+gatherableStart6_6.isFlipped = FALSE
+gatherableStart6_6.elementId = 66
+gatherableStart6_6.isGatherable = TRUE
+gatherableStart6_6.type = startBuilding
+gatherableStart6_6.requirementForDestroy=
+
+gatherableStart6_7.buildingName = gatherable_2
+gatherableStart6_7.gridU = 83
+gatherableStart6_7.gridV = 92
+gatherableStart6_7.isFlipped = FALSE
+gatherableStart6_7.elementId = 67
+gatherableStart6_7.isGatherable = TRUE
+gatherableStart6_7.type = startBuilding
+gatherableStart6_7.requirementForDestroy=
+
+gatherableStart6_8.buildingName = gatherable_2
+gatherableStart6_8.gridU = 83
+gatherableStart6_8.gridV = 93
+gatherableStart6_8.isFlipped = FALSE
+gatherableStart6_8.elementId = 68
+gatherableStart6_8.isGatherable = TRUE
+gatherableStart6_8.type = startBuilding
+gatherableStart6_8.requirementForDestroy=
+
+gatherableStart6_9.buildingName = gatherable_4
+gatherableStart6_9.gridU = 83
+gatherableStart6_9.gridV = 94
+gatherableStart6_9.isFlipped = FALSE
+gatherableStart6_9.elementId = 69
+gatherableStart6_9.isGatherable = TRUE
+gatherableStart6_9.type = startBuilding
+gatherableStart6_9.requirementForDestroy=
+
+gatherableStart6_10.buildingName = gatherable_1
+gatherableStart6_10.gridU = 83
+gatherableStart6_10.gridV = 95
+gatherableStart6_10.isFlipped = FALSE
+gatherableStart6_10.elementId = 610
+gatherableStart6_10.isGatherable = TRUE
+gatherableStart6_10.type = startBuilding
+gatherableStart6_10.requirementForDestroy=
+
+gatherableStart6_11.buildingName = gatherable_9
+gatherableStart6_11.gridU = 83
+gatherableStart6_11.gridV = 96
+gatherableStart6_11.isFlipped = FALSE
+gatherableStart6_11.elementId = 611
+gatherableStart6_11.isGatherable = TRUE
+gatherableStart6_11.type = startBuilding
+gatherableStart6_11.requirementForDestroy=
+
+gatherableStart6_12.buildingName = gatherable_14
+gatherableStart6_12.gridU = 83
+gatherableStart6_12.gridV = 97
+gatherableStart6_12.isFlipped = FALSE
+gatherableStart6_12.elementId = 612
+gatherableStart6_12.isGatherable = TRUE
+gatherableStart6_12.type = startBuilding
+gatherableStart6_12.requirementForDestroy=
+
+gatherableStart6_13.buildingName = gatherable_20
+gatherableStart6_13.gridU = 82
+gatherableStart6_13.gridV = 94
+gatherableStart6_13.isFlipped = FALSE
+gatherableStart6_13.elementId = 613
+gatherableStart6_13.isGatherable = TRUE
+gatherableStart6_13.type = startBuilding
+gatherableStart6_13.requirementForDestroy=
+
+gatherableStart6_14.buildingName = gatherable_4
+gatherableStart6_14.gridU = 82
+gatherableStart6_14.gridV = 98
+gatherableStart6_14.isFlipped = FALSE
+gatherableStart6_14.elementId = 614
+gatherableStart6_14.isGatherable = TRUE
+gatherableStart6_14.type = startBuilding
+gatherableStart6_14.requirementForDestroy=
+
+gatherableStart6_15.buildingName = gatherable_10
+gatherableStart6_15.gridU = 81
+gatherableStart6_15.gridV = 92
+gatherableStart6_15.isFlipped = FALSE
+gatherableStart6_15.elementId = 615
+gatherableStart6_15.isGatherable = TRUE
+gatherableStart6_15.type = startBuilding
+gatherableStart6_15.requirementForDestroy=
+
+gatherableStart6_16.buildingName = gatherable_11
+gatherableStart6_16.gridU = 81
+gatherableStart6_16.gridV = 95
+gatherableStart6_16.isFlipped = FALSE
+gatherableStart6_16.elementId = 616
+gatherableStart6_16.isGatherable = TRUE
+gatherableStart6_16.type = startBuilding
+gatherableStart6_16.requirementForDestroy=
+
+gatherableStart6_17.buildingName = gatherable_11
+gatherableStart6_17.gridU = 81
+gatherableStart6_17.gridV = 96
+gatherableStart6_17.isFlipped = FALSE
+gatherableStart6_17.elementId = 617
+gatherableStart6_17.isGatherable = TRUE
+gatherableStart6_17.type = startBuilding
+gatherableStart6_17.requirementForDestroy=
+
+gatherableStart6_18.buildingName = gatherable_11
+gatherableStart6_18.gridU = 81
+gatherableStart6_18.gridV = 97
+gatherableStart6_18.isFlipped = FALSE
+gatherableStart6_18.elementId = 618
+gatherableStart6_18.isGatherable = TRUE
+gatherableStart6_18.type = startBuilding
+gatherableStart6_18.requirementForDestroy=
+
+gatherableStart6_19.buildingName = gatherable_13
+gatherableStart6_19.gridU = 80
+gatherableStart6_19.gridV = 95
+gatherableStart6_19.isFlipped = FALSE
+gatherableStart6_19.elementId = 619
+gatherableStart6_19.isGatherable = TRUE
+gatherableStart6_19.type = startBuilding
+gatherableStart6_19.requirementForDestroy=
+
+gatherableStart6_20.buildingName = gatherable_14
+gatherableStart6_20.gridU = 80
+gatherableStart6_20.gridV = 96
+gatherableStart6_20.isFlipped = FALSE
+gatherableStart6_20.elementId = 620
+gatherableStart6_20.isGatherable = TRUE
+gatherableStart6_20.type = startBuilding
+gatherableStart6_20.requirementForDestroy=
+
+gatherableStart6_21.buildingName = gatherable_14
+gatherableStart6_21.gridU = 80
+gatherableStart6_21.gridV = 95
+gatherableStart6_21.isFlipped = FALSE
+gatherableStart6_21.elementId = 621
+gatherableStart6_21.isGatherable = TRUE
+gatherableStart6_21.type = startBuilding
+gatherableStart6_21.requirementForDestroy=
+
+gatherableStart6_22.buildingName = gatherable_14
+gatherableStart6_22.gridU = 80
+gatherableStart6_22.gridV = 96
+gatherableStart6_22.isFlipped = FALSE
+gatherableStart6_22.elementId = 622
+gatherableStart6_22.isGatherable = TRUE
+gatherableStart6_22.type = startBuilding
+gatherableStart6_22.requirementForDestroy=
+
+gatherableStart6_23.buildingName = gatherable_12
+gatherableStart6_23.gridU = 80
+gatherableStart6_23.gridV = 97
+gatherableStart6_23.isFlipped = FALSE
+gatherableStart6_23.elementId = 623
+gatherableStart6_23.isGatherable = TRUE
+gatherableStart6_23.type = startBuilding
+gatherableStart6_23.requirementForDestroy=
+
+gatherableStart6_24.buildingName = gatherable_2
+gatherableStart6_24.gridU = 79
+gatherableStart6_24.gridV = 91
+gatherableStart6_24.isFlipped = FALSE
+gatherableStart6_24.elementId = 624
+gatherableStart6_24.isGatherable = TRUE
+gatherableStart6_24.type = startBuilding
+gatherableStart6_24.requirementForDestroy=
+
+gatherableStart6_25.buildingName = gatherable_13
+gatherableStart6_25.gridU = 79
+gatherableStart6_25.gridV = 96
+gatherableStart6_25.isFlipped = FALSE
+gatherableStart6_25.elementId = 625
+gatherableStart6_25.isGatherable = TRUE
+gatherableStart6_25.type = startBuilding
+gatherableStart6_25.requirementForDestroy=
+
+##### REGION7 #####
+
+##### TREASURE GATHERABLESTARTBUILDING #####
+
+paddleStart1.buildingName = paddle
+paddleStart1.gridU = 40
+paddleStart1.gridV = 49
+paddleStart1.isFlipped = FALSE
+paddleStart1.elementId = 400       
+paddleStart1.isGatherable = TRUE
+paddleStart1.type = startBuilding
+paddleStart1.requirementForDestroy=
+
+anchorStart1.buildingName = anchor
+anchorStart1.gridU = 33
+anchorStart1.gridV = 51
+anchorStart1.isFlipped = FALSE
+anchorStart1.elementId = 401      
+anchorStart1.isGatherable = TRUE
+anchorStart1.type = startBuilding
+anchorStart1.requirementForDestroy=
+
+bridgeropesStart1.buildingName = bridgeropes
+bridgeropesStart1.gridU = 36
+bridgeropesStart1.gridV = 48
+bridgeropesStart1.isFlipped = FALSE
+bridgeropesStart1.elementId = 402      
+bridgeropesStart1.isGatherable = TRUE
+bridgeropesStart1.type = startBuilding
+bridgeropesStart1.requirementForDestroy=
+
+bridgeropesStart2.buildingName = bridgeropes
+bridgeropesStart2.gridU = 34
+bridgeropesStart2.gridV = 62
+bridgeropesStart2.isFlipped = FALSE
+bridgeropesStart2.elementId = 403
+bridgeropesStart2.isGatherable = TRUE
+bridgeropesStart2.type = startBuilding
+bridgeropesStart2.requirementForDestroy=
+
+flower1Start1.buildingName = flower1
+flower1Start1.gridU = 86
+flower1Start1.gridV = 69
+flower1Start1.isFlipped = FALSE
+flower1Start1.elementId = 404      
+flower1Start1.isGatherable = TRUE
+flower1Start1.type = startBuilding
+flower1Start1.requirementForDestroy=
+
+flower1Start2.buildingName = flower1
+flower1Start2.gridU = 86
+flower1Start2.gridV = 72
+flower1Start2.isFlipped = FALSE
+flower1Start2.elementId = 405      
+flower1Start2.isGatherable = TRUE
+flower1Start2.type = startBuilding
+flower1Start2.requirementForDestroy=
+
+flower2Start1.buildingName = flower2
+flower2Start1.gridU = 62
+flower2Start1.gridV = 68
+flower2Start1.isFlipped = FALSE
+flower2Start1.elementId = 406      
+flower2Start1.isGatherable = TRUE
+flower2Start1.type = startBuilding
+flower2Start1.requirementForDestroy=
+
+flower2Start2.buildingName = flower2
+flower2Start2.gridU = 61
+flower2Start2.gridV = 73
+flower2Start2.isFlipped = FALSE
+flower2Start2.elementId = 407      
+flower2Start2.isGatherable = TRUE
+flower2Start2.type = startBuilding
+flower2Start2.requirementForDestroy=
+
+flower2Start3.buildingName = flower2
+flower2Start3.gridU = 55
+flower2Start3.gridV = 71
+flower2Start3.isFlipped = FALSE
+flower2Start3.elementId = 408     
+flower2Start3.isGatherable = TRUE
+flower2Start3.type = startBuilding
+flower2Start3.requirementForDestroy=
+
+eggpetStart1.buildingName = eggpet
+eggpetStart1.gridU = 62
+eggpetStart1.gridV = 62
+eggpetStart1.isFlipped = FALSE
+eggpetStart1.elementId = 409    
+eggpetStart1.isGatherable = TRUE
+eggpetStart1.type = startBuilding
+eggpetStart1.requirementForDestroy=
+
+oldkeyStart1.buildingName = oldkey
+oldkeyStart1.gridU = 85
+oldkeyStart1.gridV = 81
+oldkeyStart1.isFlipped = FALSE
+oldkeyStart1.elementId = 410    
+oldkeyStart1.isGatherable = TRUE
+oldkeyStart1.type = startBuilding
+oldkeyStart1.requirementForDestroy=
+
+rubbishracketStart1.buildingName = rubbishracket
+rubbishracketStart1.gridU = 79
+rubbishracketStart1.gridV = 66
+rubbishracketStart1.isFlipped = FALSE
+rubbishracketStart1.elementId = 411    
+rubbishracketStart1.isGatherable = TRUE
+rubbishracketStart1.type = startBuilding
+rubbishracketStart1.requirementForDestroy=
+
+##### END TREASURE #####
+
+##### CONFIGBULDING #####
+
+field_1.type = farmfield
+field_1.typeShop= tab1
+field_1.unlockLevel = 1
+field_1.constructionCost = golds, 100
+field_1.constructionRewards = xp, 50
+field_1.stringReference = farmfield
+field_1.spriteReference = fieldBasic_f001
+field_1.constructionMinutes = 0
+field_1.maxFacilities = 1
+field_1.sizeU = 1
+field_1.sizeV = 1
+
+warehouse.type = warehouse
+warehouse.maxFacilities = 1
+warehouse.spriteReference = warehouse_base_f001
+warehouse.stringReference = warehouse
+warehouse.levels = [warehouselevel1,warehouselevel2,warehouselevel3]
+warehouse.products = [string_,rope,coth]
+warehouse.level = 0
+warehouse.storage= 75
+warehouse.rewardBuildCompleted = xp,270
+warehouse.levelPlayerRequire = 14
+
+warehouse.moveable = FALSE
+warehouse.sizeU = 3
+warehouse.sizeV = 3
+
+##### Airplane #####
+
+Airplane.type = AirplaneBuilding
+Airplane.maxFacilities = 1
+Airplane.spriteReference = warehouse_base_f001
+Airplane.stringReference = warehouse
+Airplane.levels = [Airplane1]
+Airplane.moveable = TRUE
+Airplane.sizeU = 4
+Airplane.sizeV = 4
+#tinh bang giay
+Airplane.timeReset = 10
+Airplane.rewards = cloth,10,woodenplan,20
+Airplane.countQuestCompletedToReward = 10
+Airplane.questsActived = AirplaneQuest1,0,AirplaneQuest2,1,AirplaneQuest3,2,AirplaneQuest4,3,AirplaneQuest5,4
+Airplane.quests = [AirplaneQuest1,AirplaneQuest2,AirplaneQuest3,AirplaneQuest4,AirplaneQuest5,AirplaneQuest6,AirplaneQuest7,AirplaneQuest8,AirplaneQuest9,AirplaneQuest10,AirplaneQuest11,AirplaneQuest12,AirplaneQuest13]
+Airplane.allQuests = [AirplaneQuest1,AirplaneQuest2,AirplaneQuest3,AirplaneQuest4,AirplaneQuest5,AirplaneQuest6,AirplaneQuest7,AirplaneQuest8,AirplaneQuest9]
+
+Airplane1.type = buildinglevel
+#Airplane1.gemCost = 5
+Airplane1.buildingMaterials = rope,5,pallet,7,quartzsand,10
+#time building tinh theo giay
+Airplane1.timeBuilding = 6
+Airplane1.upSpeedBuilding = gems,6
+Airplane1.rewardBuildCompleted = xp,270
+Airplane1.levelPlayerRequire = 14
+
+
+##### End Airplane #####
+
+##### AirplaneQuest #####
+
+AirplaneQuest1.type = AirplaneQuest
+AirplaneQuest1.quests = string_,10,rope,20,cloth,30
+AirplaneQuest1.goldReward = 160
+AirplaneQuest1.xpReward = 30
+#tính bằng giây
+AirplaneQuest1.timeRemove = 10
+AirplaneQuest1.skipTime = gems,10
+AirplaneQuest1.statusRemoved = FALSE
+
+AirplaneQuest2.type = AirplaneQuest
+AirplaneQuest2.quests = string_,10,rope,20,cloth,30
+AirplaneQuest2.goldReward = 170
+AirplaneQuest2.xpReward = 40
+#tính bằng giây
+AirplaneQuest2.timeRemove = 10
+AirplaneQuest2.skipTime = gems,10
+AirplaneQuest2.statusRemoved = FALSE
+
+AirplaneQuest3.type = AirplaneQuest
+AirplaneQuest3.quests = string_,10,rope,20,cloth,30
+AirplaneQuest3.goldReward = 180
+AirplaneQuest3.xpReward = 50
+#tính bằng giây
+AirplaneQuest3.timeRemove = 10
+AirplaneQuest3.skipTime = gems,10
+AirplaneQuest3.statusRemoved = FALSE
+
+AirplaneQuest4.type = AirplaneQuest
+AirplaneQuest4.quests = string_,10,rope,20,cloth,30
+AirplaneQuest4.goldReward = 190
+AirplaneQuest4.xpReward = 60
+#tính bằng giây
+AirplaneQuest4.timeRemove = 10
+AirplaneQuest4.skipTime = gems,10
+AirplaneQuest4.statusRemoved = FALSE
+
+AirplaneQuest5.type = AirplaneQuest
+AirplaneQuest5.quests = string_,10,rope,20,cloth,30
+AirplaneQuest5.goldReward = 160
+AirplaneQuest5.xpReward = 40
+#tính bằng giây
+AirplaneQuest5.timeRemove = 10
+AirplaneQuest5.skipTime = gems,10
+AirplaneQuest5.statusRemoved = FALSE
+
+AirplaneQuest6.type = AirplaneQuest
+AirplaneQuest6.quests = string_,10,rope,20,cloth,30
+AirplaneQuest6.goldReward = 160
+AirplaneQuest6.xpReward = 40
+#tính bằng giây
+AirplaneQuest6.timeRemove = 10
+AirplaneQuest6.skipTime = gems,10
+AirplaneQuest6.statusRemoved = FALSE
+
+AirplaneQuest7.type = AirplaneQuest
+AirplaneQuest7.quests = string_,10,rope,20,cloth,30
+AirplaneQuest7.goldReward = 160
+AirplaneQuest7.xpReward = 40
+#tính bằng giây
+AirplaneQuest7.timeRemove = 10
+AirplaneQuest7.skipTime = gems,10
+AirplaneQuest7.statusRemoved = FALSE
+
+AirplaneQuest8.type = AirplaneQuest
+AirplaneQuest8.quests = string_,10,rope,20,cloth,30
+AirplaneQuest8.goldReward = 160
+AirplaneQuest8.xpReward = 40
+#tính bằng giây
+AirplaneQuest8.timeRemove = 10
+AirplaneQuest8.skipTime = gems,10
+AirplaneQuest8.statusRemoved = FALSE
+
+AirplaneQuest9.type = AirplaneQuest
+AirplaneQuest9.quests = string_,10,rope,20,cloth,30
+AirplaneQuest9.goldReward = 160
+AirplaneQuest9.xpReward = 40
+#tính bằng giây
+AirplaneQuest9.timeRemove = 10
+AirplaneQuest9.skipTime = gems,10
+AirplaneQuest9.statusRemoved = FALSE
+
+AirplaneQuest10.type = AirplaneQuest
+AirplaneQuest10.quests = string_,10,rope,20,cloth,30
+AirplaneQuest10.goldReward = 160
+AirplaneQuest10.xpReward = 40
+#tính bằng giây
+AirplaneQuest10.timeRemove = 10
+AirplaneQuest10.skipTime = gems,10
+AirplaneQuest10.statusRemoved = FALSE
+
+AirplaneQuest11.type = AirplaneQuest
+AirplaneQuest11.quests = string_,10,rope,20,cloth,30
+AirplaneQuest11.goldReward = 160
+AirplaneQuest11.xpReward = 40
+#tính bằng giây
+AirplaneQuest11.timeRemove = 10
+AirplaneQuest11.skipTime = gems,10
+AirplaneQuest11.statusRemoved = FALSE
+
+AirplaneQuest12.type = AirplaneQuest
+AirplaneQuest12.quests = string_,10,rope,20,cloth,30
+AirplaneQuest12.goldReward = 160
+AirplaneQuest12.xpReward = 40
+#tính bằng giây
+AirplaneQuest12.timeRemove = 10
+AirplaneQuest12.skipTime = gems,10
+AirplaneQuest12.statusRemoved = FALSE
+
+AirplaneQuest13.type = AirplaneQuest
+AirplaneQuest13.quests = string_,10,rope,20,cloth,30
+AirplaneQuest13.goldReward = 160
+AirplaneQuest13.xpReward = 40
+#tính bằng giây
+AirplaneQuest13.timeRemove = 10
+AirplaneQuest13.skipTime = gems,10
+AirplaneQuest13.statusRemoved = FALSE
+
+##### End AirplaneQuest #####
+
+##### Train #####
+Train.type = TrainBuilding
+Train.maxFacilities = 1
+Train.spriteReference = warehouse_base_f001
+Train.stringReference = warehouse
+Train.levels = [Train1]
+Train.moveable = TRUE
+Train.sizeU = 4
+Train.sizeV = 4
+#tinh bang giay
+Airplane.timeReset = 10
+Train.rewards = Reward1,3,Reward2,5
+Train.receivedRewards = []
+Train.quests = cloth,10,woodenplan,20,pallet,15,quartzsand,5,cement,5
+Train.questsCompleted = []
+Train.questsDeleted = []
+
+Train1.type = buildinglevel
+#Train1.gemCost = 5
+Train1.buildingMaterials = grass,8,wood,5,stone,7
+#time building tinh theo giay
+Train1.timeBuilding = 6
+Train1.upSpeedBuilding = gems,6
+Train1.rewardBuildCompleted = xp,132
+Train1.levelPlayerRequire = 4
+
+##### End Train #####
+
+##### Weaver #####
+Weaver.type = ProduceHouse
+Weaver.maxFacilities = 1
+Weaver.spriteReference = Weaver_Sprites
+Weaver.stringReference = Weaver
+Weaver.levels = [Weaver1,Weaver2,Weaver3,Weaver4]
+Weaver.products = [string_,rope,cloth]
+Weaver.moveable = TRUE
+Weaver.sizeU = 2
+Weaver.sizeV = 2
+
+Weaver1.type = buildinglevel
+Weaver1.gemCost = 5
+Weaver1.buildingMaterials = grass,10,wood,15,stone,15
+#Weaver1.unlockWaitingProduce = [0,0,0,3,6,12]
+#time building tinh theo giay
+Weaver1.timeBuilding = 6
+Weaver1.upSpeedBuilding = gems,6
+Weaver1.rewardBuildCompleted = xp,12
+Weaver1.levelPlayerRequire = 2
+Weaver1.requirements=RequirementType_2&Value_1
+
+Weaver2.type = buildinglevel
+Weaver2.gemCost = 5
+Weaver2.buildingMaterials = string_,3,woodenplan,2,quartzsand,2
+Weaver2.unlockWaitingProduce = [0,0,0,3,6,12]
+#time building tinh theo giay
+Weaver2.timeBuilding = 8
+Weaver2.upSpeedBuilding = gems,6
+Weaver2.rewardBuildCompleted = xp,30
+Weaver2.levelPlayerRequire = 12
+
+Weaver3.type = buildinglevel
+Weaver3.gemCost = 5
+Weaver3.buildingMaterials = string_,4,woodenplan,3,quartzsand,3
+Weaver3.unlockWaitingProduce = [0,0,0,24,30,40]
+#time building tinh theo giay
+Weaver3.timeBuilding = 10
+Weaver3.upSpeedBuilding = gems,6
+Weaver3.rewardBuildCompleted = xp,35
+Weaver3.levelPlayerRequire = 25
+
+Weaver4.type = buildinglevel
+Weaver4.unlockWaitingProduce = [0,0,0,44,50,55]
+##### End Weaver #####
+
+##### Workshop #####
+Workshop.type = ProduceHouse
+Workshop.maxFacilities = 1
+Workshop.spriteReference = Workshop_Sprites
+Workshop.stringReference = Workshop
+Workshop.levels = [Workshop1,Workshop2,Workshop3,Workshop4]
+Workshop.products = [woodenplan,pallet,woodveneer]
+Workshop.moveable = TRUE
+Workshop.sizeU = 2
+Workshop.sizeV = 2
+
+Workshop1.type = buildinglevel
+Workshop1.gemCost = 5
+Workshop1.buildingMaterials = grass,15,wood,18,stone,20
+#Workshop1.unlockWaitingProduce = [0,0,0,3,6,12]
+#time building tinh theo giay
+Workshop1.timeBuilding = 6
+Workshop1.upSpeedBuilding = gems,6
+Workshop1.rewardBuildCompleted = xp,11
+Workshop1.levelPlayerRequire = 4
+
+Workshop2.type = buildinglevel
+Workshop2.gemCost = 5
+Workshop2.buildingMaterials = string_,3,woodenplan,5,quartzsand,5
+Workshop2.unlockWaitingProduce = [0,0,0,3,6,12]
+#time building tinh theo giay
+Workshop2.timeBuilding = 8
+Workshop2.upSpeedBuilding = gems,6
+Workshop2.rewardBuildCompleted = xp,22
+Workshop2.levelPlayerRequire = 14
+
+Workshop3.type = buildinglevel
+Workshop3.gemCost = 5
+Workshop3.buildingMaterials = string_,4,woodenplan,6,quartzsand,7
+Workshop3.unlockWaitingProduce = [0,0,0,24,30,40]
+#time building tinh theo giay
+Workshop3.timeBuilding = 10
+Workshop3.upSpeedBuilding = gems,6
+Workshop3.rewardBuildCompleted = xp,33
+Workshop3.levelPlayerRequire = 23
+
+Workshop4.type = buildinglevel
+Workshop4.unlockWaitingProduce = [0,0,0,44,50,55]
+##### End Workshop #####
+
+##### Quary #####
+Quary.type = ProduceHouse
+Quary.maxFacilities = 1
+Quary.spriteReference = Quary_Sprites
+Quary.stringReference = Quary
+Quary.levels = [Quary1,Quary2,Quary3]
+Quary.products = [quartzsand,cement,bricks]
+Quary.moveable = TRUE
+Quary.sizeU = 2
+Quary.sizeV = 2
+
+Quary1.type = buildinglevel
+Quary1.gemCost = 5
+Quary1.buildingMaterials = grass,20,wood,25,stone,25
+Quary1.unlockWaitingProduce = [0,0,0,3,6,12]
+#time building tinh theo giay
+Quary1.timeBuilding = 6
+Quary1.upSpeedBuilding = gems,6
+Quary1.rewardBuildCompleted = xp,13
+Quary1.levelPlayerRequire = 7
+
+Quary2.type = buildinglevel
+Quary2.gemCost = 5
+Quary2.buildingMaterials = string_,10,pallet,10,cement,8
+Quary2.unlockWaitingProduce = [0,0,0,24,30,40]
+#time building tinh theo giay
+Quary2.timeBuilding = 8
+Quary2.upSpeedBuilding = gems,6
+Quary2.rewardBuildCompleted = xp,25
+Quary2.levelPlayerRequire = 21
+
+Quary3.type = buildinglevel
+Quary3.gemCost = 5
+Quary3.buildingMaterials = string_,4,woodenplan,6,quartzsand,7
+Quary3.unlockWaitingProduce = [0,0,0,44,50,55]
+#time building tinh theo giay
+Quary3.timeBuilding = 10
+Quary3.upSpeedBuilding = gems,6
+Quary3.rewardBuildCompleted = xp,35
+Quary3.levelPlayerRequire = 33
+##### End Quary #####
+
+##### FeedFactory #####
+FeedFactory.type = ProduceHouse
+FeedFactory.maxFacilities = 1
+FeedFactory.spriteReference = FeedFactory_Sprites
+FeedFactory.stringReference = FeedFactory
+FeedFactory.levels = [FeedMill1,FeedMill2,FeedMill3]
+FeedFactory.products = [cowfeed,chickenfeed,pigfeed]
+FeedFactory.moveable = TRUE
+FeedFactory.sizeU = 2
+FeedFactory.sizeV = 2
+
+FeedMill1.type = buildinglevel
+FeedMill1.gemCost = 5
+FeedMill1.buildingMaterials = grass,10,wood,15,stone,18
+FeedMill1.unlockWaitingProduce = [0,0,0,3,6,12]
+#time building tinh theo giay
+FeedMill1.timeBuilding = 6
+FeedMill1.upSpeedBuilding = gems,6
+FeedMill1.rewardBuildCompleted = xp,11
+FeedMill1.levelPlayerRequire = 3
+
+FeedMill2.type = buildinglevel
+FeedMill2.gemCost = 5
+FeedMill2.buildingMaterials = rope,3,pallet,3,cement,2
+FeedMill2.unlockWaitingProduce = [0,0,0,24,30,40]
+#time building tinh theo giay
+FeedMill2.timeBuilding = 8
+FeedMill2.upSpeedBuilding = gems,6
+FeedMill2.rewardBuildCompleted = xp,120
+FeedMill2.levelPlayerRequire = 19
+
+FeedMill3.type = buildinglevel
+FeedMill3.gemCost = 5
+FeedMill3.buildingMaterials = cloth,4,woodveneer,4,bricks,3
+FeedMill3.unlockWaitingProduce = [0,0,0,44,50,55]
+#time building tinh theo giay
+FeedMill3.timeBuilding = 10
+FeedMill3.upSpeedBuilding = gems,6
+FeedMill3.rewardBuildCompleted = xp,1655
+FeedMill3.levelPlayerRequire = 44
+##### End FeedFactory #####
+
+##### CowShed #####
+CowShed.type = ProduceHouse
+CowShed.maxFacilities = 1
+CowShed.spriteReference = CowShed_Sprites
+CowShed.stringReference = CowShed
+CowShed.levels = [CowShed1,CowShed2,CowShed3]
+CowShed.products = [milk]
+CowShed.moveable = TRUE
+CowShed.sizeU = 2
+CowShed.sizeV = 2
+
+CowShed1.type = buildinglevel
+CowShed1.gemCost = 5
+CowShed1.buildingMaterials = grass,10,wood,20,stone,14
+CowShed1.unlockWaitingProduce = [0,0,0,30,40,50]
+#time building tinh theo giay
+CowShed1.timeBuilding = 6
+CowShed1.upSpeedBuilding = gems,6
+CowShed1.rewardBuildCompleted = xp,45
+CowShed1.levelPlayerRequire = 3
+
+CowShed2.type = buildinglevel
+CowShed2.gemCost = 5
+CowShed2.buildingMaterials = rope,2,Wallet,3,quartzsand,3
+CowShed2.unlockWaitingProduce = [0,0,0,180,200,220]
+#time building tinh theo giay
+CowShed2.timeBuilding = 8
+CowShed2.upSpeedBuilding = gems,6
+CowShed2.rewardBuildCompleted = xp,124
+CowShed2.levelPlayerRequire = 15
+
+CowShed3.type = buildinglevel
+CowShed3.gemCost = 5
+CowShed3.buildingMaterials = cloth,4,woodveneer,4,bricks,3
+CowShed3.unlockWaitingProduce = [0,0,0,750,800,850]
+#time building tinh theo giay
+CowShed3.timeBuilding = 10
+CowShed3.upSpeedBuilding = gems,6
+CowShed3.rewardBuildCompleted = xp,440
+CowShed3.levelPlayerRequire = 30
+##### End CowShed #####
+
+##### DairyFactory #####
+DairyFactory.type = ProduceHouse
+DairyFactory.maxFacilities = 1
+DairyFactory.spriteReference = DairyFactory_Sprites
+DairyFactory.stringReference = DairyFactory
+DairyFactory.levels = [DairyFactory1,DairyFactory2,DairyFactory3]
+DairyFactory.products = [cream,cheese,butter,tofu,soymilk]
+DairyFactory.moveable = TRUE
+DairyFactory.sizeU = 2
+DairyFactory.sizeV = 2
+
+DairyFactory1.type = buildinglevel
+DairyFactory1.gemCost = 5
+DairyFactory1.buildingMaterials = grass,13,wood,17,stone,22
+DairyFactory1.unlockWaitingProduce = [0,0,0,2,8,10]
+#time building tinh theo giay
+DairyFactory1.timeBuilding = 6
+DairyFactory1.upSpeedBuilding = gems,6
+DairyFactory1.rewardBuildCompleted = xp,30
+DairyFactory1.levelPlayerRequire = 4
+
+DairyFactory2.type = buildinglevel
+DairyFactory2.gemCost = 5
+DairyFactory2.buildingMaterials = rope,6,woodenplan,4,quartzsand,3
+DairyFactory2.unlockWaitingProduce = [0,0,0,12,16,20]
+#time building tinh theo giay
+DairyFactory2.timeBuilding = 8
+DairyFactory2.upSpeedBuilding = gems,6
+DairyFactory2.rewardBuildCompleted = xp,112
+DairyFactory2.levelPlayerRequire = 20
+
+DairyFactory3.type = buildinglevel
+DairyFactory3.gemCost = 5
+DairyFactory3.buildingMaterials = cloth,4,woodveneer,4,bricks,3
+DairyFactory3.unlockWaitingProduce = [0,0,0,32,48,60]
+#time building tinh theo giay
+DairyFactory3.timeBuilding = 10
+DairyFactory3.upSpeedBuilding = gems,6
+DairyFactory3.rewardBuildCompleted = xp,500
+DairyFactory3.levelPlayerRequire = 50
+##### End DairyFactory #####
+
+##### ChickenCoop #####
+ChickenCoop.type = ProduceHouse
+ChickenCoop.maxFacilities = 1
+ChickenCoop.spriteReference = ChickenCoop_Sprites
+ChickenCoop.stringReference = ChickenCoop
+ChickenCoop.levels = [ChickenCoop1,ChickenCoop2,ChickenCoop3]
+ChickenCoop.products = [egg]
+ChickenCoop.moveable = TRUE
+ChickenCoop.sizeU = 2
+ChickenCoop.sizeV = 2
+
+ChickenCoop1.type = buildinglevel
+ChickenCoop1.gemCost = 5
+ChickenCoop1.buildingMaterials = grass,15,wood,19,stone,7
+ChickenCoop1.unlockWaitingProduce = [0,0,0,90,120,150]
+#time building tinh theo giay
+ChickenCoop1.timeBuilding = 6
+ChickenCoop1.upSpeedBuilding = gems,6
+ChickenCoop1.rewardBuildCompleted = xp,13
+ChickenCoop1.levelPlayerRequire = 5
+
+ChickenCoop2.type = buildinglevel
+ChickenCoop2.gemCost = 5
+ChickenCoop2.buildingMaterials = rope,5,Paller,8,bricks,4
+ChickenCoop2.unlockWaitingProduce = [0,0,0,540,600,660]
+#time building tinh theo giay
+ChickenCoop2.timeBuilding = 8
+ChickenCoop2.upSpeedBuilding = gems,6
+ChickenCoop2.rewardBuildCompleted = xp,128
+ChickenCoop2.levelPlayerRequire = 24
+
+ChickenCoop3.type = buildinglevel
+ChickenCoop3.gemCost = 5
+ChickenCoop3.buildingMaterials = cloth,4,woodveneer,4,bricks,3
+ChickenCoop3.unlockWaitingProduce = [0,0,0,2250,2400,2550]
+#time building tinh theo giay
+ChickenCoop3.timeBuilding = 10
+ChickenCoop3.upSpeedBuilding = gems,6
+ChickenCoop3.rewardBuildCompleted = xp,623
+ChickenCoop3.levelPlayerRequire = 389
+##### End ChickenCoop #####
+
+##### PigFeed #####
+PigFeed.type = ProduceHouse
+PigFeed.maxFacilities = 1
+PigFeed.spriteReference = PigFeed_Sprites
+PigFeed.stringReference = PigFeed
+PigFeed.levels = [PigFarm1,PigFarm2,PigFarm3]
+PigFeed.products = [bacon]
+PigFeed.moveable = TRUE
+PigFeed.sizeU = 2
+PigFeed.sizeV = 2
+
+PigFarm1.type = buildinglevel
+PigFarm1.gemCost = 5
+PigFarm1.buildingMaterials = grass,21,wood,27,stone,14
+PigFarm1.unlockWaitingProduce = [0,0,0,100,240,315]
+#time building tinh theo giay
+PigFarm1.timeBuilding = 6
+PigFarm1.upSpeedBuilding = gems,6
+PigFarm1.rewardBuildCompleted = xp,50
+PigFarm1.levelPlayerRequire = 16
+
+PigFarm2.type = buildinglevel
+PigFarm2.gemCost = 5
+PigFarm2.buildingMaterials = rope,3,pallet,7,bricks,5
+PigFarm2.unlockWaitingProduce = [0,0,0,2100,2400,3150]
+#time building tinh theo giay
+PigFarm2.timeBuilding = 8
+PigFarm2.upSpeedBuilding = gems,6
+PigFarm2.rewardBuildCompleted = xp,448
+PigFarm2.levelPlayerRequire = 34
+
+PigFarm3.type = buildinglevel
+PigFarm3.gemCost = 5
+PigFarm3.buildingMaterials = cloth,4,woodveneer,4,bricks,3
+PigFarm3.unlockWaitingProduce = [0,0,0,12600,14000,15400]
+#time building tinh theo giay
+PigFarm3.timeBuilding = 10
+PigFarm3.upSpeedBuilding = gems,6
+PigFarm3.rewardBuildCompleted = xp,1448
+PigFarm3.levelPlayerRequire = 56
+##### End PigFeed #####
+
+##### GrillFactory #####
+GrillFactory.type = ProduceHouse
+GrillFactory.maxFacilities = 1
+GrillFactory.spriteReference = GrillFactory_Sprites
+GrillFactory.stringReference = GrillFactory
+GrillFactory.levels = [GrillFactory1,GrillFactory2,GrillFactory3]
+GrillFactory.products = [baconwithegg,corndog,coneydog,ricecasserole,sandwichcheesewithbacon]
+GrillFactory.moveable = TRUE
+GrillFactory.sizeU = 2
+GrillFactory.sizeV = 2
+
+GrillFactory1.type = buildinglevel
+GrillFactory1.gemCost = 5
+GrillFactory1.buildingMaterials = grass,24,wood,15,stone,7
+GrillFactory1.unlockWaitingProduce = [0,0,0,6,12,20]
+#time building tinh theo giay
+GrillFactory1.timeBuilding = 6
+GrillFactory1.upSpeedBuilding = gems,6
+GrillFactory1.rewardBuildCompleted = xp,60
+GrillFactory1.levelPlayerRequire = 17
+
+GrillFactory2.type = buildinglevel
+GrillFactory2.gemCost = 5
+GrillFactory2.buildingMaterials = rope,10,pallet,8,bricks,6
+GrillFactory2.unlockWaitingProduce = [0,0,0,22,36,40]
+#time building tinh theo giay
+GrillFactory2.timeBuilding = 8
+GrillFactory2.upSpeedBuilding = gems,6
+GrillFactory2.rewardBuildCompleted = xp,200
+GrillFactory2.levelPlayerRequire = 38
+
+GrillFactory3.type = buildinglevel
+GrillFactory3.gemCost = 5
+GrillFactory3.buildingMaterials = cloth,4,woodveneer,4,bricks,3
+GrillFactory3.unlockWaitingProduce = [0,0,0,52,68,80]
+#time building tinh theo giay
+GrillFactory3.timeBuilding = 10
+GrillFactory3.upSpeedBuilding = gems,6
+GrillFactory3.rewardBuildCompleted = xp,2000
+GrillFactory3.levelPlayerRequire = 60
+##### End GrillFactory #####
+
+##### BeverageFactory #####
+BeverageFactory.type = ProduceHouse
+BeverageFactory.maxFacilities = 1
+BeverageFactory.spriteReference = BeverageFactory_Sprites
+BeverageFactory.stringReference = BeverageFactory
+BeverageFactory.levels = [BeverageFactory1,BeverageFactory2,BeverageFactory3]
+BeverageFactory.products = [cornmilk,blueberrymilk,orangejuice,applejuice,grapejuice,tropicaljuice]
+BeverageFactory.moveable = TRUE
+BeverageFactory.sizeU = 2
+BeverageFactory.sizeV = 2
+
+BeverageFactory1.type = buildinglevel
+BeverageFactory1.gemCost = 5
+BeverageFactory1.buildingMaterials = grass,15,wood,10,stone,8
+BeverageFactory1.unlockWaitingProduce = [0,0,0,120,250,350]
+#time building tinh theo giay
+BeverageFactory1.timeBuilding = 6
+BeverageFactory1.upSpeedBuilding = gems,6
+BeverageFactory1.rewardBuildCompleted = xp,45
+BeverageFactory1.levelPlayerRequire = 10
+
+BeverageFactory2.type = buildinglevel
+BeverageFactory2.gemCost = 5
+BeverageFactory2.buildingMaterials = rope,3,pallet,5,quartzsand,3
+BeverageFactory2.unlockWaitingProduce = [0,0,0,2000,2800,3400]
+#time building tinh theo giay
+BeverageFactory2.timeBuilding = 8
+BeverageFactory2.upSpeedBuilding = gems,6
+BeverageFactory2.rewardBuildCompleted = xp,132
+BeverageFactory2.levelPlayerRequire = 25
+
+BeverageFactory3.type = buildinglevel
+BeverageFactory3.gemCost = 5
+BeverageFactory3.buildingMaterials = rope,10,woodveneer,3,bricks,5
+BeverageFactory3.unlockWaitingProduce = [0,0,0,12200,14500,16000]
+#time building tinh theo giay
+BeverageFactory3.timeBuilding = 10
+BeverageFactory3.upSpeedBuilding = gems,6
+BeverageFactory3.rewardBuildCompleted = xp,223
+BeverageFactory3.levelPlayerRequire = 50
+##### End BeverageFactory #####
+
+##### Kitchen #####
+Kitchen.type = ProduceHouse
+Kitchen.maxFacilities = 1
+Kitchen.spriteReference = Kitchen_Sprites
+Kitchen.stringReference = Kitchen
+Kitchen.levels = [Kitchen1,Kitchen2,Kitchen3]
+Kitchen.products = [bread,cookies,popcorn,cheeseburger,cornbread,pumpkinbread,carrotbread,strawbearrybread,sandwich,cheesecake]
+Kitchen.moveable = TRUE
+Kitchen.sizeU = 2
+Kitchen.sizeV = 2
+
+Kitchen1.type = buildinglevel
+Kitchen1.gemCost = 5
+Kitchen1.buildingMaterials = grass,8,wood,7,stone,10
+Kitchen1.unlockWaitingProduce = [0,0,0,2,6,18]
+#time building tinh theo giay
+Kitchen1.timeBuilding = 6
+Kitchen1.upSpeedBuilding = gems,6
+Kitchen1.rewardBuildCompleted = xp,30
+Kitchen1.levelPlayerRequire = 8
+
+Kitchen2.type = buildinglevel
+Kitchen2.gemCost = 5
+Kitchen2.buildingMaterials = string_,5,woodenplan,3,quartzsand,3
+Kitchen2.unlockWaitingProduce = [0,0,0,20,30,46]
+#time building tinh theo giay
+Kitchen2.timeBuilding = 8
+Kitchen2.upSpeedBuilding = gems,6
+Kitchen2.rewardBuildCompleted = xp,70
+Kitchen2.levelPlayerRequire = 22
+
+Kitchen3.type = buildinglevel
+Kitchen3.gemCost = 5
+Kitchen3.buildingMaterials = rope,10,woodveneer,3,bricks,5
+Kitchen3.unlockWaitingProduce = [0,0,0,40,50,65]
+#time building tinh theo giay
+Kitchen3.timeBuilding = 10
+Kitchen3.upSpeedBuilding = gems,6
+Kitchen3.rewardBuildCompleted = xp,150
+Kitchen3.levelPlayerRequire = 48
+##### End Kitchen #####
+
+##### DinnerTable #####
+DinnerTable.type = ProduceHouse
+DinnerTable.maxFacilities = 1
+DinnerTable.spriteReference = DinnerTable_Sprites
+DinnerTable.stringReference = DinnerTable
+DinnerTable.levels = [DinnerTable1,DinnerTable2,DinnerTable3]
+DinnerTable.products = [bread,cookies,popcorn,cheeseburger,cornbread,pumpkinbread,carrotbread,strawbearrybread,sandwich,cheesecake]
+DinnerTable.moveable = TRUE
+DinnerTable.sizeU = 1
+DinnerTable.sizeV = 2
+
+DinnerTable1.type = buildinglevel
+DinnerTable1.gemCost = 5
+DinnerTable1.buildingMaterials = grass,15,wood,7,stone,15
+DinnerTable1.unlockWaitingProduce = [0,0,1,1]
+#time building tinh theo giay
+DinnerTable1.timeBuilding = 6
+DinnerTable1.upSpeedBuilding = gems,6
+DinnerTable1.rewardBuildCompleted = xp,30
+DinnerTable1.levelPlayerRequire = 8
+
+DinnerTable2.type = buildinglevel
+DinnerTable2.gemCost = 5
+DinnerTable2.buildingMaterials = string_,5,woodenplan,8,quartzsand,5
+DinnerTable2.unlockWaitingProduce = [0,0,0,1]
+#time building tinh theo giay
+DinnerTable2.timeBuilding = 8
+DinnerTable2.upSpeedBuilding = gems,6
+DinnerTable2.rewardBuildCompleted = xp,70
+DinnerTable2.levelPlayerRequire = 23
+
+DinnerTable3.type = buildinglevel
+DinnerTable3.gemCost = 5
+DinnerTable3.buildingMaterials = rope,10,woodveneer,3,bricks,5
+DinnerTable3.unlockWaitingProduce = [0,0,0,1]
+#time building tinh theo giay
+DinnerTable3.timeBuilding = 10
+DinnerTable3.upSpeedBuilding = gems,6
+DinnerTable3.rewardBuildCompleted = xp,150
+DinnerTable3.levelPlayerRequire = 49
+##### End DinnerTable #####
+
+##### EnergyLake #####
+EnergyLake.type = ProduceHouse
+EnergyLake.maxFacilities = 1
+EnergyLake.spriteReference = EnergyLake_Sprites
+EnergyLake.stringReference = EnergyLake
+EnergyLake.levels = [EnergyLake1,EnergyLake2,EnergyLake3]
+EnergyLake.moveable = TRUE
+EnergyLake.sizeU = 4
+EnergyLake.sizeV = 4
+
+EnergyLake1.type = buildinglevel
+EnergyLake1.gemCost = 5
+EnergyLake1.buildingMaterials = grass,18,wood,5,stone,7
+#time building tinh theo giay
+EnergyLake1.timeBuilding = 6
+EnergyLake1.upSpeedBuilding = gems,6
+#time building tinh theo giay
+EnergyLake1.timeProduce = 12
+EnergyLake1.numberProduce = 1
+EnergyLake1.maxProduce = 5
+EnergyLake1.rewardBuildCompleted = xp,40
+EnergyLake1.levelPlayerRequire = 11
+
+EnergyLake2.type = buildinglevel
+EnergyLake2.gemCost = 5
+EnergyLake2.buildingMaterials = rope,5,pallet,8,quartzsand,8
+#time building tinh theo giay
+EnergyLake2.timeBuilding = 8
+EnergyLake2.upSpeedBuilding = gems,6
+#time building tinh theo giay
+EnergyLake2.timeProduce = 12
+EnergyLake2.numberProduce = 1
+EnergyLake2.maxProduce = 15
+EnergyLake2.rewardBuildCompleted = xp,80
+EnergyLake2.levelPlayerRequire = 27
+
+EnergyLake3.type = buildinglevel
+EnergyLake3.gemCost = 5
+EnergyLake3.buildingMaterials = rope,10,woodveneer,3,bricks,5
+#time building tinh theo giay
+EnergyLake3.timeBuilding = 10
+EnergyLake3.upSpeedBuilding = gems,6
+#time building tinh theo giay
+EnergyLake3.timeProduce = 12
+EnergyLake3.numberProduce = 1
+EnergyLake3.maxProduce = 45
+EnergyLake3.rewardBuildCompleted = xp,120
+EnergyLake3.levelPlayerRequire = 47
+##### End EnergyLake #####
+
+##### GoldMining #####
+GoldMining.type = ProduceHouse
+GoldMining.maxFacilities = 1
+GoldMining.spriteReference = GoldMining_Sprites
+GoldMining.stringReference = GoldMining
+GoldMining.levels = [GoldMining1,GoldMining2,GoldMining3]
+GoldMining.moveable = TRUE
+GoldMining.sizeU = 3
+GoldMining.sizeV = 3
+
+GoldMining1.type = buildinglevel
+GoldMining1.gemCost = 5
+GoldMining1.buildingMaterials = grass,7,wood,13,stone,21
+#time building tinh theo giay
+GoldMining1.timeBuilding = 6
+GoldMining1.upSpeedBuilding = gems,6
+#time building tinh theo giay
+GoldMining1.timeProduce = 12
+GoldMining1.numberProduce = 1
+GoldMining1.maxProduce = 50
+GoldMining1.rewardBuildCompleted = xp,45
+GoldMining1.levelPlayerRequire = 25
+
+GoldMining2.type = buildinglevel
+GoldMining2.gemCost = 5
+GoldMining2.buildingMaterials = rope,5,woodenplan,8,quartzsand,6
+#time building tinh theo giay
+GoldMining2.timeBuilding = 8
+GoldMining2.upSpeedBuilding = gems,6
+#time building tinh theo giay
+GoldMining2.timeProduce = 12
+GoldMining2.numberProduce = 2
+GoldMining2.maxProduce = 250
+GoldMining2.rewardBuildCompleted = xp,90
+GoldMining2.levelPlayerRequire = 42
+
+GoldMining3.type = buildinglevel
+GoldMining3.gemCost = 5
+GoldMining3.buildingMaterials = rope,10,woodveneer,3,bricks,5
+#time building tinh theo giay
+GoldMining3.timeBuilding = 10
+GoldMining3.upSpeedBuilding = gems,6
+#time building tinh theo giay
+GoldMining3.timeProduce = 12
+GoldMining3.numberProduce = 5
+GoldMining3.maxProduce = 500
+GoldMining3.rewardBuildCompleted = xp,220
+GoldMining3.levelPlayerRequire = 55
+##### End GoldMining #####
+
+warehouselevel1.type = buildinglevel
+warehouselevel1.storage = 500
+warehouselevel1.gemCost = 5
+warehouselevel1.buildingMaterials = carrot,5,wheat,5,corn,5
+warehouselevel1.unlockWaitingProduce = [0,0,0,3,6,12]
+#time building tinh theo giay
+warehouselevel1.timeBuilding = 6
+warehouselevel1.rewardBuildCompleted = xp,12
+warehouselevel1.levelPlayerRequire = 2
+warehouselevel1.upSpeedProduce = 8
+
+warehouselevel2.type = buildinglevel
+warehouselevel2.storage = 600
+warehouselevel2.gemCost = 12
+warehouselevel2.buildingMaterials = carrot,10,wheat,10,corn,10
+warehouselevel2.unlockWaitingProduce = [0,0,0,24,30,40]
+#time building tinh theo giay
+warehouselevel2.timeBuilding = 10
+warehouselevel2.rewardBuildCompleted = xp,30
+warehouselevel2.levelPlayerRequire = 12
+warehouselevel2.upSpeedProduce = 4
+
+warehouselevel3.type = buildinglevel
+warehouselevel3.storage = 700
+warehouselevel3.gemCost = 18
+warehouselevel3.buildingMaterials = carrot,20,wheat,20,corn,20
+warehouselevel3.unlockWaitingProduce = [0,0,0,44,50,55]
+#time building tinh theo giay
+warehouselevel3.timeBuilding = 14
+warehouselevel3.rewardBuildCompleted = xp,35
+warehouselevel3.levelPlayerRequire = 25
+warehouselevel3.upSpeedProduce = 2
+
+item_orange.type = itemFruit
+item_orange.typeShop= tab1
+item_orange.unlockLevel = 1
+item_orange.constructionCost = golds, 1300
+item_orange.constructionRewards = xp, 50
+item_orange.stringReference = ItemFruit
+item_orange.spriteReference = item_orange_f001
+item_orange.constructionMinutes = 0
+item_orange.maxFacilities = 1
+item_orange.sizeU = 2
+item_orange.sizeV = 2
+item_orange.maxHarvests = 2
+item_orange.harvestCooldown = 30
+item_orange.timeToFirstHarvest = 60
+item_orange.gatherableCategory = 3
+item_orange.rewards = orange,5
+
+
+item_apple.type = itemFruit
+item_apple.typeShop= tab1
+item_apple.unlockLevel = 1
+item_apple.constructionCost = golds, 2000
+item_apple.constructionRewards = xp, 50
+item_apple.stringReference = ItemFruit
+item_apple.spriteReference = item_apple_f001
+item_apple.constructionMinutes = 0
+item_apple.maxFacilities = 1
+item_apple.sizeU = 2
+item_apple.sizeV = 2
+item_apple.maxHarvests = 5
+item_apple.harvestCooldown = 30
+item_apple.timeToFirstHarvest=60
+item_apple.gatherableCategory = 3
+item_apple.rewards = apple,5
+
+
+item_grape.type = itemFruit
+item_grape.typeShop= tab1
+item_grape.unlockLevel = 1
+item_grape.constructionCost = golds, 2700
+item_grape.constructionRewards = xp, 50
+item_grape.stringReference = ItemFruit
+item_grape.spriteReference = item_grape_f001
+item_grape.constructionMinutes = 0
+item_grape.maxFacilities = 1
+item_grape.sizeU = 1
+item_grape.sizeV = 1
+item_grape.maxHarvests = 5
+item_grape.harvestCooldown = 30
+item_grape.timeToFirstHarvest=60
+item_grape.gatherableCategory = 3
+item_grape.rewards = grape,5
+
+BlueberryTree.type = bonusTree
+BlueberryTree.unlockLevel = 1
+BlueberryTree.constructionCost = golds, 2700
+BlueberryTree.constructionRewards = xp, 50
+BlueberryTree.stringReference = ItemFruit
+BlueberryTree.spriteReference = item_grape_f001
+BlueberryTree.constructionMinutes = 0
+BlueberryTree.maxFacilities = 1
+BlueberryTree.sizeU = 1
+BlueberryTree.sizeV = 1
+BlueberryTree.maxHarvests = 1
+BlueberryTree.harvestCooldown = 30
+BlueberryTree.timeToFirstHarvest=60
+BlueberryTree.gatherableCategory = 3
+BlueberryTree.rewards = energy,19,grape,3
+
+RedberryTree.type = bonusTree
+RedberryTree.unlockLevel = 1
+RedberryTree.constructionCost = golds, 2700
+RedberryTree.constructionRewards = xp, 50
+RedberryTree.stringReference = ItemFruit
+RedberryTree.spriteReference = item_grape_f001
+RedberryTree.constructionMinutes = 0
+RedberryTree.maxFacilities = 1
+RedberryTree.sizeU = 1
+RedberryTree.sizeV = 1
+RedberryTree.maxHarvests = 1
+RedberryTree.harvestCooldown = 30
+RedberryTree.timeToFirstHarvest=60
+RedberryTree.gatherableCategory = 3
+RedberryTree.rewards = energy,12,grape,3
+
+PineappleTree.type = bonusTree
+PineappleTree.unlockLevel = 1
+PineappleTree.constructionCost = golds, 2700
+PineappleTree.constructionRewards = xp, 50
+PineappleTree.stringReference = ItemFruit
+PineappleTree.spriteReference = item_grape_f001
+PineappleTree.constructionMinutes = 0
+PineappleTree.maxFacilities = 1
+PineappleTree.sizeU = 1
+PineappleTree.sizeV = 1
+PineappleTree.maxHarvests = 1
+PineappleTree.harvestCooldown = 30
+PineappleTree.timeToFirstHarvest=60
+PineappleTree.gatherableCategory = 3
+PineappleTree.rewards = energy,15,grape,3
+
+
+item_decoration1.type = decoration
+item_decoration1.typeShop= tab2
+item_decoration1.unlockLevel = 1
+item_decoration1.constructionCost = golds, 1080
+item_decoration1.constructionRewards = xp, 50
+item_decoration1.stringReference = ItemFruit
+item_decoration1.spriteReference = item_grape_f001
+item_decoration1.constructionMinutes = 0
+item_decoration1.maxFacilities = 1
+item_decoration1.sizeU = 3
+item_decoration1.sizeV = 3
+
+firehouse01.type = petHouse
+firehouse01.typeShop= tab3
+firehouse01.unlockLevel = 1
+firehouse01.constructionCost = golds, 1080
+firehouse01.constructionRewards = xp, 50
+firehouse01.stringReference = ItemFruit
+firehouse01.spriteReference = firehouse01_f001
+firehouse01.constructionMinutes = 0
+firehouse01.maxFacilities = 1
+firehouse01.sizeU = 3
+firehouse01.sizeV = 3
+
+waterhouse01.type = petHouse
+waterhouse01.typeShop= tab3
+waterhouse01.unlockLevel = 1
+waterhouse01.constructionCost = golds, 1080
+waterhouse01.constructionRewards = xp, 50
+waterhouse01.stringReference = ItemFruit
+waterhouse01.spriteReference = firehouse01_f001
+waterhouse01.constructionMinutes = 0
+waterhouse01.maxFacilities = 1
+waterhouse01.sizeU = 3
+waterhouse01.sizeV = 3
+
+earthhouse01.type = petHouse
+earthhouse01.typeShop= tab3
+earthhouse01.unlockLevel = 1
+earthhouse01.constructionCost = golds, 1080
+earthhouse01.constructionRewards = xp, 50
+earthhouse01.stringReference = ItemFruit
+earthhouse01.spriteReference = firehouse01_f001
+earthhouse01.constructionMinutes = 0
+earthhouse01.maxFacilities = 1
+earthhouse01.sizeU = 3
+earthhouse01.sizeV = 3
+
+windhouse01.type = petHouse
+windhouse01.typeShop= tab3
+windhouse01.unlockLevel = 15
+windhouse01.constructionCost = gems, 1080
+windhouse01.constructionRewards = xp, 50
+windhouse01.stringReference = ItemFruit
+windhouse01.spriteReference = firehouse01_f001
+windhouse01.constructionMinutes = 0
+windhouse01.maxFacilities = 1
+windhouse01.sizeU = 3
+windhouse01.sizeV = 3
+
+##### HOUSE_NOT_FUNC_BUILDING #####
+
+##### Home #####
+Home.type = UpgradeHouse
+Home.maxFacilities = 1
+Home.spriteReference = Home_Sprites
+Home.stringReference = Home
+Home.levels = [Home1]
+Home.moveable = FALSE
+Home.sizeU = 2
+Home.sizeV = 2
+
+Home1.type = buildinglevel
+#Home1.gemCost = 5
+Home1.buildingMaterials = grass,5,wood,8,stone,4
+#time building tinh theo giay
+Home1.timeBuilding = 180
+#Home1.upSpeedBuilding = gems,6
+Home1.rewardBuildCompleted = xp,12
+Home1.requirements=RequirementType_2&Value_1
+
+##### Wind mill #####
+Windmill.type = UpgradeHouse
+Windmill.maxFacilities = 1
+Windmill.spriteReference = Windmill_Sprites
+Windmill.stringReference = Windmill
+Windmill.levels = [Windmill1]
+Windmill.moveable = FALSE
+Windmill.sizeU = 2
+Windmill.sizeV = 2
+
+Windmill1.type = buildinglevel
+#Windmill1.gemCost = 5
+Windmill1.buildingMaterials = string_,5,woodenplan,5,quartzsand,5
+#time building tinh theo giay
+Windmill1.timeBuilding = 1800
+#Windmill1.upSpeedBuilding = gems,6
+Windmill1.rewardBuildCompleted = xp,12
+Windmill1.requirements=RequirementType_2&Value_1
+
+##### HotSpring #####
+HotSpring.type = UpgradeHouse
+HotSpring.maxFacilities = 1
+HotSpring.spriteReference = HotSpring_Sprites
+HotSpring.stringReference = HotSpring
+HotSpring.levels = [HotSpring1]
+HotSpring.moveable = FALSE
+HotSpring.sizeU = 7
+HotSpring.sizeV = 7
+
+HotSpring1.type = buildinglevel
+#HotSpring1.gemCost = 5
+HotSpring1.buildingMaterials = rope,5,pallet,5,cement,5
+#time building tinh theo giay
+HotSpring1.timeBuilding = 1800
+#HotSpring1.upSpeedBuilding = gems,6
+HotSpring1.rewardBuildCompleted = xp,12
+HotSpring1.requirements=RequirementType_2&Value_1
+
+##### Well #####
+Well.type = UpgradeHouse
+Well.maxFacilities = 1
+Well.spriteReference = Well_Sprites
+Well.stringReference = Well
+Well.levels = [Well1]
+Well.moveable = FALSE
+Well.sizeU = 1
+Well.sizeV = 1
+
+Well1.type = buildinglevel
+#Well1.gemCost = 5
+Well1.buildingMaterials = wood,3,stone,2
+#time building tinh theo giay
+Well1.timeBuilding = 180
+#Well1.upSpeedBuilding = gems,6
+Well1.rewardBuildCompleted = xp,12
+Well1.requirements=RequirementType_2&Value_1
+
+##### LightHouse #####
+LightHouse.type = UpgradeHouse
+LightHouse.maxFacilities = 1
+LightHouse.spriteReference = LightHouse_Sprites
+LightHouse.stringReference = LightHouse
+LightHouse.levels = [LightHouse1]
+LightHouse.moveable = FALSE
+LightHouse.sizeU = 5
+LightHouse.sizeV = 5
+
+LightHouse1.type = buildinglevel
+#LightHouse1.gemCost = 5
+LightHouse1.buildingMaterials = rope,5,pallet,5,cement,5,stone,20
+#time building tinh theo giay
+LightHouse1.timeBuilding = 1800
+#LightHouse1.upSpeedBuilding = gems,6
+LightHouse1.rewardBuildCompleted = xp,12
+LightHouse1.requirements=RequirementType_2&Value_1
+
+##### Park #####
+Park.type = UpgradeHouse
+Park.maxFacilities = 1
+Park.spriteReference = Park_Sprites
+Park.stringReference = Park
+Park.levels = [Park1]
+Park.moveable = FALSE
+Park.sizeU = 5
+Park.sizeV = 5
+
+Park1.type = buildinglevel
+#Park1.gemCost = 5
+Park1.buildingMaterials = rope,5,pallet,5,cement,5,stone,20
+#time building tinh theo giay
+Park1.timeBuilding = 3600
+#Park1.upSpeedBuilding = gems,6
+Park1.rewardBuildCompleted = xp,12
+Park1.requirements=RequirementType_2&Value_1
+
+##### WaterFountainA #####
+WaterFountainA.type = UpgradeHouse
+WaterFountainA.maxFacilities = 1
+WaterFountainA.spriteReference = WaterFountainA_Sprites
+WaterFountainA.stringReference = WaterFountainA
+WaterFountainA.levels = [WaterFountainA1]
+WaterFountainA.moveable = FALSE
+WaterFountainA.sizeU = 2
+WaterFountainA.sizeV = 2
+
+WaterFountainA1.type = buildinglevel
+#WaterFountainA1.gemCost = 5
+WaterFountainA1.buildingMaterials = stone,10,quartzsand,5,cement,3
+#time building tinh theo giay
+WaterFountainA1.timeBuilding = 180
+#WaterFountainA1.upSpeedBuilding = gems,6
+WaterFountainA1.rewardBuildCompleted = xp,12
+WaterFountainA1.requirements=RequirementType_2&Value_1
+
+##### WaterFountainB #####
+WaterFountainB.type = UpgradeHouse
+WaterFountainB.maxFacilities = 1
+WaterFountainB.spriteReference = WaterFountainB_Sprites
+WaterFountainB.stringReference = WaterFountainB
+WaterFountainB.levels = [WaterFountainB1]
+WaterFountainB.moveable = FALSE
+WaterFountainB.sizeU = 3
+WaterFountainB.sizeV = 3
+
+WaterFountainB1.type = buildinglevel
+#WaterFountainB1.gemCost = 5
+WaterFountainB1.buildingMaterials = stone,10,quartzsand,5,cement,3
+#time building tinh theo giay
+WaterFountainB1.timeBuilding = 180
+#WaterFountainB1.upSpeedBuilding = gems,6
+WaterFountainB1.rewardBuildCompleted = xp,12
+WaterFountainB1.requirements=RequirementType_2&Value_1
+
+##### Boat #####
+Boat.type = UpgradeHouse
+Boat.maxFacilities = 1
+Boat.spriteReference = Boat_Sprites
+Boat.stringReference = Boat
+Boat.levels = [Boat1]
+Boat.moveable = FALSE
+Boat.sizeU = 2
+Boat.sizeV = 2
+
+Boat1.type = buildinglevel
+#Boat1.gemCost = 5
+Boat1.buildingMaterials = rope,3,cloth,2,woodveneer,2,wood,15
+#time building tinh theo giay
+Boat1.timeBuilding = 7200
+#Boat1.upSpeedBuilding = gems,6
+Boat1.rewardBuildCompleted = xp,12
+Boat1.requirements=RequirementType_2&Value_1
+
+##### StatueA #####
+StatueA.type = UpgradeHouse
+StatueA.maxFacilities = 1
+StatueA.spriteReference = StatueA_Sprites
+StatueA.stringReference = StatueA
+StatueA.levels = [StatueA1]
+StatueA.moveable = FALSE
+StatueA.sizeU = 1
+StatueA.sizeV = 1
+
+StatueA1.type = buildinglevel
+#StatueA1.gemCost = 5
+StatueA1.buildingMaterials = string_,4,quartzsand,3,woodenplan,3
+#time building tinh theo giay
+StatueA1.timeBuilding = 1800
+#StatueA1.upSpeedBuilding = gems,6
+StatueA1.rewardBuildCompleted = xp,12
+StatueA1.requirements=RequirementType_2&Value_1
+
+##### StatueB #####
+StatueB.type = UpgradeHouse
+StatueB.maxFacilities = 1
+StatueB.spriteReference = StatueB_Sprites
+StatueB.stringReference = StatueB
+StatueB.levels = [StatueB1]
+StatueB.moveable = FALSE
+StatueB.sizeU = 2
+StatueB.sizeV = 2
+
+StatueB1.type = buildinglevel
+#StatueB1.gemCost = 5
+StatueB1.buildingMaterials = string_,6,quartzsand,5,woodenplan,5
+#time building tinh theo giay
+StatueB1.timeBuilding = 3600
+#StatueB1.upSpeedBuilding = gems,6
+StatueB1.rewardBuildCompleted = xp,12
+StatueB1.requirements=RequirementType_2&Value_1
+
+##### GardenFlowerA #####
+GardenFlowerA.type = UpgradeHouse
+GardenFlowerA.maxFacilities = 1
+GardenFlowerA.spriteReference = GardenFlowerA_Sprites
+GardenFlowerA.stringReference = GardenFlowerA
+GardenFlowerA.levels = [GardenFlowerA1]
+GardenFlowerA.moveable = FALSE
+GardenFlowerA.sizeU = 2
+GardenFlowerA.sizeV = 2
+
+GardenFlowerA1.type = buildinglevel
+#GardenFlowerA1.gemCost = 5
+GardenFlowerA1.buildingMaterials = stone,10,grass,25
+#time building tinh theo giay
+GardenFlowerA1.timeBuilding = 1980
+#GardenFlowerA1.upSpeedBuilding = gems,6
+GardenFlowerA1.rewardBuildCompleted = xp,12
+GardenFlowerA1.requirements=RequirementType_2&Value_1
+
+##### GardenFlowerB #####
+GardenFlowerB.type = UpgradeHouse
+GardenFlowerB.maxFacilities = 1
+GardenFlowerB.spriteReference = GardenFlowerB_Sprites
+GardenFlowerB.stringReference = GardenFlowerB
+GardenFlowerB.levels = [GardenFlowerB1]
+GardenFlowerB.moveable = FALSE
+GardenFlowerB.sizeU = 2
+GardenFlowerB.sizeV = 3
+
+GardenFlowerB1.type = buildinglevel
+#GardenFlowerB1.gemCost = 5
+GardenFlowerB1.buildingMaterials = stone,10,grass,25
+#time building tinh theo giay
+GardenFlowerB1.timeBuilding = 3600
+#GardenFlowerB1.upSpeedBuilding = gems,6
+GardenFlowerB1.rewardBuildCompleted = xp,12
+GardenFlowerB1.requirements=RequirementType_2&Value_1
+
+##### SmallPond #####
+SmallPond.type = UpgradeHouse
+SmallPond.maxFacilities = 1
+SmallPond.spriteReference = SmallPond_Sprites
+SmallPond.stringReference = SmallPond
+SmallPond.levels = [SmallPond1]
+SmallPond.moveable = FALSE
+SmallPond.sizeU = 2
+SmallPond.sizeV = 2
+
+SmallPond1.type = buildinglevel
+#SmallPond1.gemCost = 5
+SmallPond1.buildingMaterials = stone,20,wood,20
+#time building tinh theo giay
+SmallPond1.timeBuilding = 3600
+#SmallPond1.upSpeedBuilding = gems,6
+SmallPond1.rewardBuildCompleted = xp,12
+SmallPond1.requirements=RequirementType_2&Value_1

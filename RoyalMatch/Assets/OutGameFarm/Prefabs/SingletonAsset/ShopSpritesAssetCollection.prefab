@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7836804819325307544
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1941150122407587469}
+  - component: {fileID: 6552551268561285639}
+  m_Layer: 0
+  m_Name: ShopSpritesAssetCollection
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1941150122407587469
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7836804819325307544}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6552551268561285639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7836804819325307544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0955f8b5cd7e2446a4487e2e1bd1fe8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _assets:
+  - _key: field_1
+    _value: {fileID: 21300000, guid: 0d343f8fe811ea74d9d2d2f67cbdaa6b, type: 3}
+  - _key: itemdeco1
+    _value: {fileID: 21300000, guid: e016b73f2e6f824428da36fb97c3237f, type: 3}
+  - _key: farmHouse01_3
+    _value: {fileID: -896767636, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+  - _key: item_orange
+    _value: {fileID: -1834245383, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+  - _key: item_apple
+    _value: {fileID: 41214370, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+  - _key: item_grape
+    _value: {fileID: -1061647719, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+  - _key: item_decoration1
+    _value: {fileID: -1175610712, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+  - _key: firehouse01
+    _value: {fileID: -278167610, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+  - _key: waterhouse01
+    _value: {fileID: 1874059392, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+  - _key: earthhouse01
+    _value: {fileID: -1968976653, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+  - _key: windhouse01
+    _value: {fileID: 921369330, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+  - _key: wood3000
+    _value: {fileID: 1763269379, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+  - _key: grasses30
+    _value: {fileID: 21300000, guid: 08b4801bceb7c4b4d82241d0794e74a5, type: 3}
+  - _key: stones30
+    _value: {fileID: 21300000, guid: 21302c6e70ef453a9a95b77a499c1e55, type: 3}
+  - _key: coins100
+    _value: {fileID: 21300000, guid: ddc24a3ac9e5aa345850c4b6c846a1b3, type: 3}
+  - _key: SmailDynamite1
+    _value: {fileID: 21300000, guid: 2f254c66ee4a7334bbfaf1f18dc017d1, type: 3}
+  - _key: Dynamite1
+    _value: {fileID: 21300000, guid: 02d07910e90af4f4a97c4673aa6a2e3d, type: 3}
+  - _key: LargeDynamite1
+    _value: {fileID: 21300000, guid: e66abc1b284f48f18f95c2c5fd31ba68, type: 3}
+  - _key: Energy30
+    _value: {fileID: 21300000, guid: 66f7c440ebd93d9498e7a52672338970, type: 3}

@@ -1,0 +1,1320 @@
+﻿definition.lastmodified = 1522052599
+
+game.startCurrencies = golds, 99999, gems, 99999,grass,20,wood,40,stone,40,mission,40,string,50,rope,60,cloth,70,woodenplan,80,pallet,90,woodveneer,10,quartzsand,11,cement,12,bricks,13,cowfeed,14,chickenfeed,15,pigfeed,16,milk,17,cream,18,cheese,19,butter,20,tofu,21,soymilk,22,egg,23,bread,24,cookies,25,popcorn,26,cheeseburger,27,cornbread,28,pumpkinbread,29,carrotbread,30,strawbearrybread,31,sandwich,32,cheesecake,33,wheat,34,corn,35,pumpkin,36,carrot,37,soybean,38,strawberry,39,bacon,40,baconwithegg,41,corndog,42,coneydog,43,ricecasserole,44,sandwichcheesewithbacon,45,cornmilk,46,blueberrymilk,47,orangejuice,48,applejuice,49,grapejuice,50,tropicaljuice,51,orange,52,apple,53,grape,54,key,55,shovel,56,pickaxe,57,saw,58,stumpslim,59,stumpnormal,60,stumpbig,61,woodchest,62,bigchest,63,goldchest,64,diamondchest,65,energy,680,live,69,blueberry,70,redberry,71,pineapple,72,seastar,73,scallops,74,openclam,75,cactusflower,76,mushrooms,77,xp,78,energy,50
+
+upspeed1.type = upspeed
+upspeed1.minTimeRemainingSeconds = 0
+upspeed1.maxTimeRemainingSeconds = 21
+upspeed1.cost = gems, 1
+
+upspeed2.type = upspeed
+upspeed2.minTimeRemainingSeconds = 21
+upspeed2.maxTimeRemainingSeconds = 61
+upspeed2.cost = gems, 1
+
+upspeed3.type = upspeed
+upspeed3.minTimeRemainingSeconds = 61
+upspeed3.maxTimeRemainingSeconds = 181
+upspeed3.cost = gems, 1
+
+upspeed4.type = upspeed
+upspeed4.minTimeRemainingSeconds = 181
+upspeed4.maxTimeRemainingSeconds = 361
+upspeed4.cost = gems, 2
+
+upspeed5.type = upspeed
+upspeed5.minTimeRemainingSeconds = 361
+upspeed5.maxTimeRemainingSeconds = 1201
+upspeed5.cost = gems, 3
+
+upspeed6.type = upspeed
+upspeed6.minTimeRemainingSeconds = 1201
+upspeed6.maxTimeRemainingSeconds = 2701
+upspeed6.cost = gems, 7
+
+upspeed7.type = upspeed
+upspeed7.minTimeRemainingSeconds = 2701
+upspeed7.maxTimeRemainingSeconds = 5401
+upspeed7.cost = gems, 15
+
+upspeed8.type = upspeed
+upspeed8.minTimeRemainingSeconds = 5401
+upspeed8.maxTimeRemainingSeconds = 14401
+upspeed8.cost = gems, 25
+
+upspeed9.type = upspeed
+upspeed9.minTimeRemainingSeconds = 14401
+upspeed9.maxTimeRemainingSeconds = 36001
+upspeed9.cost = gems, 50
+
+upspeed10.type = upspeed
+upspeed10.minTimeRemainingSeconds = 36001
+upspeed10.maxTimeRemainingSeconds = 67201
+upspeed10.cost = gems, 100
+
+upspeed11.type = upspeed
+upspeed11.minTimeRemainingSeconds = 67201
+upspeed11.maxTimeRemainingSeconds = 108001
+upspeed11.cost = gems, 200
+
+upspeed12.type = upspeed
+upspeed12.minTimeRemainingSeconds = 108001
+upspeed12.maxTimeRemainingSeconds = 158401
+upspeed12.cost = gems, 275
+
+upspeed13.type = upspeed
+upspeed13.minTimeRemainingSeconds = 158401
+upspeed13.maxTimeRemainingSeconds = 218401
+upspeed13.cost = gems, 350
+
+upspeed14.type = upspeed
+upspeed14.minTimeRemainingSeconds = 218401
+upspeed14.maxTimeRemainingSeconds = 288001
+upspeed14.cost = gems, 425
+
+upspeed15.type = upspeed
+upspeed15.minTimeRemainingSeconds = 288001
+upspeed15.maxTimeRemainingSeconds = 367201
+upspeed15.cost = gems, 500
+
+upspeed16.type = upspeed
+upspeed16.minTimeRemainingSeconds = 367201
+upspeed16.maxTimeRemainingSeconds = 9999999
+upspeed16.cost = gems, 600
+
+corn.type = sowingMaterial
+corn.idItemFarm = 1
+corn.chainProductionTimeSeconds = 0
+corn.cost = golds, 1
+corn.productionTimeSeconds = 30
+corn.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+corn.permanentBoostCost = gems, 0
+corn.unlockLevel = 1
+corn.stringReference = CIG5_corn
+corn.costDiamonds = 2
+corn.marketSaleMinTimeHours = 1
+corn.marketSaleMaxTimeHours = 6
+corn.minSellCash = 5
+corn.maxSellCash = 15
+corn.marketSaleMaxBatchSize = 5
+corn.witherTimeSeconds = 60
+corn.farmfieldTemplateType = oneCrop
+corn.cropSpriteReference = fieldCorn
+corn.levelPlayerRequire=10
+corn.name = Corn
+
+#pumpkin.type = sowingMaterial
+#pumpkin.idItemFarm = 1
+#pumpkin.chainProductionTimeSeconds = 0
+#pumpkin.cost = golds, 1
+#pumpkin.productionTimeSeconds = 30
+#pumpkin.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+#pumpkin.permanentBoostCost = gems, 0
+#pumpkin.unlockLevel = 1
+#pumpkin.stringReference = CIG5_corn
+#Pumpkin.costDiamonds = 2
+#pumpkin.marketSaleMinTimeHours = 1
+#pumpkin.marketSaleMaxTimeHours = 6
+#pumpkin.minSellCash = 5
+#pumpkin.maxSellCash = 15
+#pumpkin.marketSaleMaxBatchSize = 5
+#pumpkin.witherTimeSeconds = 60
+#pumpkin.farmfieldTemplateType = oneCrop
+#pumpkin.cropSpriteReference = fieldCorn
+
+#soybean.type = sowingMaterial
+#soybean.idItemFarm = 1
+#soybean.chainProductionTimeSeconds = 0
+#soybean.cost = golds, 1
+#soybean.productionTimeSeconds = 30
+#soybean.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+#soybean.permanentBoostCost = gems, 0
+#soybean.unlockLevel = 1
+#soybean.stringReference = CIG5_corn
+#soybean.costDiamonds = 2
+#soybean.marketSaleMinTimeHours = 1
+#soybean.marketSaleMaxTimeHours = 6
+#soybean.minSellCash = 5
+#soybean.maxSellCash = 15
+#soybean.marketSaleMaxBatchSize = 5
+#soybean.witherTimeSeconds = 60
+#soybean.farmfieldTemplateType = oneCrop
+#soybean.cropSpriteReference = fieldCorn
+
+#strawberry.type = sowingMaterial
+#strawberry.idItemFarm = 1
+#strawberry.chainProductionTimeSeconds = 0
+#strawberry.cost = golds, 1
+#strawberry.productionTimeSeconds = 30
+#strawberry.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+#strawberry.permanentBoostCost = gems, 0
+#strawberry.unlockLevel = 1
+#strawberry.stringReference = CIG5_corn
+#strawberry.costDiamonds = 2
+#strawberry.marketSaleMinTimeHours = 1
+#strawberry.marketSaleMaxTimeHours = 6
+#strawberry.minSellCash = 5
+#strawberry.maxSellCash = 15
+#strawberry.marketSaleMaxBatchSize = 5
+#strawberry.witherTimeSeconds = 60
+#strawberry.farmfieldTemplateType = oneCrop
+#strawberry.cropSpriteReference = fieldCorn
+
+orange.type = itemFruit
+orange.typeWareHouse= itemFruit
+orange.idItemFarm = 1
+orange.chainProductionTimeSeconds = 0
+orange.cost = golds, 1
+orange.productionTimeSeconds = 30
+orange.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+orange.permanentBoostCost = gems, 0
+orange.unlockLevel = 1
+orange.stringReference = CIG5_corn
+orange.costDiamonds = 2
+orange.marketSaleMinTimeHours = 1
+orange.marketSaleMaxTimeHours = 6
+orange.minSellCash = 5
+orange.maxSellCash = 15
+orange.marketSaleMaxBatchSize = 5
+orange.witherTimeSeconds = 60
+orange.farmfieldTemplateType = oneCrop
+orange.cropSpriteReference = fieldCorn
+orange.name = Orange
+
+apple.type = itemFruit
+apple.typeWareHouse= itemFruit
+apple.idItemFarm = 1
+apple.chainProductionTimeSeconds = 0
+apple.cost = golds, 1
+apple.productionTimeSeconds = 30
+apple.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+apple.permanentBoostCost = gems, 0
+apple.unlockLevel = 1
+apple.stringReference = CIG5_corn
+apple.costDiamonds = 2
+apple.marketSaleMinTimeHours = 1
+apple.marketSaleMaxTimeHours = 6
+apple.minSellCash = 5
+apple.maxSellCash = 15
+apple.marketSaleMaxBatchSize = 5
+apple.witherTimeSeconds = 60
+apple.farmfieldTemplateType = oneCrop
+apple.cropSpriteReference = fieldCorn
+apple.name = Apple
+
+grape.type = itemFruit
+grape.typeWareHouse= itemFruit
+grape.idItemFarm = 1
+grape.chainProductionTimeSeconds = 0
+grape.cost = golds, 1
+grape.productionTimeSeconds = 30
+grape.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+grape.permanentBoostCost = gems, 0
+grape.unlockLevel = 1
+grape.stringReference = CIG5_corn
+grape.costDiamonds = 2
+grape.marketSaleMinTimeHours = 1
+grape.marketSaleMaxTimeHours = 6
+grape.minSellCash = 5
+grape.maxSellCash = 15
+grape.marketSaleMaxBatchSize = 5
+grape.witherTimeSeconds = 60
+grape.farmfieldTemplateType = oneCrop
+grape.cropSpriteReference = fieldCorn
+grape.name = Grape
+
+wheat.type = sowingMaterial
+wheat.typeWareHouse= ItemSeeds
+wheat.idItemFarm = 2
+wheat.chainProductionTimeSeconds = 0
+wheat.cost = golds, 1
+wheat.productionTimeSeconds = 30
+wheat.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+wheat.permanentBoostCost = gems, 0
+wheat.unlockLevel = 1
+wheat.stringReference = CIG5_wheat
+wheat.costDiamonds = 4
+wheat.marketSaleMinTimeHours = 1
+wheat.marketSaleMaxTimeHours = 6
+wheat.minSellCash = 5
+wheat.maxSellCash = 15
+wheat.marketSaleMaxBatchSize = 5
+wheat.witherTimeSeconds = 60
+wheat.farmfieldTemplateType = oneCrop
+wheat.cropSpriteReference = fieldWheat
+wheat.levelPlayerRequire=1
+wheat.name = Wheat
+
+carrot.type = sowingMaterial
+carrot.typeWareHouse= ItemSeeds
+carrot.idItemFarm = 3
+carrot.chainProductionTimeSeconds = 0
+carrot.cost = golds, 1
+carrot.productionTimeSeconds = 30
+carrot.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+carrot.permanentBoostCost = gems, 0
+carrot.unlockLevel = 8
+carrot.stringReference = CIG5_carrots
+carrot.costDiamonds = 5
+carrot.marketSaleMinTimeHours = 1
+carrot.marketSaleMaxTimeHours = 6
+carrot.minSellCash = 5
+carrot.maxSellCash = 15
+carrot.marketSaleMaxBatchSize = 5
+carrot.witherTimeSeconds = 60
+carrot.farmfieldTemplateType = oneCrop
+carrot.cropSpriteReference = fieldCarrot
+carrot.levelPlayerRequire = 50
+carrot.name = Carrot
+
+Pumpkin.type = sowingMaterial
+Pumpkin.typeWareHouse= ItemSeeds
+Pumpkin.idItemFarm = 4
+Pumpkin.chainProductionTimeSeconds = 0
+Pumpkin.cost = coins, 1
+Pumpkin.productionTimeSeconds = 900
+Pumpkin.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+Pumpkin.permanentBoostCost = gems, 0
+Pumpkin.unlockLevel = 30
+Pumpkin.stringReference = CIG5_Pumpkin
+Pumpkin.costDiamonds = 5
+Pumpkin.marketSaleMinTimeHours = 1
+Pumpkin.marketSaleMaxTimeHours = 6
+Pumpkin.minSellCash = 5
+Pumpkin.maxSellCash = 15
+Pumpkin.marketSaleMaxBatchSize = 5
+Pumpkin.witherTimeSeconds = 60
+Pumpkin.farmfieldTemplateType = oneCrop
+Pumpkin.cropSpriteReference = fieldPumpkin
+Pumpkin.levelPlayerRequire = 30
+Pumpkin.name = Pumpkin
+
+strawberry.type = sowingMaterial
+strawberry.typeWareHouse= ItemSeeds
+strawberry.idItemFarm = 5
+strawberry.chainProductionTimeSeconds = 0
+strawberry.cost = coins, 1
+strawberry.productionTimeSeconds = 7200
+strawberry.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+strawberry.permanentBoostCost = gems, 0
+strawberry.unlockLevel = 8
+strawberry.stringReference = CIG5_strawberry
+strawberry.costDiamonds = 5
+strawberry.marketSaleMinTimeHours = 1
+strawberry.marketSaleMaxTimeHours = 6
+strawberry.minSellCash = 5
+strawberry.maxSellCash = 15
+strawberry.marketSaleMaxBatchSize = 5
+strawberry.witherTimeSeconds = 60
+strawberry.farmfieldTemplateType = oneCrop
+strawberry.cropSpriteReference = fieldstrawberry
+strawberry.levelPlayerRequire = 80
+strawberry.name = Strawberry
+
+Soybeans.type = sowingMaterial
+Soybeans.typeWareHouse= ItemSeeds
+Soybeans.idItemFarm = 6
+Soybeans.chainProductionTimeSeconds = 0
+Soybeans.cost = coins, 1
+Soybeans.productionTimeSeconds = 7200
+Soybeans.buildingNames = [field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,field_12,field_13,field_14,field_15,field_16,field_17,field_18,field_19,field_20,field_21,field_22,field_23,field_24,field_25,field_26,field_27,field_28,field_29,field_30]
+Soybeans.permanentBoostCost = gems, 0
+Soybeans.unlockLevel = 8
+Soybeans.stringReference = CIG5_Soybeans
+Soybeans.costDiamonds = 5
+Soybeans.marketSaleMinTimeHours = 1
+Soybeans.marketSaleMaxTimeHours = 6
+Soybeans.minSellCash = 5
+Soybeans.maxSellCash = 15
+Soybeans.marketSaleMaxBatchSize = 5
+Soybeans.witherTimeSeconds = 60
+Soybeans.farmfieldTemplateType = oneCrop
+Soybeans.cropSpriteReference = fieldSoybeans
+Soybeans.levelPlayerRequire = 64
+Soybeans.name = Soybeans
+
+##### Rewards #####
+
+Reward1.type = Reward
+Reward1.rewards = string_,10,rope,20,cloth,30
+
+Reward2.type = Reward
+Reward2.rewards = string_,20,rope,40,cloth,60
+
+##### End Reward #####
+
+##### products #####
+
+grass.type = product
+grass.typeWareHouse= ItemMap
+grass.name = Grass
+#grass.productionTimeSeconds = 10
+#grass.cost = golds,3
+#grass.costBuy = gems,1
+#grass.materials = grass,4
+#grass.rewards = xp,2
+#grass.levelPlayerRequire = 2
+
+pineapple.type = product
+pineapple.name = Pine Apple
+#pineapple.productionTimeSeconds = 10
+#pineapple.cost = golds,3
+#pineapple.costBuy = gems,1
+#pineapple.materials = grass,4
+#pineapple.rewards = xp,2
+#pineapple.levelPlayerRequire = 2
+
+energy.type = product
+energy.typeWareHouse = currency
+energy.name = Energy
+#energy.productionTimeSeconds = 10
+#energy.cost = golds,3
+#energy.costBuy = gems,1
+#energy.materials = grass,4
+#energy.rewards = xp,2
+#energy.levelPlayerRequire = 2
+
+golds.type = product
+golds.typeWareHouse = currency
+golds.name = Golds
+#gold.productionTimeSeconds = 10
+#gold.cost = golds,3
+#gold.costBuy = gems,1
+#gold.materials = grass,4
+#gold.rewards = xp,2
+#gold.levelPlayerRequire = 2
+
+wood.type = product
+wood.typeWareHouse= ItemMap
+wood.name = Wood
+#wood.productionTimeSeconds = 10
+#wood.cost = golds,3
+#wood.costBuy = gems,1
+#wood.materials = grass,4
+#wood.rewards = xp,2
+#wood.levelPlayerRequire = 2
+
+woodchest.type = product
+woodchest.name = Wood Chest
+#woodchest.productionTimeSeconds = 10
+#woodchest.cost = golds,3
+#woodchest.costBuy = gems,1
+#woodchest.materials = grass,4
+#woodchest.rewards = xp,2
+#woodchest.levelPlayerRequire = 2
+
+bigchest.type = product
+bigchest.name = Big chest
+#bigchest.productionTimeSeconds = 10
+#bigchest.cost = golds,3
+#bigchest.costBuy = gems,1
+#bigchest.materials = grass,4
+#bigchest.rewards = xp,2
+#bigchest.levelPlayerRequire = 2
+
+gold_chest.type = product
+gold_chest.name = Gold Chest
+#gold_chest.productionTimeSeconds = 10
+#gold_chest.cost = golds,3
+#gold_chest.costBuy = gems,1
+#gold_chest.materials = grass,4
+#gold_chest.rewards = xp,2
+#gold_chest.levelPlayerRequire = 2
+
+diamondchest.type = product
+diamondchest.name = Diamond Chest 
+#diamondchest.productionTimeSeconds = 10
+#diamondchest.cost = golds,3
+#diamondchest.costBuy = gems,1
+#diamondchest.materials = grass,4
+#diamondchest.rewards = xp,2
+#diamondchest.levelPlayerRequire = 2
+
+stone.type = product
+stone.typeWareHouse= ItemMap
+stone.name = Stone
+#stone.productionTimeSeconds = 10
+#stone.cost = golds,3
+#stone.costBuy = gems,1
+#stone.materials = grass,4
+#stone.rewards = xp,2
+#stone.levelPlayerRequire = 2
+
+SmailDynamite.type = product
+SmailDynamite.name = Smail Dynamite
+#SmailDynamite.cost = gold,3
+#SmailDynamite.costBuy = gems,1
+
+Dynamite.type = product
+Dynamite.name = Dynamite
+#Dynamite.cost = golds,3
+#Dynamite.costBuy = gems,1
+
+
+LargeDynamite.type = product
+LargeDynamite.name = Large Dynamite
+#LargeDynamite.cost = golds,3
+#LargeDynamite.costBuy = gems,1
+
+
+string_.type = product
+string_.typeWareHouse= ItemWeaver
+string_.productionTimeSeconds = 10
+string_.cost = golds,3
+string_.costBuy = gems,1
+string_.materials = grass,4
+string_.rewards = xp,2
+string_.levelPlayerRequire = 2
+string_.name = String
+
+rope.type = product
+rope.typeWareHouse= ItemWeaver
+rope.productionTimeSeconds = 10
+rope.cost = golds,5
+rope.costBuy = gems,2
+rope.materials = grass,5,string_,3
+rope.rewards = xp,4
+rope.levelPlayerRequire = 10
+rope.name = Rope
+
+cloth.type = product
+cloth.typeWareHouse= ItemWeaver
+cloth.productionTimeSeconds = 10
+cloth.cost = golds,10
+cloth.costBuy = gems,3
+cloth.materials = grass,5,rope,3,string_,1
+cloth.rewards = xp,8
+cloth.levelPlayerRequire = 38
+cloth.name = Cloth
+
+woodenplan.type = product
+woodenplan.productionTimeSeconds = 10
+woodenplan.typeWareHouse= ItemWorkshop
+woodenplan.cost = golds,3
+woodenplan.costBuy = gems,1
+woodenplan.materials = wood,3
+woodenplan.rewards = xp,1
+woodenplan.levelPlayerRequire = 4
+woodenplan.name = Wooden plank
+
+pallet.type = product
+pallet.typeWareHouse= ItemWorkshop
+pallet.productionTimeSeconds = 10
+pallet.cost = golds,5
+pallet.costBuy = gems,2
+pallet.materials = wood,4,woodenplan,3
+pallet.rewards = xp,3
+pallet.levelPlayerRequire = 12
+pallet.name = Pallet
+
+woodveneer.type = product
+woodveneer.typeWareHouse= ItemWorkshop
+woodveneer.productionTimeSeconds = 10
+woodveneer.cost = golds,10
+woodveneer.costBuy = gems,3
+woodveneer.materials = wood,5,woodenplan,1,pallet,3
+woodveneer.rewards = xp,3
+woodveneer.levelPlayerRequire = 33
+woodveneer.name = Wood Veneer
+
+quartzsand.type = product
+quartzsand.typeWareHouse= ItemQuary
+quartzsand.productionTimeSeconds = 10
+quartzsand.cost = golds,3
+quartzsand.costBuy = gems,1
+quartzsand.materials = stone,3
+quartzsand.rewards = xp,1
+quartzsand.levelPlayerRequire = 7
+quartzsand.name = Quartz Sand
+
+cement.type = product
+cement.productionTimeSeconds = 10
+cement.cost = golds,5
+cement.costBuy = gems,2
+cement.materials = stone,4,quartzsand,3
+cement.rewards = xp,3
+cement.levelPlayerRequire = 13
+cement.name = Cement
+
+bricks.type = product
+bricks.typeWareHouse= ItemQuary
+bricks.productionTimeSeconds = 10
+bricks.cost = golds,10
+bricks.costBuy = gems,3
+bricks.materials = stone,5,cement,3
+bricks.rewards = xp,5
+bricks.levelPlayerRequire = 24
+bricks.name = Bricks
+
+cowfeed.type = product
+cowfeed.typeWareHouse= ItemFeedFactory
+cowfeed.productionTimeSeconds = 10
+cowfeed.cost = golds,3
+cowfeed.materials = wheat,2,corn,1
+cowfeed.rewards = xp,1
+cowfeed.levelPlayerRequire = 3
+cowfeed.name = Cow Feed
+
+chickenfeed.type = product
+chickenfeed.typeWareHouse= ItemFeedFactory
+chickenfeed.productionTimeSeconds = 10
+chickenfeed.cost = golds,5
+chickenfeed.materials = wheat,2,corn,2
+chickenfeed.rewards = xp,3
+chickenfeed.levelPlayerRequire = 5
+chickenfeed.name = Chicken Feed
+
+pigfeed.type = product
+pigfeed.typeWareHouse= ItemFeedFactory
+pigfeed.productionTimeSeconds = 10
+pigfeed.cost = golds,10
+pigfeed.materials = wheat,2,corn,2,carrot,2
+pigfeed.rewards = xp,5
+pigfeed.levelPlayerRequire = 20
+pigfeed.name = Pig Feed
+
+milk.type = product
+milk.typeWareHouse= ItemCowShed
+milk.productionTimeSeconds = 10
+milk.cost = golds,7
+milk.costBuy = gems,2
+milk.materials = cowfeed,1
+milk.rewards = xp,4
+milk.levelPlayerRequire = 3
+milk.name = Milk
+
+cream.type = product
+cream.typeWareHouse= ItemDairyFactory
+cream.productionTimeSeconds = 10
+cream.cost = golds,10
+cream.costBuy = gems,2
+cream.materials = milk,1
+cream.rewards = xp,5
+cream.levelPlayerRequire = 4
+cream.name = Cream
+
+cheese.type = product
+cheese.typeWareHouse= ItemDairyFactory
+cheese.productionTimeSeconds = 10
+cheese.cost = golds,20
+cheese.costBuy = gems,3
+cheese.materials = milk,2
+cheese.rewards = xp,5
+cheese.levelPlayerRequire = 8
+cheese.name = Cheese
+
+butter.type = product
+butter.typeWareHouse= ItemDairyFactory
+butter.productionTimeSeconds = 10
+butter.cost = golds,25
+butter.costBuy = gems,4
+butter.materials = milk,3
+butter.rewards = xp,5
+butter.levelPlayerRequire = 14
+butter.name = Butter
+
+tofu.type = product
+tofu.typeWareHouse= ItemDairyFactory
+tofu.productionTimeSeconds = 10
+tofu.cost = golds,50
+tofu.costBuy = gems,5
+tofu.materials = soybean,4
+tofu.rewards = xp,72
+tofu.levelPlayerRequire = 50
+tofu.name = Tofu
+
+soymilk.type = product
+soymilk.typeWareHouse= ItemDairyFactory
+soymilk.productionTimeSeconds = 10
+soymilk.cost = golds,100
+soymilk.costBuy = gems,6
+soymilk.materials = soybean,4,milk,2
+soymilk.rewards = xp,80
+soymilk.levelPlayerRequire = 61
+soymilk.name = Soy Milk
+
+egg.type = product
+egg.typeWareHouse= ItemChickenCoop
+egg.productionTimeSeconds = 10
+egg.cost = golds,10
+egg.costBuy = gems,3
+egg.materials = chickenfeed,1
+egg.rewards = xp,5
+egg.levelPlayerRequire = 5
+egg.name = Egg
+
+bacon.type = product
+bacon.typeWareHouse= ItemPigFeed
+bacon.productionTimeSeconds = 10
+bacon.cost = golds,10
+bacon.costBuy = gems,4
+bacon.materials = pigfeed,1
+bacon.rewards = xp,5
+bacon.levelPlayerRequire = 16
+bacon.name = Bacon
+
+baconwithegg.type = product
+baconwithegg.typeWareHouse= ItemGrillFactory
+baconwithegg.productionTimeSeconds = 10
+baconwithegg.cost = golds,15
+baconwithegg.costBuy = gems,5
+baconwithegg.materials = bacon,2,egg,2
+baconwithegg.rewards = xp,15
+baconwithegg.levelPlayerRequire = 17
+baconwithegg.name = Bacon With Egg
+
+corndog.type = product
+corndog.typeWareHouse= ItemGrillFactory
+corndog.productionTimeSeconds = 10
+corndog.cost = golds,30
+corndog.costBuy = gems,6
+corndog.materials = corn,4,bacon,2,wheat,2
+corndog.rewards = xp,25
+corndog.levelPlayerRequire = 28
+corndog.name = Corn Dog
+
+coneydog.type = product
+coneydog.typeWareHouse= ItemGrillFactory
+coneydog.productionTimeSeconds = 10
+coneydog.cost = golds,160
+coneydog.costBuy = gems,7
+coneydog.materials = bread,1,bacon,2,cheese,2
+coneydog.rewards = xp,50
+coneydog.levelPlayerRequire = 32
+coneydog.name = Coney Dog
+
+ricecasserole.type = product
+ricecasserole.typeWareHouse= ItemGrillFactory
+ricecasserole.productionTimeSeconds = 10
+ricecasserole.cost = golds,70
+ricecasserole.costBuy = gems,8
+ricecasserole.materials = bread,2,bacon,2,egg,2,corn,2
+ricecasserole.rewards = xp,65
+ricecasserole.levelPlayerRequire = 45
+ricecasserole.name = Rice Casserole
+
+sandwichcheesewithbacon.type = product
+sandwichcheesewithbacon.typeWareHouse= ItemGrillFactory
+sandwichcheesewithbacon.productionTimeSeconds = 10
+sandwichcheesewithbacon.cost = golds,110
+sandwichcheesewithbacon.costBuy = gems,9
+sandwichcheesewithbacon.materials = bread,2,bacon,2,egg,2,cheese,2
+sandwichcheesewithbacon.rewards = xp,80
+sandwichcheesewithbacon.levelPlayerRequire = 63
+sandwichcheesewithbacon.name = Sandwich Cheese With Bacon
+
+cornmilk.type = product
+cornmilk.typeWareHouse= ItemBeverageFactory
+cornmilk.productionTimeSeconds = 10
+cornmilk.cost = golds,7
+cornmilk.costBuy = gems,2
+cornmilk.materials = corn,2,milk,1
+cornmilk.rewards = xp,19
+cornmilk.levelPlayerRequire = 10
+cornmilk.name = Corn Milk
+
+blueberrymilk.type = product
+blueberrymilk.typeWareHouse= ItemBeverageFactory
+blueberrymilk.productionTimeSeconds = 10
+blueberrymilk.cost = golds,10
+blueberrymilk.costBuy = gems,3
+blueberrymilk.materials = blueberry,2,milk,1
+blueberrymilk.rewards = xp,23
+blueberrymilk.levelPlayerRequire = 15
+blueberrymilk.name = Blue Berry Milk
+
+orangejuice.type = product
+orangejuice.typeWareHouse= ItemBeverageFactory
+orangejuice.productionTimeSeconds = 10
+orangejuice.cost = golds,12
+orangejuice.costBuy = gems,4
+orangejuice.materials = orange,3
+orangejuice.rewards = xp,52
+orangejuice.levelPlayerRequire = 21
+orangejuice.name = Orange Juice
+
+applejuice.type = product
+applejuice.typeWareHouse= ItemBeverageFactory
+applejuice.productionTimeSeconds = 10
+applejuice.cost = golds,15
+applejuice.costBuy = gems,5
+applejuice.materials = orange,3
+applejuice.rewards = xp,58
+applejuice.levelPlayerRequire = 34
+applejuice.name = Apple Juice
+
+grapejuice.type = product
+grapejuice.typeWareHouse= ItemBeverageFactory
+grapejuice.productionTimeSeconds = 10
+grapejuice.cost = golds,34
+grapejuice.costBuy = gems,6
+grapejuice.materials = orange,3
+grapejuice.rewards = xp,69
+grapejuice.levelPlayerRequire = 52
+grapejuice.name = Grape Juice
+
+tropicaljuice.type = product
+tropicaljuice.typeWareHouse= ItemBeverageFactory
+tropicaljuice.productionTimeSeconds = 10
+tropicaljuice.cost = golds,62
+tropicaljuice.costBuy = gems,7
+tropicaljuice.materials = orange,1,pineapple,1,strawberry,1
+tropicaljuice.rewards = xp,112
+tropicaljuice.levelPlayerRequire = 62
+tropicaljuice.name = Tropical Juice
+
+bread.type = product
+bread.typeWareHouse= ItemKitchen
+bread.productionTimeSeconds = 10
+bread.TimeToConsumeInDinnerTable = 15
+bread.EnergyForDinnerTable = 5
+bread.costBuy = gems,2
+bread.materials = wheat,2
+bread.rewards = xp,4
+bread.levelPlayerRequire = 8
+bread.name = Bread
+
+cookies.type = product
+cookies.typeWareHouse= ItemKitchen
+cookies.productionTimeSeconds = 10
+cookies.TimeToConsumeInDinnerTable = 15
+cookies.EnergyForDinnerTable = 9
+cookies.costBuy = gems,3
+cookies.materials = wheat,2,egg,2
+cookies.rewards = xp,8
+cookies.levelPlayerRequire = 11
+cookies.name = Cookies
+
+popcorn.type = product
+popcorn.typeWareHouse= ItemKitchen
+popcorn.productionTimeSeconds = 10
+popcorn.TimeToConsumeInDinnerTable = 15
+popcorn.EnergyForDinnerTable = 12
+popcorn.costBuy = gems,4
+popcorn.materials = corn,4
+popcorn.rewards = xp,16
+popcorn.levelPlayerRequire = 14
+popcorn.name = Pop Corn
+
+cheeseburger.type = product
+cheeseburger.typeWareHouse= ItemKitchen
+cheeseburger.productionTimeSeconds = 10
+cheeseburger.TimeToConsumeInDinnerTable = 15
+cheeseburger.EnergyForDinnerTable = 15
+cheeseburger.costBuy = gems,5
+cheeseburger.materials = bread,2,cheese,2,butter,1,bacon,1
+#cheeseburger.rewards = xp,16
+cheeseburger.levelPlayerRequire = 18
+cheeseburger.name = Cheese Burger
+
+cornbread.type = product
+cornbread.typeWareHouse= ItemKitchen
+cornbread.productionTimeSeconds = 10
+cornbread.TimeToConsumeInDinnerTable = 15
+cornbread.EnergyForDinnerTable = 20
+cornbread.costBuy = gems,6
+cornbread.materials = wheat,2,corn,3,egg,1
+cornbread.rewards = xp,32
+cornbread.levelPlayerRequire = 22
+cornbread.name = Corn Bread
+
+pumpkinbread.type = product
+pumpkinbread.typeWareHouse= ItemKitchen
+pumpkinbread.productionTimeSeconds = 10
+pumpkinbread.TimeToConsumeInDinnerTable = 15
+pumpkinbread.EnergyForDinnerTable = 30
+pumpkinbread.costBuy = gems,7
+pumpkinbread.materials = wheat,2,pumpkin,3
+pumpkinbread.rewards = xp,64
+pumpkinbread.levelPlayerRequire = 30
+pumpkinbread.name = Pumpkin Bread
+
+carrotbread.type = product
+carrotbread.typeWareHouse= ItemKitchen
+carrotbread.productionTimeSeconds = 10
+carrotbread.TimeToConsumeInDinnerTable = 15
+carrotbread.EnergyForDinnerTable = 40
+carrotbread.costBuy = gems,8
+carrotbread.materials = wheat,2,cream,1,carrot,4
+carrotbread.rewards = xp,88
+carrotbread.levelPlayerRequire = 40
+carrotbread.name = Carrot Bread
+
+strawbearrybread.type = product
+strawbearrybread.typeWareHouse= ItemKitchen
+strawbearrybread.productionTimeSeconds = 10
+strawbearrybread.TimeToConsumeInDinnerTable = 15
+strawbearrybread.EnergyForDinnerTable = 50
+strawbearrybread.costBuy = gems,9
+strawbearrybread.materials = wheat,3,cream,2,egg,2,strawbearry,4
+strawbearrybread.rewards = xp,128
+strawbearrybread.levelPlayerRequire = 60
+strawbearrybread.name = Strawbearry Bread
+
+sandwich.type = product
+sandwich.typeWareHouse= ItemKitchen
+sandwich.productionTimeSeconds = 10
+sandwich.TimeToConsumeInDinnerTable = 15
+sandwich.EnergyForDinnerTable = 80
+sandwich.costBuy = gems,10
+sandwich.materials = bread,1,butter,1,strawbearry,2
+sandwich.rewards = xp,156
+sandwich.levelPlayerRequire = 65
+sandwich.name = Sandwich
+
+cheesecake.type = product
+sandwich.typeWareHouse= ItemKitchen
+cheesecake.productionTimeSeconds = 10
+cheesecake.TimeToConsumeInDinnerTable = 15
+cheesecake.EnergyForDinnerTable = 100
+cheesecake.costBuy = gems,11
+cheesecake.materials = bread,2,butter,1,milk,1,strawbearry,2
+cheesecake.rewards = xp,202
+cheesecake.levelPlayerRequire = 80
+cheesecake.name = Cheese Cake
+
+##### End products #####
+
+wood3000.type = shopitems
+wood3000.name = Wood 30
+wood3000.typeShop = tab4
+wood3000.cost = gems,39
+wood3000.costBuy = gems,39
+wood3000.rewards = wood,30
+
+grasses30.type = shopitems
+grasses30.name = Grasses 30
+grasses30.typeShop = tab4
+grasses30.cost = gems,49
+grasses30.costBuy = gems,49
+grasses30.rewards = grass,30
+
+stones30.type = shopitems
+stones30.name = Stone 30
+stones30.typeShop = tab4
+stones30.cost = gems,10
+stones30.costBuy = gems,10
+stones30.rewards = stone,30
+
+coins100.type = shopitems
+coins100.name = Golds 100
+coins100.typeShop = tab4
+coins100.cost = gems,10
+coins100.costBuy = gems,10
+coins100.rewards = golds,100
+
+SmailDynamite1.type = shopitems
+SmailDynamite1.name = Smail Dynamite 30
+SmailDynamite1.typeShop = tab5
+SmailDynamite1.cost = gems,10
+SmailDynamite1.costBuy = gems,10
+SmailDynamite1.rewards = SmailDynamite,30
+
+Dynamite1.type = shopitems
+Dynamite1.name = Dynamite 10
+Dynamite1.typeShop = tab5
+Dynamite1.cost = gems,10
+Dynamite1.costBuy = gems,10
+Dynamite1.rewards = Dynamite,10
+
+LargeDynamite1.type = shopitems
+LargeDynamite1.name = Large Dynamite 10
+LargeDynamite1.typeShop = tab5
+LargeDynamite1.cost = gems,10
+LargeDynamite1.costBuy = gems,10
+LargeDynamite1.rewards = LargeDynamite,10
+
+Energy30.type = shopitems
+Energy30.name = Energy 30
+Energy30.typeShop = tab5
+Energy30.cost = gems,999999
+Energy30.costBuy = gems,10
+Energy30.rewards = energy,30
+
+gatherable_1.type = gatherable
+gatherable_1.stringReference = GatherableGrass1
+gatherable_1.spriteReference = gatherable01_f001
+gatherable_1.constructionMinutes = 0
+gatherable_1.sizeU = 1
+gatherable_1.sizeV = 1
+gatherable_1.moveable = FALSE
+gatherable_1.gatherableCategory = 1
+gatherable_1.destroyCost = 4
+gatherable_1.destroyRewards = TradeType_1&IdInType_1&Amount_2
+
+gatherable_2.type = gatherable
+gatherable_2.stringReference = GatherableGrass2
+gatherable_2.spriteReference = gatherable01_f002
+gatherable_2.constructionMinutes = 0
+gatherable_2.sizeU = 1
+gatherable_2.sizeV = 1
+gatherable_2.moveable = FALSE
+gatherable_2.gatherableCategory = 1
+gatherable_2.destroyCost = 6
+gatherable_2.destroyRewards = TradeType_1&IdInType_1&Amount_3
+
+
+gatherable_3.type = gatherable
+gatherable_3.stringReference = GatherableGrass3
+gatherable_3.spriteReference = gatherable01_f003
+gatherable_3.constructionMinutes = 0
+gatherable_3.sizeU = 1
+gatherable_3.sizeV = 1
+gatherable_3.moveable = FALSE
+gatherable_3.gatherableCategory = 1
+gatherable_3.destroyCost = 8
+gatherable_3.destroyRewards = TradeType_1&IdInType_1&Amount_4
+
+gatherable_4.type = gatherable
+gatherable_4.stringReference = GatherableGrass4
+gatherable_4.spriteReference = gatherable01_f004
+gatherable_4.constructionMinutes = 0
+gatherable_4.sizeU = 1
+gatherable_4.sizeV = 1
+gatherable_4.moveable = FALSE
+gatherable_4.gatherableCategory = 1
+gatherable_4.destroyCost = 10
+gatherable_4.destroyRewards = TradeType_1&IdInType_1&Amount_5
+
+gatherable_5.type = gatherable
+gatherable_5.stringReference = GatherableWood1
+gatherable_5.spriteReference = gatherable02_f001
+gatherable_5.constructionMinutes = 0
+gatherable_5.sizeU = 1
+gatherable_5.sizeV = 1
+gatherable_5.moveable = FALSE
+gatherable_5.gatherableCategory = 2
+gatherable_5.destroyCost = 8
+gatherable_5.destroyRewards = TradeType_1&IdInType_2&Amount_4
+
+gatherable_6.type = gatherable
+gatherable_6.stringReference = GatherableWood2
+gatherable_6.spriteReference = gatherable02_f002
+gatherable_6.constructionMinutes = 0
+gatherable_6.sizeU = 1
+gatherable_6.sizeV = 1
+gatherable_6.moveable = FALSE
+gatherable_6.gatherableCategory = 2
+gatherable_6.destroyCost = 10
+gatherable_6.destroyRewards = TradeType_1&IdInType_2&Amount_5
+
+gatherable_7.type = gatherable
+gatherable_7.stringReference = GatherableWood3
+gatherable_7.spriteReference = gatherable02_f003
+gatherable_7.constructionMinutes = 0
+gatherable_7.sizeU = 1
+gatherable_7.sizeV = 1
+gatherable_7.moveable = FALSE
+gatherable_7.gatherableCategory = 2
+gatherable_7.destroyCost = 12
+gatherable_7.destroyRewards = TradeType_1&IdInType_2&Amount_5
+
+gatherable_8.type = gatherable
+gatherable_8.stringReference = GatherableWood4
+gatherable_8.spriteReference = gatherable02_f004
+gatherable_8.constructionMinutes = 0
+gatherable_8.sizeU = 1
+gatherable_8.sizeV = 1
+gatherable_8.moveable = FALSE
+gatherable_8.gatherableCategory = 2
+gatherable_8.destroyCost = 13
+gatherable_8.destroyRewards = TradeType_1&IdInType_2&Amount_6
+
+gatherable_9.type = gatherable
+gatherable_9.stringReference = GatherableWood5
+gatherable_9.spriteReference = gatherable02_f005
+gatherable_9.constructionMinutes = 0
+gatherable_9.sizeU = 1
+gatherable_9.sizeV = 1
+gatherable_9.moveable = FALSE
+gatherable_9.gatherableCategory = 2
+gatherable_9.destroyCost = 15
+gatherable_9.destroyRewards = TradeType_1&IdInType_2&Amount_7
+
+gatherable_10.type = gatherable
+gatherable_10.stringReference = GatherableWood6
+gatherable_10.spriteReference = gatherable02_f006
+gatherable_10.constructionMinutes = 0
+gatherable_10.sizeU = 1
+gatherable_10.sizeV = 1
+gatherable_10.moveable = FALSE
+gatherable_10.gatherableCategory = 2
+gatherable_10.destroyCost = 22
+gatherable_10.destroyRewards = TradeType_1&IdInType_2&Amount_9
+
+gatherable_11.type = gatherable
+gatherable_11.stringReference = GatherableGrass7
+gatherable_11.spriteReference = gatherable02_f007
+gatherable_11.constructionMinutes = 0
+gatherable_11.sizeU = 1
+gatherable_11.sizeV = 1
+gatherable_11.moveable = FALSE
+gatherable_11.gatherableCategory = 2
+gatherable_11.destroyCost = 24
+gatherable_11.destroyRewards = TradeType_1&IdInType_2&Amount_10
+
+gatherable_12.type = gatherable
+gatherable_12.stringReference = GatherableGrass8
+gatherable_12.spriteReference = gatherable02_f008
+gatherable_12.constructionMinutes = 0
+gatherable_12.sizeU = 1
+gatherable_12.sizeV = 1
+gatherable_12.moveable = FALSE
+gatherable_12.gatherableCategory = 2
+gatherable_12.destroyCost = 30
+gatherable_12.destroyRewards = TradeType_1&IdInType_2&Amount_11
+
+gatherable_13.type = gatherable
+gatherable_13.stringReference = GatherableRock1
+gatherable_13.spriteReference = gatherable03_f001
+gatherable_13.constructionMinutes = 0
+gatherable_13.sizeU = 1
+gatherable_13.sizeV = 1
+gatherable_13.moveable = FALSE
+gatherable_13.gatherableCategory = 3
+gatherable_13.destroyCost = 7
+gatherable_13.destroyRewards = TradeType_1&IdInType_3&Amount_4
+
+gatherable_14.type = gatherable
+gatherable_14.stringReference = GatherableRock2
+gatherable_14.spriteReference = gatherable03_f002
+gatherable_14.constructionMinutes = 0
+gatherable_14.sizeU = 1
+gatherable_14.sizeV = 1
+gatherable_14.moveable = FALSE
+gatherable_14.gatherableCategory = 3
+gatherable_14.destroyCost = 13
+gatherable_14.destroyRewards = TradeType_1&IdInType_3&Amount_6
+
+gatherable_15.type = gatherable
+gatherable_15.stringReference = GatherableRock3
+gatherable_15.spriteReference = gatherable03_f003
+gatherable_15.constructionMinutes = 0
+gatherable_15.sizeU = 1
+gatherable_15.sizeV = 1
+gatherable_15.moveable = FALSE
+gatherable_15.gatherableCategory = 3
+gatherable_15.destroyCost = 15
+gatherable_15.destroyRewards = TradeType_1&IdInType_3&Amount_9
+
+gatherable_16.type = gatherable
+gatherable_16.stringReference = GatherableRock4
+gatherable_16.spriteReference = gatherable03_f004
+gatherable_16.constructionMinutes = 0
+gatherable_16.sizeU = 1
+gatherable_16.sizeV = 1
+gatherable_16.moveable = FALSE
+gatherable_16.gatherableCategory = 3
+gatherable_16.destroyCost = 18
+gatherable_16.destroyRewards = TradeType_1&IdInType_3&Amount_11
+
+gatherable_17.type = gatherable
+gatherable_17.stringReference = GatherableRock5
+gatherable_17.spriteReference = gatherable03_f005
+gatherable_17.constructionMinutes = 0
+gatherable_17.sizeU = 2
+gatherable_17.sizeV = 1
+gatherable_17.moveable = FALSE
+gatherable_17.gatherableCategory = 3
+gatherable_17.destroyCost = 27
+gatherable_17.destroyRewards = TradeType_1&IdInType_3&Amount_13
+
+gatherable_18.type = gatherable
+gatherable_18.stringReference = GatherableRock6
+gatherable_18.spriteReference = gatherable03_f006
+gatherable_18.constructionMinutes = 0
+gatherable_18.sizeU = 2
+gatherable_18.sizeV = 2
+gatherable_18.moveable = FALSE
+gatherable_18.gatherableCategory = 3
+gatherable_18.destroyCost = 30
+gatherable_18.destroyRewards = TradeType_1&IdInType_3&Amount_15
+
+gatherable_19.type = gatherable
+gatherable_19.stringReference = GatherableGarbage1
+gatherable_19.spriteReference = gatherable04_f001
+gatherable_19.constructionMinutes = 0
+gatherable_19.sizeU = 1
+gatherable_19.sizeV = 1
+gatherable_19.moveable = FALSE
+gatherable_19.gatherableCategory = 4
+gatherable_19.destroyCost = 8
+gatherable_19.destroyRewards = TradeType_1&IdInType_2&Amount_2|TradeType_1&IdInType_3&Amount_2
+
+gatherable_20.type = gatherable
+gatherable_20.stringReference = GatherableGarbage2
+gatherable_20.spriteReference = gatherable04_f002
+gatherable_20.constructionMinutes = 0
+gatherable_20.sizeU = 1
+gatherable_20.sizeV = 1
+gatherable_20.moveable = FALSE
+gatherable_20.gatherableCategory = 4
+gatherable_20.destroyCost = 8
+gatherable_20.destroyRewards = TradeType_1&IdInType_2&Amount_4
+
+gatherable_21.type = gatherable
+gatherable_21.stringReference = GatherableGarbage3
+gatherable_21.spriteReference = gatherable04_f003
+gatherable_21.constructionMinutes = 0
+gatherable_21.sizeU = 1
+gatherable_21.sizeV = 1
+gatherable_21.moveable = FALSE
+gatherable_21.gatherableCategory = 4
+gatherable_21.destroyCost = 8
+gatherable_21.destroyRewards = TradeType_1&IdInType_2&Amount_2|TradeType_1&IdInType_1&Amount_2
+
+gatherable_22.type = gatherable
+gatherable_22.stringReference = GatherableGarbage4
+gatherable_22.spriteReference = gatherable04_f004
+gatherable_22.constructionMinutes = 0
+gatherable_22.sizeU = 1
+gatherable_22.sizeV = 1
+gatherable_22.moveable = FALSE
+gatherable_22.gatherableCategory = 4
+gatherable_22.destroyCost = 10
+gatherable_22.destroyRewards = TradeType_1&IdInType_1&Amount_5
+
+##### FENCE GATHERABLE buildingconfig #####
+
+fence.type = gatherable
+fence.stringReference = fence
+fence.spriteReference = fence_1
+fence.constructionMinutes = 0
+fence.sizeU = 1
+fence.sizeV = 1
+fence.moveable = FALSE
+fence.gatherableCategory = 7
+
+##### END FENCE GATHERABLE buildingconfig #####
+
+##### Item Bonus GATHERABLE buildingconfig #####
+
+paddle.type = gatherable
+paddle.stringReference = paddle
+paddle.spriteReference = paddle_1
+paddle.constructionMinutes = 0
+paddle.sizeU = 1
+paddle.sizeV = 1
+paddle.moveable = FALSE
+paddle.gatherableCategory = 5
+paddle.destroyCost = 0
+paddle.destroyRewards = TradeType_1&IdInType_80&Amount_1
+
+anchor.type = gatherable
+anchor.stringReference = anchor
+anchor.spriteReference = anchor_1
+anchor.constructionMinutes = 0
+anchor.sizeU = 1
+anchor.sizeV = 1
+anchor.moveable = FALSE
+anchor.gatherableCategory = 5
+anchor.destroyCost = 0
+anchor.destroyRewards = TradeType_1&IdInType_81&Amount_1
+
+bridgeropes.type = gatherable
+bridgeropes.stringReference = bridgeropes
+bridgeropes.spriteReference = bridgeropes_1
+bridgeropes.constructionMinutes = 0
+bridgeropes.sizeU = 1
+bridgeropes.sizeV = 1
+bridgeropes.moveable = FALSE
+bridgeropes.gatherableCategory = 5
+bridgeropes.destroyCost = 0
+bridgeropes.destroyRewards = TradeType_1&IdInType_82&Amount_1
+
+flower1.type = gatherable
+flower1.stringReference = flower1
+flower1.spriteReference = flower1_1
+flower1.constructionMinutes = 0
+flower1.sizeU = 1
+flower1.sizeV = 1
+flower1.moveable = FALSE
+flower1.gatherableCategory = 5
+flower1.destroyCost = 0
+flower1.destroyRewards = TradeType_1&IdInType_83&Amount_1
+
+flower2.type = gatherable
+flower2.stringReference = flower2
+flower2.spriteReference = flower2_1
+flower2.constructionMinutes = 0
+flower2.sizeU = 1
+flower2.sizeV = 1
+flower2.moveable = FALSE
+flower2.gatherableCategory = 5
+flower2.destroyCost = 0
+flower2.destroyRewards = TradeType_1&IdInType_84&Amount_1
+
+eggpet.type = gatherable
+eggpet.stringReference = eggpet
+eggpet.spriteReference = eggpet_1
+eggpet.constructionMinutes = 0
+eggpet.sizeU = 1
+eggpet.sizeV = 1
+eggpet.moveable = FALSE
+eggpet.gatherableCategory = 5
+eggpet.destroyCost = 0
+eggpet.destroyRewards = TradeType_1&IdInType_85&Amount_1
+
+oldkey.type = gatherable
+oldkey.stringReference = oldKey
+oldkey.spriteReference = oldKey_1
+oldkey.constructionMinutes = 0
+oldkey.sizeU = 1
+oldkey.sizeV = 1
+oldkey.moveable = FALSE
+oldkey.gatherableCategory = 5
+oldkey.destroyCost = 0
+oldkey.destroyRewards = TradeType_1&IdInType_86&Amount_1
+
+rubbishracket.type = gatherable
+rubbishracket.stringReference = rubbishracket
+rubbishracket.spriteReference = rubbishracket_1
+rubbishracket.constructionMinutes = 0
+rubbishracket.sizeU = 1
+rubbishracket.sizeV = 1
+rubbishracket.moveable = FALSE
+rubbishracket.gatherableCategory = 5
+rubbishracket.destroyCost = 0
+rubbishracket.destroyRewards = TradeType_1&IdInType_87&Amount_1
+
+##### EMD Item Bonus GATHERABLE buildingconfig #####
+
+##### Item Bonus Currency item received frrom gatherabe item #####
+
+key.type = ItemBonus
+key.name = Key
+
+shovel.type = ItemBonus
+shovel.name = Shovel
+
+pickaxe.type = ItemBonus
+pickaxe.name = Pickaxe
+
+saw.type = ItemBonus
+saw.name = Saw
+
+paddleitem.type = ItemBonus
+paddleitem.name = Paddle
+
+anchoritem.type = ItemBonus
+anchoritem.name = Anchor
+
+bridgeropesitem.type = ItemBonus
+bridgeropesitem.name = Bridge Ropes
+
+flower1item.type = ItemBonus
+flower1item.name = Flower1
+
+flower2item.type = ItemBonus
+flower2item.name = Flower2
+
+eggpetitem.type = ItemBonus
+eggpetitem.name = Egg Pet
+
+oldKeyitem.type = ItemBonus
+oldKeyitem.name = Old Key
+
+rubbishracketitem.type = ItemBonus
+rubbishracketitem.name = Rubbish Racket
+
+##### End Item Bonus Currency #####

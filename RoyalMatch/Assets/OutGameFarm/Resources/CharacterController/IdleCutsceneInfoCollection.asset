@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01954e0fa26f55a4eac1a6d45d6be05c, type: 3}
+  m_Name: IdleCutsceneInfoCollection
+  m_EditorClassIdentifier: 
+  IdleCutscenes:
+  - Name: CharacterMove
+    UnityId: 0
+    CutsceneUnityId: 0
+    Conditions:
+    - Type: 3
+      IdInType: 0
+      Value: 0
+    Requirements: []
+    Weight: 0
+    Priority: 1
+  - Name: CharacterCollect
+    UnityId: 1
+    CutsceneUnityId: 1
+    Conditions:
+    - Type: 1
+      IdInType: 0
+      Value: 0
+    Requirements: []
+    Weight: 0
+    Priority: 100

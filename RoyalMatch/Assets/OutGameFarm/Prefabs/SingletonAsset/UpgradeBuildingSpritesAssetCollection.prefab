@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &219537119933508276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8455137267189062206}
+  - component: {fileID: 5021865333825429090}
+  m_Layer: 0
+  m_Name: UpgradeBuildingSpritesAssetCollection
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8455137267189062206
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 219537119933508276}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5021865333825429090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 219537119933508276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5523e17767c115243806e61d7a58d016, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _assets:
+  - _key: warehouse_base_f001
+    _value:
+      listBuildingSprites:
+      - {fileID: -1464861434, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+      - {fileID: 780190114, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+      - {fileID: -1525902665, guid: ccd217303d6e94c40800e5bf34fbba99, type: 3}
+  - _key: Weaver_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: -491940926, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 1677965369, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -178641574, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -755351409, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: Workshop_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 1364270190, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 2067314095, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 284978304, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 758664299, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: Quary_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 100917823, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -511845851, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -445203219, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -539892998, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: FeedFactory_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 1876129375, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -646834408, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -426212103, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -749351054, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: CowShed_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 753491740, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 1893760616, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 1626705309, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 641482642, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: DairyFactory_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: -1059505589, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -754784483, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 84137062, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -2029545006, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: ChickenCoop_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 1759620468, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 1449175017, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -238813630, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 2119035684, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: PigFeed_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 1596558694, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -115726543, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -2102416552, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -395530673, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: GrillFactory_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: -1793152582, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -739304208, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 1900278606, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -380838375, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: BeverageFactory_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 2029656955, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 907106213, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 1690453417, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -1703501517, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: Kitchen_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: -950169716, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -1328729217, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -1525062508, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -1467823222, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: DinnerTable_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: -1009705729, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -1665236689, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -261401666, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 375218345, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: EnergyLake_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 1912433025, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 1914910410, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 732429020, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: 754226391, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: GoldMining_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: -230962644, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -1645770516, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -230962644, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+      - {fileID: -1645770516, guid: 6d73935fc3c8357478cb7c64587915d4, type: 3}
+  - _key: Home_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: b23e1fbebf082c947ae23b97ecac7de6, type: 3}
+      - {fileID: 21300000, guid: eb8ce2ff882813849992dad53f40e248, type: 3}
+  - _key: Windmill_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: c99acb5511855734a9200be71d4b9e13, type: 3}
+      - {fileID: 21300000, guid: 66d488265142ce74e8a956748d681ea7, type: 3}
+  - _key: HotSpring_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: 07733f1321a9d3a43be392bba3ebb70f, type: 3}
+      - {fileID: 21300000, guid: 9303de9a210afc94f9b2d055d6049ad4, type: 3}
+  - _key: Well_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: 0a98a69cfbaf20a40819eab642770114, type: 3}
+      - {fileID: 21300000, guid: b18f3586cb3386e499b52d0e8dcec6f4, type: 3}
+  - _key: LightHouse_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: fd1ee32b9c7e62143b6c5ba5d1b58aca, type: 3}
+      - {fileID: 21300000, guid: d5948a236d890fc4d82a79d7c6e43453, type: 3}
+  - _key: Park_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: 5fdf1b86e2d04204082dafc27f1fa908, type: 3}
+      - {fileID: 21300000, guid: a5744592f40ebf343a91a3d09b25388d, type: 3}
+  - _key: WaterFountainA_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: 1956f924b0ea43e42be74b7c66998ffc, type: 3}
+      - {fileID: 21300000, guid: 3969608c207fd8b49a0b18f4686549ce, type: 3}
+  - _key: WaterFountainB_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: 1956f924b0ea43e42be74b7c66998ffc, type: 3}
+      - {fileID: 21300000, guid: 3969608c207fd8b49a0b18f4686549ce, type: 3}
+  - _key: Boat_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: 5a731d74042733740b003674e3a1be11, type: 3}
+      - {fileID: 21300000, guid: 9a509e30a7665604bbbfea3fbc5196ee, type: 3}
+  - _key: StatueA_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: 0a98a69cfbaf20a40819eab642770114, type: 3}
+      - {fileID: 21300000, guid: b18f3586cb3386e499b52d0e8dcec6f4, type: 3}
+  - _key: StatueB_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: 0a98a69cfbaf20a40819eab642770114, type: 3}
+      - {fileID: 21300000, guid: b18f3586cb3386e499b52d0e8dcec6f4, type: 3}
+  - _key: GardenFlowerA_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: c4bf889ef5669304fbe6fb22ddc70e07, type: 3}
+      - {fileID: 21300000, guid: bb3afdcd7ad148544af62b5c228cfabf, type: 3}
+  - _key: GardenFlowerB_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: c4bf889ef5669304fbe6fb22ddc70e07, type: 3}
+      - {fileID: 21300000, guid: bb3afdcd7ad148544af62b5c228cfabf, type: 3}
+  - _key: SmallPond_Sprites
+    _value:
+      listBuildingSprites:
+      - {fileID: 21300000, guid: 49bd5239d5db53345878ad075f53108e, type: 3}
+      - {fileID: 21300000, guid: 5733f4b91fb8bc94f93f8be6450e4fa8, type: 3}

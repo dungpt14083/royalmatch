@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.DefaultCompany.RoyalMatch",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 17,
+        "versionName": "1.3",
+        "outputFile": "launcher-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "resources-debug.ap_",
+      "properties": {
+        "packageId": "com.DefaultCompany.RoyalMatch",
+        "split": "",
+        "minSdkVersion": "22"
+      }
+    }
+  ]
+}
